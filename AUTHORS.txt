@@ -1,0 +1,13 @@
+Original typeface contributions:
+Instrument Serif Project Authors. original Instrument Serif and Latin outlines.
+https://github.com/Instrument/instrument-serif
+Cormorant Project Authors. source Bulgarian Cyrillic forms in Cormorant Garamond.
+https://github.com/CatharsisFonts/Cormorant
+
+Cyrillic adaptation by Spasov Type.
+Stiliyan Spasov · Spasov Type. Bulgarian Cyrillic adaptation, proportions,
+italic slant, Cyrillic spacing, accented-letter composition and paired styles.
+Portfolio: https://www.stiliyanspasov.com/
+
+The original authors retain their copyright. Their names acknowledge source
+contributions and do not imply approval or endorsement of this adaptation.
