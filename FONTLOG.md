@@ -1,5 +1,14 @@
 # Lirena font history
 
+## Regular 0.500 / release v0.5.0 — 2026-10-05
+
+Full Bulgarian alphabet review: refine 38 additional Regular outlines, including
+all distinct capitals and remaining inconsistent lowercase/accents. 41 cumulative
+changes since 0.300. Native Instrument Serif components align contrast, terminals,
+widths and extenders; preserve Latin and shared Cyrillic forms. Add 28 Cyrillic
+pair adjustments. Italic is byte-identical 0.300. Actual proofs and validation are
+in specimens/full-refinement. Compact package still contains eight files.
+
 ## Regular 0.400 / release v0.4.0 — 2026-10-05
 
 Refine Bulgarian в, ж and к in Regular: 740-unit ascender rhythm, local stem and

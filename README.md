@@ -6,12 +6,16 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 [Try the typeface](https://spasovtype.com/) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
 
-## Regular refinement — release 0.4.0
+## Full Regular refinement — release 0.5.0
 
-Regular 0.400 refines **в, ж and к** while preserving Latin and the remaining
-glyphs. Italic remains the original version 0.300. [Actual before/after and
-validation notes](specimens/regular-refinement/notes.md). The download contains
-eight files: two TTFs, two WOFF2s, web CSS, README/credits and both OFL licenses.
+All 62 Bulgarian letter codepoints are reviewed in both styles. Regular 0.500
+refines the distinct Cyrillic capitals, lowercase and accents: 41 changed outlines
+since 0.300, including 20 capitals and 21 lowercase. Original Latin and shared
+Latin-derived Cyrillic forms are preserved. Italic remains the original 0.300.
+[Actual comparisons, change notes and validation](specimens/full-refinement/notes.md).
+The download contains eight files: two TTFs, two WOFF2s, web CSS, README/credits
+and both original OFL licenses. Latin a and Cyrillic а are identical within each
+style: double-storey in Regular, single-storey in Italic.
 
 ## Regular
 
@@ -55,7 +59,7 @@ Lirena is the new name of the project previously published as Instrument Serif C
 This independent adaptation is based on **Instrument Serif** and **Cormorant Garamond**. It is not an official release of either original project.
 
 - Instrument Serif's original Latin outlines and spacing are preserved. Shared Cyrillic forms reuse those outlines, including Latin **m** adapted as Bulgarian **т**.
-- Distinct Bulgarian forms, including **д** and **ж**, use Cormorant Garamond's Bulgarian forms, adapted to Instrument Serif's proportions.
+- The initial distinct Bulgarian forms use Cormorant Garamond as their source. Regular 0.500 retains and refines their Bulgarian identity, rebuilding many forms with Instrument Serif’s native stems, bowls, diagonals and terminals.
 - The Cyrillic work includes proportion matching, italic slant adjustment, Cyrillic spacing, accented-letter composition and shared vertical metrics for the two styles.
 
 Intended for titles and short editorial passages. Test your intended text and rendering environment before use.
