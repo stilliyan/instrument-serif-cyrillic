@@ -4,7 +4,7 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 **Cyrillic adaptation by Stiliyan Spasov / Spasov Type.**
 
-[Try the typeface](https://www.stiliyanspasov.com/instrument-serif-cyrillic) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
+[Try the typeface](https://spasovtype.com/) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
 
 ## Regular
 
@@ -52,6 +52,20 @@ This independent adaptation is based on **Instrument Serif** and **Cormorant Gar
 - The Cyrillic work includes proportion matching, italic slant adjustment, Cyrillic spacing, accented-letter composition and shared vertical metrics for the two styles.
 
 Intended for titles and short editorial passages. Test your intended text and rendering environment before use.
+
+## Website
+
+The interactive specimen is at [spasovtype.com](https://spasovtype.com/).
+Its complete source is in [`website/`](website/), including the HTML, CSS,
+JavaScript, fonts, glyph comparison assets and downloadable font package.
+
+```sh
+cd website
+npm start
+```
+
+Open http://127.0.0.1:3040/. See [the website README](website/README.md) for
+hosting settings.
 
 ## Rebuild the adaptation
 
