@@ -108,12 +108,12 @@ main p:not(.serif),footer p,.caption{font-family:var(--paragraph-font);font-weig
 .adaptation-notes summary::-webkit-details-marker{display:none}
 .adaptation-notes summary::before{content:"";display:block;flex-shrink:0;width:0;height:0;border-top:5px solid transparent;border-bottom:5px solid transparent;border-left:7px solid currentColor}
 .adaptation-notes[open] summary::before{transform:rotate(90deg)}
-.adaptation-table{margin:0 0 24px;background:#1d1d1b;padding:12px 24px;color:var(--fg)}
-.adaptation-table>div{display:grid;grid-template-columns:minmax(140px,24%) minmax(0,1fr);gap:28px;padding-block:15px}
+.adaptation-table{margin:0 0 24px;background:transparent;padding:0;color:var(--fg);text-align:left}
+.adaptation-table>div{display:grid;grid-template-columns:1fr;gap:8px;padding-block:16px}
 .adaptation-table>div+div{border-top:1px solid var(--rule)}
 .adaptation-table dt{margin:0;font-size:16px;line-height:1.6;color:var(--muted)}
 .adaptation-table dd{margin:0;font-size:16px;line-height:1.6}
-@media(max-width:760px){.adaptation-notes summary{font-size:16px;padding-block:18px}.adaptation-table{padding:6px 18px;margin-bottom:18px}.adaptation-table>div{grid-template-columns:1fr;gap:6px;padding-block:16px}}
+@media(max-width:760px){.adaptation-notes summary{font-size:16px;padding-block:18px}.adaptation-table{padding:0;margin-bottom:24px}.adaptation-table>div{grid-template-columns:1fr;gap:8px;padding-block:16px}}
 
 /* Pixel chevrons mark both footer links back to the beginning. */
 footer .wordmark,footer .back-top{display:inline-flex;align-items:center;gap:10px}
