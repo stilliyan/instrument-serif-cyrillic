@@ -6,7 +6,13 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 [Try the typeface](https://www.stiliyanspasov.com/instrument-serif-cyrillic) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/instrument-serif-cyrillic/releases/latest)
 
-![Regular and Italic Bulgarian ж](specimens/regular-italic.png)
+## Regular
+
+![Regular Bulgarian alphabet, numerals and symbols](specimens/regular-alphabet.png)
+
+## Italic
+
+![Italic Bulgarian alphabet, numerals and symbols](specimens/italic-alphabet.png)
 
 ## Styles and formats
 
