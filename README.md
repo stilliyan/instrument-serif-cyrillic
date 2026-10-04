@@ -1,10 +1,10 @@
-# Instrument Serif Cyrillic
+# Lirena
 
 Bulgarian Cyrillic adaptation of Instrument Serif.
 
 **Cyrillic adaptation by Stiliyan Spasov / Spasov Type.**
 
-[Try the typeface](https://www.stiliyanspasov.com/instrument-serif-cyrillic) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/instrument-serif-cyrillic/releases/latest)
+[Try the typeface](https://www.stiliyanspasov.com/instrument-serif-cyrillic) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
 
 ## Regular
 
@@ -21,7 +21,7 @@ Includes the Bulgarian uppercase and lowercase alphabet, Й/й and Ѝ/ѝ, alongs
 
 ## Desktop installation
 
-Install `fonts/InstrumentSerifCyrillic-Regular.ttf` and `fonts/InstrumentSerifCyrillic-Italic.ttf` using your operating system's font installer. Select **Instrument Serif Cyrillic**, then Regular or Italic. Restart applications that cache their font lists.
+Install `fonts/Lirena-Regular.ttf` and `fonts/Lirena-Italic.ttf` using your operating system's font installer. Select **Lirena**, then Regular or Italic. Restart applications that cache their font lists.
 
 ## Web use
 
@@ -34,7 +34,7 @@ Keep both WOFF2 files beside `fonts.css`, then load the stylesheet:
 
 ```css
 .specimen {
-  font-family: 'Instrument Serif Cyrillic', serif;
+  font-family: 'Lirena', serif;
   font-weight: 400;
   font-synthesis: none;
 }
@@ -42,6 +42,8 @@ Keep both WOFF2 files beside `fonts.css`, then load the stylesheet:
 ```
 
 ## Sources and adaptation
+
+Lirena is the new name of the project previously published as Instrument Serif Cyrillic. The new name identifies the independent adaptation; it does not change the original authorship of Instrument Serif or Cormorant Garamond.
 
 This independent adaptation is based on **Instrument Serif** and **Cormorant Garamond**. It is not an official release of either original project.
 
@@ -66,8 +68,8 @@ Rebuilt fonts are written to `build/`; the published files in `fonts/` are left 
 
 ## Credits and licenses
 
-- Copyright 2022 The Instrument Serif Project Authors. [Instrument Serif](https://github.com/Instrument/instrument-serif). Original Instrument Serif design and Latin outlines.
-- Copyright 2015 the Cormorant Project Authors. [Cormorant](https://github.com/CatharsisFonts/Cormorant). Source Bulgarian forms from Cormorant Garamond.
+- Copyright 2022 The Instrument Serif Project Authors. [Instrument Serif](https://github.com/Instrument/instrument-serif). Original Instrument Serif design and Latin outlines. Designed by Rodrigo Fuenzalida, with direction from Jordan Egstad, JD Hooge and Jack De Caluwé on behalf of Instrument.
+- Copyright 2015 the Cormorant Project Authors. [Cormorant](https://github.com/CatharsisFonts/Cormorant). Source Bulgarian forms from Cormorant Garamond, designed by Christian Thalmann / Catharsis Fonts.
 - Cyrillic adaptation by **Stiliyan Spasov / Spasov Type**. Bulgarian Cyrillic proportions, italic slant, spacing and paired styles.
 
 All included font software, including the source fonts, is distributed under the **SIL Open Font License 1.1**. Both original licenses and copyright notices are included unchanged in `licenses/`. See [AUTHORS.txt](AUTHORS.txt) for attribution. Original authors retain their copyright; credit does not imply their approval or endorsement. No paid or exclusive license is added.

@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT/'sources'
 OUT = ROOT/'build'
 OUT.mkdir(exist_ok=True)
-FAMILY = 'Instrument Serif Cyrillic'
+FAMILY = 'Lirena'
 LOW = 'абвгдежзийклмнопрстуфхцчшщъьюяѝ'
 CYR = LOW + LOW.upper()
 ALIASES = {'а':'a','е':'e','и':'u','о':'o','п':'n','р':'p','с':'c','т':'m','у':'y','х':'x',
@@ -109,7 +109,7 @@ addOpenTypeFeaturesFromString(regular,fea)
 regular['GPOS'] = merge_layout(old_gpos,regular['GPOS'])
 regular['GSUB'],regular['GDEF'] = old_gsub,old_gdef
 
-italic_path = ROOT/'build/InstrumentSerifCyrillic-Italic.ttf'
+italic_path = ROOT/'build/Lirena-Italic.ttf'
 italic = TTFont(italic_path)
 if 'GDEF' not in italic:
     italic['GDEF'] = deepcopy(TTFont(SRC/'InstrumentSerif-Italic.ttf')['GDEF'])
@@ -140,8 +140,8 @@ for font in fonts.values():
         win_ascent,win_descent = max(win_ascent,glyph.yMax),max(win_descent,-glyph.yMin)
 
 for style,font in fonts.items():
-    names = {1:FAMILY,2:style,3:f'{FAMILY} {style} 0.200',4:f'{FAMILY} {style}',5:'Version 0.200',
-             6:f'InstrumentSerifCyrillic-{style}',16:FAMILY,17:style}
+    names = {1:FAMILY,2:style,3:f'{FAMILY} {style} 0.300',4:f'{FAMILY} {style}',5:'Version 0.300',
+             6:f'Lirena-{style}',16:FAMILY,17:style}
     for nid,value in names.items():
         font['name'].removeNames(nameID=nid)
         font['name'].setName(value,nid,3,1,0x409)
@@ -161,7 +161,7 @@ for style,font in fonts.items():
     font['OS/2'].usWinAscent,font['OS/2'].usWinDescent = win_ascent,win_descent
     if 'DSIG' in font: del font['DSIG']
     font.flavor = None
-    path = OUT/f'InstrumentSerifCyrillic-{style}.ttf'; font.save(path)
+    path = OUT/f'Lirena-{style}.ttf'; font.save(path)
     check = TTFont(path)
     assert all(ord(c) in check.getBestCmap() for c in CYR)
     check.flavor = 'woff2'; check.save(path.with_suffix('.woff2'))

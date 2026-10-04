@@ -93,8 +93,8 @@ for script in old.ScriptList.ScriptRecord:
             if lang.ReqFeatureIndex!=0xFFFF:lang.ReqFeatureIndex=remap[lang.ReqFeatureIndex]
 font['GPOS']=old_gpos;font['GSUB']=old_gsub
 
-FAMILY='Instrument Serif Cyrillic'
-names={1:FAMILY,2:'Italic',3:FAMILY+' Italic 0.100',4:FAMILY+' Italic',5:'Version 0.100',6:'InstrumentSerifCyrillic-Italic',16:FAMILY,17:'Italic'}
+FAMILY='Lirena'
+names={1:FAMILY,2:'Italic',3:FAMILY+' Italic 0.100',4:FAMILY+' Italic',5:'Version 0.100',6:'Lirena-Italic',16:FAMILY,17:'Italic'}
 for id,value in names.items():
     font['name'].removeNames(nameID=id)
     font['name'].setName(value,id,3,1,0x409);font['name'].setName(value,id,1,0,0)
@@ -109,7 +109,7 @@ for tag in ['DSIG']:
 for name in created.values():font['glyf'][name].recalcBounds(font['glyf'])
 font['OS/2'].usWinAscent=max(font['OS/2'].usWinAscent,max(font['glyf'][n].yMax for n in created.values()))
 font['OS/2'].usWinDescent=max(font['OS/2'].usWinDescent,-min(font['glyf'][n].yMin for n in created.values()))
-outfile=OUT/'InstrumentSerifCyrillic-Italic.ttf';font.save(outfile)
+outfile=OUT/'Lirena-Italic.ttf';font.save(outfile)
 check=TTFont(outfile);c=check.getBestCmap();assert all(ord(x) in c for x in CYR)
 check_gs=check.getGlyphSet();orig_gs=original.getGlyphSet()
 for name in original.getGlyphOrder():
