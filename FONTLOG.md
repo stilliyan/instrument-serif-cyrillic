@@ -1,5 +1,13 @@
 # Lirena font history
 
+## Regular 0.400 / release v0.4.0 — 2026-10-05
+
+Refine Bulgarian в, ж and к in Regular: 740-unit ascender rhythm, local stem and
+join corrections, and small ж/к spacing adjustments. Resolve existing в contour
+self-crossings. Latin and all other outlines remain unchanged. Italic stays the
+original version 0.300. Compact download contains eight files: TTF, WOFF2, CSS,
+README with credits, and both original OFL licenses.
+
 ## 0.300 / v0.3.0 — 2026-10-04
 
 The independent adaptation is renamed from Instrument Serif Cyrillic to Lirena.

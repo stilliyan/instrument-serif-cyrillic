@@ -6,6 +6,13 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 [Try the typeface](https://spasovtype.com/) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
 
+## Regular refinement — release 0.4.0
+
+Regular 0.400 refines **в, ж and к** while preserving Latin and the remaining
+glyphs. Italic remains the original version 0.300. [Actual before/after and
+validation notes](specimens/regular-refinement/notes.md). The download contains
+eight files: two TTFs, two WOFF2s, web CSS, README/credits and both OFL licenses.
+
 ## Regular
 
 ![Regular Bulgarian alphabet, numerals and symbols](specimens/regular-alphabet.png)
