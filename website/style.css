@@ -396,3 +396,9 @@ body{background:var(--bg);min-height:100svh}
  .credit-link:hover .credit-trailing{transform:translateX(20px);opacity:0}
 }
 @media(prefers-reduced-motion:reduce){.credit-copy,.credit-leading,.credit-trailing{transition:none}}
+
+/* License links brighten on hover and keyboard focus. */
+.license-links a{transition:color 160ms ease}
+.license-links a:focus-visible{color:#fff}
+@media(hover:hover) and (pointer:fine){.license-links a:hover{color:#fff}}
+@media(prefers-reduced-motion:reduce){.license-links a{transition:none}}
