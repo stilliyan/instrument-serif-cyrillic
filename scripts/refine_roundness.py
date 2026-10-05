@@ -1,4 +1,4 @@
-"""Regular 0.550: redraw the hard-sign bowl and balance the phi footer."""
+"""Regular 0.551: redraw the hard-sign bowl and balance the phi footer."""
 import pathops
 from copy import deepcopy
 from fontTools.feaLib.builder import addOpenTypeFeaturesFromString
@@ -16,14 +16,14 @@ def refine_roundness(f):
     # 25-unit hairlines; use continuous elliptical quarters at the right turn.
     pen.moveTo((27,0));pen.lineTo((128,0));pen.curveTo((151,0),(178,-9),(211,-9))
     pen.curveTo((321.46,-9),(411,71.36),(411,170.5))
-    pen.curveTo((411,269.64),(321.46,350),(211,350));pen.lineTo((142,350))
+    pen.curveTo((411,269.64),(321.46,350),(211,350));pen.curveTo((185,350),(164,346),(142,339))
     # Preserve the exact native h head, left stem and left foot from 0.540.
     start=next(i for i,(op,args) in enumerate(rec.value) if op=='lineTo' and args==((142,494),))
     end=next(i for i,(op,args) in enumerate(rec.value[start:],start) if op=='closePath')
     for op,args in rec.value[start:end+1]:getattr(pen,op)(*args)
     # The full counter is rebuilt too: aligned center and horizontal/vertical
     # tangents, with gently rounded returns into the upright at top and bottom.
-    pen.moveTo((142,285));pen.curveTo((142,313),(170,325),(211,325))
+    pen.moveTo((142,285));pen.curveTo((142,306),(181,325),(211,325))
     pen.curveTo((280.04,325),(336,255.83),(336,170.5))
     pen.curveTo((336,85.17),(280.04,16),(211,16))
     pen.curveTo((172,16),(142,30),(142,56));pen.closePath()
@@ -75,6 +75,6 @@ def refine_roundness(f):
         if record.FeatureTag=='kern':
             assert idx not in other;record.Feature.LookupListIndex.extend(indices);record.Feature.LookupCount=len(record.Feature.LookupListIndex)
     for record in f['name'].names:
-        if record.nameID in [3,5]:record.string=({3:'Lirena Regular 0.550',5:'Version 0.550'}[record.nameID]).encode(record.getEncoding())
-    f['head'].fontRevision=.55
-    return {'ц':'Native u flared exit and triangular underside, continuously extended into a 20-unit curved descender with a rounded tip. Original cups, upper stems and advance retained.','щ':'Same native-style flared exit and continuous descender as ц, translated 242 units. Three-stem body and advance retained.','ф':'Replace the asymmetric p descender footer with the exact native l footer, translated to the descender baseline. Keep a 68-unit stem and balance the 202-unit foot around its center; retain bowl, shoulder fillets, head and advance.','ъ':'Redraw the entire outer bowl and counter with aligned centers, continuous round quarters and tangent-matched returns. Remove the baseline corner and skewed lower turn; retain native h head/left stem/foot, 68-unit upright, 75-unit side stroke, 25-unit hairlines and 451-unit advance.'}
+        if record.nameID in [3,5]:record.string=({3:'Lirena Regular 0.551',5:'Version 0.551'}[record.nameID]).encode(record.getEncoding())
+    f['head'].fontRevision=.551
+    return {'ц':'Native u flared exit and triangular underside, continuously extended into a 20-unit curved descender with a rounded tip. Original cups, upper stems and advance retained.','щ':'Same native-style flared exit and continuous descender as ц, translated 242 units. Three-stem body and advance retained.','ф':'Replace the asymmetric p descender footer with the exact native l footer, translated to the descender baseline. Keep a 68-unit stem and balance the 202-unit foot around its center; retain bowl, shoulder fillets, head and advance.','ъ':'Redraw the entire outer bowl and counter with aligned centers, continuous round quarters, curved upper shoulder and tangent-matched returns. Remove the baseline corner and skewed lower turn; retain native h head/left stem/foot, 68-unit upright, 75-unit side stroke, 25-unit hairlines and 451-unit advance.'}

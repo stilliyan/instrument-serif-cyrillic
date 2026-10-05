@@ -1,4 +1,4 @@
-# v0.5.5 — Regular 0.550
+# v0.5.5 — Regular 0.551
 
 Redraw the complete ъ bowl and counter; use the centered native l footer for ф.
 Restore native-style u flares for ц/щ and connect continuous curved descenders,

@@ -8,7 +8,7 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 ## Regular refinement — release 0.5.5
 
-Regular 0.550 redraws the entire rounded bowl and counter of ъ, with smooth
+Regular 0.551 redraws the entire rounded bowl and counter of ъ, with smooth
 returns to the stem. The lower ф serif uses the centered native l foot. The ц/щ exits
 follow the native u flare and flow into their curved descenders, based on the
 user’s visual proposal. Ten targeted Cyrillic pair corrections provide tail

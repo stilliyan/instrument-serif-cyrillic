@@ -24,4 +24,4 @@ refine_roundness(font)
 font.save(path)
 font.flavor = 'woff2'
 font.save(path.with_suffix('.woff2'))
-print('Built refined Regular 0.550 and original Italic 0.300 in build/.')
+print('Built refined Regular 0.551 and original Italic 0.300 in build/.')

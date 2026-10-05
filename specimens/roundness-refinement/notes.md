@@ -1,17 +1,19 @@
-# Regular 0.550 — round bowls and native-style exits
+# Regular 0.551 — round bowls and native-style exits
 
 The user asked for the complete round turn of ъ, a balanced lower serif for ф,
 and supplied a visual proposal for native u-like flared exits for lowercase
-ц/щ. The before/after sheet compares actual published 0.540 and revised 0.550
+ц/щ. The before/after sheet compares actual published 0.540 and revised 0.551
 exports, with native P, l and u controls at the same em and baseline.
 
 - **ц**: Native u flared exit and triangular underside, continuously extended into a 20-unit curved descender with a rounded tip. Original cups, upper stems and advance retained.
 - **щ**: Same native-style flared exit and continuous descender as ц, translated 242 units. Three-stem body and advance retained.
 - **ф**: Replace the asymmetric p descender footer with the exact native l footer, translated to the descender baseline. Keep a 68-unit stem and balance the 202-unit foot around its center; retain bowl, shoulder fillets, head and advance.
-- **ъ**: Redraw the entire outer bowl and counter with aligned centers, continuous round quarters and tangent-matched returns. Remove the baseline corner and skewed lower turn; retain native h head/left stem/foot, 68-unit upright, 75-unit side stroke, 25-unit hairlines and 451-unit advance.
+- **ъ**: Redraw the entire outer bowl and counter with aligned centers, continuous round quarters, curved upper shoulder and tangent-matched returns. Remove the baseline corner and skewed lower turn; retain native h head/left stem/foot, 68-unit upright, 75-unit side stroke, 25-unit hairlines and 451-unit advance.
 
 The entire ъ bowl and counter are redrawn with smooth elliptical quarters,
-aligned centers at y=170.5 and rounded returns to the upright. The 75-unit side
+aligned centers at y=170.5 and rounded returns to the upright. The upper
+outer shoulder is curved into the stem, and the inner shoulder follows a
+matching smooth arch rather than a flat entry. The 75-unit side
 stroke and 25-unit top/bottom hairlines follow native P's contrast. The native
 h head, 68-unit upright and left foot are retained. A horizontal tangent blends
 the outer left foot into the bowl, removing the abrupt baseline corner.
