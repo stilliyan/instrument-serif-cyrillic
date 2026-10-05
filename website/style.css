@@ -382,3 +382,17 @@ body{background:var(--bg);min-height:100svh}
 
 /* Separate the license line from the source credits. */
 #download .license-links{margin-top:64px}
+
+/* Credit links exchange the trailing arrow for a leading arrow. */
+.credits-grid a.credit-link{position:relative;overflow:hidden;gap:8px;text-decoration:none}
+.credit-copy,.credit-leading,.credit-trailing{transition:transform 200ms cubic-bezier(.23,1,.32,1),opacity 200ms cubic-bezier(.23,1,.32,1)}
+.credit-copy{display:block}
+.credit-leading{position:absolute;left:0;display:flex;align-items:center;transform:translateX(-20px);opacity:0}
+.credit-trailing{display:flex;align-items:center}
+@media(hover:hover) and (pointer:fine){
+ .credits-grid a.credit-link:hover{text-decoration:none}
+ .credit-link:hover .credit-copy{transform:translateX(20px)}
+ .credit-link:hover .credit-leading{transform:translateX(0);opacity:1}
+ .credit-link:hover .credit-trailing{transform:translateX(20px);opacity:0}
+}
+@media(prefers-reduced-motion:reduce){.credit-copy,.credit-leading,.credit-trailing{transition:none}}
