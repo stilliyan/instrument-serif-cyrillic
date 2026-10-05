@@ -6,7 +6,7 @@ Bulgarian Cyrillic adaptation of Instrument Serif by **Stiliyan Spasov / Spasov 
 
 [Try Lirena](https://spasovtype.com/) · [Download](https://github.com/stilliyan/lirena/releases/latest)
 
-![Lirena Regular and Italic](specimens/regular-italic.png)
+![Lirena Bulgarian Cyrillic — Regular and Italic](specimens/lirena-cyrillic.gif)
 
 ## Use
 
