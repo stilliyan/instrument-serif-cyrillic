@@ -1,0 +1,6729 @@
+[
+  {
+    "pair": "аа",
+    "delta": 0,
+    "before_body_gap": 153.49,
+    "native_reference": "aa",
+    "native_body_gap": 153.49
+  },
+  {
+    "pair": "аб",
+    "delta": 4,
+    "before_body_gap": 119.47,
+    "native_reference": "ab",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "ав",
+    "delta": 3,
+    "before_body_gap": 120.11,
+    "native_reference": "ab",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "аг",
+    "delta": -9,
+    "before_body_gap": 169.59,
+    "native_reference": "ar",
+    "native_body_gap": 141.17
+  },
+  {
+    "pair": "ад",
+    "delta": 3,
+    "before_body_gap": 129.41,
+    "native_reference": "ag",
+    "native_body_gap": 139.86
+  },
+  {
+    "pair": "ае",
+    "delta": 0,
+    "before_body_gap": 128.75,
+    "native_reference": "ae",
+    "native_body_gap": 128.75
+  },
+  {
+    "pair": "аж",
+    "delta": -24,
+    "before_body_gap": 232.37,
+    "native_reference": "ax",
+    "native_body_gap": 153.02
+  },
+  {
+    "pair": "аз",
+    "delta": -24,
+    "before_body_gap": 271.5,
+    "native_reference": "as",
+    "native_body_gap": 140.15
+  },
+  {
+    "pair": "аи",
+    "delta": 0,
+    "before_body_gap": 140.33,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "ай",
+    "delta": 0,
+    "before_body_gap": 140.33,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "ак",
+    "delta": 0,
+    "before_body_gap": 141.2,
+    "native_reference": "ak",
+    "native_body_gap": 141.2
+  },
+  {
+    "pair": "ал",
+    "delta": -17,
+    "before_body_gap": 210.71,
+    "native_reference": "av",
+    "native_body_gap": 155.29
+  },
+  {
+    "pair": "ам",
+    "delta": -3,
+    "before_body_gap": 162.16,
+    "native_reference": "aw",
+    "native_body_gap": 151.08
+  },
+  {
+    "pair": "ан",
+    "delta": 0,
+    "before_body_gap": 137.47,
+    "native_reference": "ah",
+    "native_body_gap": 141.2
+  },
+  {
+    "pair": "ао",
+    "delta": 0,
+    "before_body_gap": 131.75,
+    "native_reference": "ao",
+    "native_body_gap": 131.75
+  },
+  {
+    "pair": "ап",
+    "delta": 0,
+    "before_body_gap": 141.45,
+    "native_reference": "an",
+    "native_body_gap": 141.45
+  },
+  {
+    "pair": "ар",
+    "delta": 0,
+    "before_body_gap": 143.25,
+    "native_reference": "ap",
+    "native_body_gap": 143.25
+  },
+  {
+    "pair": "ас",
+    "delta": 0,
+    "before_body_gap": 129.0,
+    "native_reference": "ac",
+    "native_body_gap": 129.0
+  },
+  {
+    "pair": "ат",
+    "delta": 0,
+    "before_body_gap": 141.43,
+    "native_reference": "am",
+    "native_body_gap": 141.43
+  },
+  {
+    "pair": "ау",
+    "delta": 0,
+    "before_body_gap": 156.75,
+    "native_reference": "ay",
+    "native_body_gap": 156.75
+  },
+  {
+    "pair": "аф",
+    "delta": 0,
+    "before_body_gap": 134.13,
+    "native_reference": "ao",
+    "native_body_gap": 131.75
+  },
+  {
+    "pair": "ах",
+    "delta": 0,
+    "before_body_gap": 158.2,
+    "native_reference": "ax",
+    "native_body_gap": 153.02
+  },
+  {
+    "pair": "ац",
+    "delta": 0,
+    "before_body_gap": 140.33,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "ач",
+    "delta": -24,
+    "before_body_gap": 236.2,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "аш",
+    "delta": 0,
+    "before_body_gap": 140.33,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "ащ",
+    "delta": 0,
+    "before_body_gap": 140.33,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "аъ",
+    "delta": 0,
+    "before_body_gap": 133.15,
+    "native_reference": "ab",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "аь",
+    "delta": -3,
+    "before_body_gap": 139.85,
+    "native_reference": "ab",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "аю",
+    "delta": -5,
+    "before_body_gap": 148.11,
+    "native_reference": "ao",
+    "native_body_gap": 131.75
+  },
+  {
+    "pair": "ая",
+    "delta": -13,
+    "before_body_gap": 197.57,
+    "native_reference": "aa",
+    "native_body_gap": 153.49
+  },
+  {
+    "pair": "аѝ",
+    "delta": 0,
+    "before_body_gap": 140.33,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "ба",
+    "delta": 4,
+    "before_body_gap": 146.45,
+    "native_reference": "ba",
+    "native_body_gap": 160.03
+  },
+  {
+    "pair": "бб",
+    "delta": 7,
+    "before_body_gap": 182.79,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "бв",
+    "delta": 9,
+    "before_body_gap": 176.44,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "бг",
+    "delta": -6,
+    "before_body_gap": 164.33,
+    "native_reference": "br",
+    "native_body_gap": 144.67
+  },
+  {
+    "pair": "бд",
+    "delta": 16,
+    "before_body_gap": 122.37,
+    "native_reference": "bg",
+    "native_body_gap": 214.08
+  },
+  {
+    "pair": "бе",
+    "delta": 4,
+    "before_body_gap": 121.7,
+    "native_reference": "be",
+    "native_body_gap": 135.29
+  },
+  {
+    "pair": "бж",
+    "delta": -24,
+    "before_body_gap": 310.03,
+    "native_reference": "bx",
+    "native_body_gap": 150.34
+  },
+  {
+    "pair": "бз",
+    "delta": -24,
+    "before_body_gap": 277.46,
+    "native_reference": "bs",
+    "native_body_gap": 146.7
+  },
+  {
+    "pair": "би",
+    "delta": 4,
+    "before_body_gap": 132.86,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "бй",
+    "delta": -9,
+    "before_body_gap": 176.42,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "бк",
+    "delta": 10,
+    "before_body_gap": 184.35,
+    "native_reference": "bk",
+    "native_body_gap": 216.65
+  },
+  {
+    "pair": "бл",
+    "delta": -4,
+    "before_body_gap": 188.0,
+    "native_reference": "bv",
+    "native_body_gap": 173.72
+  },
+  {
+    "pair": "бм",
+    "delta": 5,
+    "before_body_gap": 153.95,
+    "native_reference": "bw",
+    "native_body_gap": 169.5
+  },
+  {
+    "pair": "бн",
+    "delta": 16,
+    "before_body_gap": 127.29,
+    "native_reference": "bh",
+    "native_body_gap": 216.65
+  },
+  {
+    "pair": "бо",
+    "delta": 4,
+    "before_body_gap": 124.7,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "бп",
+    "delta": 4,
+    "before_body_gap": 131.74,
+    "native_reference": "bn",
+    "native_body_gap": 144.94
+  },
+  {
+    "pair": "бр",
+    "delta": 4,
+    "before_body_gap": 136.2,
+    "native_reference": "bp",
+    "native_body_gap": 149.79
+  },
+  {
+    "pair": "бс",
+    "delta": 4,
+    "before_body_gap": 121.96,
+    "native_reference": "bc",
+    "native_body_gap": 135.55
+  },
+  {
+    "pair": "бт",
+    "delta": 4,
+    "before_body_gap": 131.72,
+    "native_reference": "bm",
+    "native_body_gap": 144.92
+  },
+  {
+    "pair": "бу",
+    "delta": 4,
+    "before_body_gap": 159.29,
+    "native_reference": "by",
+    "native_body_gap": 173.18
+  },
+  {
+    "pair": "бф",
+    "delta": -24,
+    "before_body_gap": 221.22,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "бх",
+    "delta": 3,
+    "before_body_gap": 141.57,
+    "native_reference": "bx",
+    "native_body_gap": 150.34
+  },
+  {
+    "pair": "бц",
+    "delta": 4,
+    "before_body_gap": 132.86,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "бч",
+    "delta": -24,
+    "before_body_gap": 226.02,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "бш",
+    "delta": 4,
+    "before_body_gap": 132.86,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "бщ",
+    "delta": 4,
+    "before_body_gap": 132.86,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "бъ",
+    "delta": 16,
+    "before_body_gap": 124.71,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "бь",
+    "delta": 16,
+    "before_body_gap": 131.42,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "бю",
+    "delta": -16,
+    "before_body_gap": 190.23,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "бя",
+    "delta": -9,
+    "before_body_gap": 189.14,
+    "native_reference": "ba",
+    "native_body_gap": 160.03
+  },
+  {
+    "pair": "бѝ",
+    "delta": -12,
+    "before_body_gap": 187.55,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ва",
+    "delta": 4,
+    "before_body_gap": 146.38,
+    "native_reference": "ba",
+    "native_body_gap": 160.03
+  },
+  {
+    "pair": "вб",
+    "delta": 16,
+    "before_body_gap": 142.03,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "вв",
+    "delta": 16,
+    "before_body_gap": 138.88,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "вг",
+    "delta": -6,
+    "before_body_gap": 163.32,
+    "native_reference": "br",
+    "native_body_gap": 144.67
+  },
+  {
+    "pair": "вд",
+    "delta": 16,
+    "before_body_gap": 122.3,
+    "native_reference": "bg",
+    "native_body_gap": 214.08
+  },
+  {
+    "pair": "ве",
+    "delta": 4,
+    "before_body_gap": 121.63,
+    "native_reference": "be",
+    "native_body_gap": 135.29
+  },
+  {
+    "pair": "вж",
+    "delta": -24,
+    "before_body_gap": 272.18,
+    "native_reference": "bx",
+    "native_body_gap": 150.34
+  },
+  {
+    "pair": "вз",
+    "delta": -24,
+    "before_body_gap": 277.39,
+    "native_reference": "bs",
+    "native_body_gap": 146.7
+  },
+  {
+    "pair": "ви",
+    "delta": 4,
+    "before_body_gap": 132.8,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "вй",
+    "delta": 0,
+    "before_body_gap": 146.62,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "вк",
+    "delta": 16,
+    "before_body_gap": 145.14,
+    "native_reference": "bk",
+    "native_body_gap": 216.65
+  },
+  {
+    "pair": "вл",
+    "delta": -4,
+    "before_body_gap": 187.94,
+    "native_reference": "bv",
+    "native_body_gap": 173.72
+  },
+  {
+    "pair": "вм",
+    "delta": 5,
+    "before_body_gap": 153.87,
+    "native_reference": "bw",
+    "native_body_gap": 169.5
+  },
+  {
+    "pair": "вн",
+    "delta": 16,
+    "before_body_gap": 127.21,
+    "native_reference": "bh",
+    "native_body_gap": 216.65
+  },
+  {
+    "pair": "во",
+    "delta": 4,
+    "before_body_gap": 124.63,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "вп",
+    "delta": 4,
+    "before_body_gap": 131.67,
+    "native_reference": "bn",
+    "native_body_gap": 144.94
+  },
+  {
+    "pair": "вр",
+    "delta": 4,
+    "before_body_gap": 136.13,
+    "native_reference": "bp",
+    "native_body_gap": 149.79
+  },
+  {
+    "pair": "вс",
+    "delta": 4,
+    "before_body_gap": 121.89,
+    "native_reference": "bc",
+    "native_body_gap": 135.55
+  },
+  {
+    "pair": "вт",
+    "delta": 4,
+    "before_body_gap": 131.65,
+    "native_reference": "bm",
+    "native_body_gap": 144.92
+  },
+  {
+    "pair": "ву",
+    "delta": 4,
+    "before_body_gap": 159.22,
+    "native_reference": "by",
+    "native_body_gap": 173.18
+  },
+  {
+    "pair": "вф",
+    "delta": -14,
+    "before_body_gap": 184.32,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "вх",
+    "delta": 3,
+    "before_body_gap": 141.51,
+    "native_reference": "bx",
+    "native_body_gap": 150.34
+  },
+  {
+    "pair": "вц",
+    "delta": 4,
+    "before_body_gap": 132.8,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "вч",
+    "delta": -24,
+    "before_body_gap": 225.95,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "вш",
+    "delta": 4,
+    "before_body_gap": 132.8,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "вщ",
+    "delta": 4,
+    "before_body_gap": 132.8,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "въ",
+    "delta": 16,
+    "before_body_gap": 124.64,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "вь",
+    "delta": 16,
+    "before_body_gap": 131.35,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "вю",
+    "delta": -4,
+    "before_body_gap": 151.55,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "вя",
+    "delta": -9,
+    "before_body_gap": 189.07,
+    "native_reference": "ba",
+    "native_body_gap": 160.03
+  },
+  {
+    "pair": "вѝ",
+    "delta": -5,
+    "before_body_gap": 161.99,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "га",
+    "delta": 3,
+    "before_body_gap": 190.1,
+    "native_reference": "ra",
+    "native_body_gap": 201.34
+  },
+  {
+    "pair": "гб",
+    "delta": 13,
+    "before_body_gap": 153.23,
+    "native_reference": "rb",
+    "native_body_gap": 197.74
+  },
+  {
+    "pair": "гв",
+    "delta": 13,
+    "before_body_gap": 152.85,
+    "native_reference": "rb",
+    "native_body_gap": 197.74
+  },
+  {
+    "pair": "гг",
+    "delta": 0,
+    "before_body_gap": 207.25,
+    "native_reference": "rr",
+    "native_body_gap": 207.32
+  },
+  {
+    "pair": "гд",
+    "delta": 10,
+    "before_body_gap": 166.02,
+    "native_reference": "rg",
+    "native_body_gap": 197.97
+  },
+  {
+    "pair": "ге",
+    "delta": 8,
+    "before_body_gap": 165.35,
+    "native_reference": "re",
+    "native_body_gap": 192.39
+  },
+  {
+    "pair": "гж",
+    "delta": -12,
+    "before_body_gap": 270.46,
+    "native_reference": "rx",
+    "native_body_gap": 230.01
+  },
+  {
+    "pair": "гз",
+    "delta": -24,
+    "before_body_gap": 321.11,
+    "native_reference": "rs",
+    "native_body_gap": 205.66
+  },
+  {
+    "pair": "ги",
+    "delta": 9,
+    "before_body_gap": 178.31,
+    "native_reference": "ru",
+    "native_body_gap": 207.49
+  },
+  {
+    "pair": "гй",
+    "delta": 9,
+    "before_body_gap": 178.31,
+    "native_reference": "ru",
+    "native_body_gap": 207.49
+  },
+  {
+    "pair": "гк",
+    "delta": 9,
+    "before_body_gap": 178.38,
+    "native_reference": "rk",
+    "native_body_gap": 207.36
+  },
+  {
+    "pair": "гл",
+    "delta": 0,
+    "before_body_gap": 233.66,
+    "native_reference": "rv",
+    "native_body_gap": 240.29
+  },
+  {
+    "pair": "гм",
+    "delta": 11,
+    "before_body_gap": 199.25,
+    "native_reference": "rw",
+    "native_body_gap": 236.16
+  },
+  {
+    "pair": "гн",
+    "delta": 10,
+    "before_body_gap": 174.81,
+    "native_reference": "rh",
+    "native_body_gap": 207.36
+  },
+  {
+    "pair": "го",
+    "delta": 8,
+    "before_body_gap": 168.36,
+    "native_reference": "ro",
+    "native_body_gap": 195.22
+  },
+  {
+    "pair": "гп",
+    "delta": 9,
+    "before_body_gap": 177.4,
+    "native_reference": "rn",
+    "native_body_gap": 207.6
+  },
+  {
+    "pair": "гр",
+    "delta": 9,
+    "before_body_gap": 179.86,
+    "native_reference": "rp",
+    "native_body_gap": 209.39
+  },
+  {
+    "pair": "гс",
+    "delta": 8,
+    "before_body_gap": 165.61,
+    "native_reference": "rc",
+    "native_body_gap": 192.91
+  },
+  {
+    "pair": "гт",
+    "delta": 9,
+    "before_body_gap": 177.38,
+    "native_reference": "rm",
+    "native_body_gap": 207.58
+  },
+  {
+    "pair": "гу",
+    "delta": 9,
+    "before_body_gap": 212.73,
+    "native_reference": "ry",
+    "native_body_gap": 242.09
+  },
+  {
+    "pair": "гф",
+    "delta": 7,
+    "before_body_gap": 173.05,
+    "native_reference": "ro",
+    "native_body_gap": 195.22
+  },
+  {
+    "pair": "гх",
+    "delta": 8,
+    "before_body_gap": 204.99,
+    "native_reference": "rx",
+    "native_body_gap": 230.01
+  },
+  {
+    "pair": "гц",
+    "delta": 9,
+    "before_body_gap": 178.31,
+    "native_reference": "ru",
+    "native_body_gap": 207.49
+  },
+  {
+    "pair": "гч",
+    "delta": -20,
+    "before_body_gap": 273.54,
+    "native_reference": "ru",
+    "native_body_gap": 207.49
+  },
+  {
+    "pair": "гш",
+    "delta": 9,
+    "before_body_gap": 178.31,
+    "native_reference": "ru",
+    "native_body_gap": 207.49
+  },
+  {
+    "pair": "гщ",
+    "delta": 9,
+    "before_body_gap": 178.31,
+    "native_reference": "ru",
+    "native_body_gap": 207.49
+  },
+  {
+    "pair": "гъ",
+    "delta": 8,
+    "before_body_gap": 170.93,
+    "native_reference": "rb",
+    "native_body_gap": 197.74
+  },
+  {
+    "pair": "гь",
+    "delta": 6,
+    "before_body_gap": 177.64,
+    "native_reference": "rb",
+    "native_body_gap": 197.74
+  },
+  {
+    "pair": "гю",
+    "delta": 3,
+    "before_body_gap": 185.86,
+    "native_reference": "ro",
+    "native_body_gap": 195.22
+  },
+  {
+    "pair": "гя",
+    "delta": -10,
+    "before_body_gap": 235.36,
+    "native_reference": "ra",
+    "native_body_gap": 201.34
+  },
+  {
+    "pair": "гѝ",
+    "delta": 9,
+    "before_body_gap": 178.31,
+    "native_reference": "ru",
+    "native_body_gap": 207.49
+  },
+  {
+    "pair": "да",
+    "delta": 16,
+    "before_body_gap": 124.41,
+    "native_reference": "ga",
+    "native_body_gap": 185.04
+  },
+  {
+    "pair": "дб",
+    "delta": 16,
+    "before_body_gap": 86.38,
+    "native_reference": "gb",
+    "native_body_gap": 160.5
+  },
+  {
+    "pair": "дв",
+    "delta": 16,
+    "before_body_gap": 86.03,
+    "native_reference": "gb",
+    "native_body_gap": 160.5
+  },
+  {
+    "pair": "дг",
+    "delta": 13,
+    "before_body_gap": 140.51,
+    "native_reference": "gr",
+    "native_body_gap": 184.8
+  },
+  {
+    "pair": "дд",
+    "delta": 14,
+    "before_body_gap": 128.88,
+    "native_reference": "gg",
+    "native_body_gap": 175.86
+  },
+  {
+    "pair": "де",
+    "delta": 16,
+    "before_body_gap": 99.66,
+    "native_reference": "ge",
+    "native_body_gap": 170.29
+  },
+  {
+    "pair": "дж",
+    "delta": 0,
+    "before_body_gap": 203.28,
+    "native_reference": "gx",
+    "native_body_gap": 198.62
+  },
+  {
+    "pair": "дз",
+    "delta": -18,
+    "before_body_gap": 242.06,
+    "native_reference": "gs",
+    "native_body_gap": 181.7
+  },
+  {
+    "pair": "ди",
+    "delta": 16,
+    "before_body_gap": 112.68,
+    "native_reference": "gu",
+    "native_body_gap": 171.77
+  },
+  {
+    "pair": "дй",
+    "delta": 16,
+    "before_body_gap": 112.68,
+    "native_reference": "gu",
+    "native_body_gap": 171.77
+  },
+  {
+    "pair": "дк",
+    "delta": 16,
+    "before_body_gap": 112.11,
+    "native_reference": "gk",
+    "native_body_gap": 172.08
+  },
+  {
+    "pair": "дл",
+    "delta": 10,
+    "before_body_gap": 168.62,
+    "native_reference": "gv",
+    "native_body_gap": 200.73
+  },
+  {
+    "pair": "дм",
+    "delta": 16,
+    "before_body_gap": 133.98,
+    "native_reference": "gw",
+    "native_body_gap": 196.52
+  },
+  {
+    "pair": "дн",
+    "delta": 16,
+    "before_body_gap": 109.84,
+    "native_reference": "gh",
+    "native_body_gap": 172.08
+  },
+  {
+    "pair": "до",
+    "delta": 16,
+    "before_body_gap": 102.66,
+    "native_reference": "go",
+    "native_body_gap": 173.29
+  },
+  {
+    "pair": "дп",
+    "delta": 16,
+    "before_body_gap": 112.35,
+    "native_reference": "gn",
+    "native_body_gap": 185.08
+  },
+  {
+    "pair": "др",
+    "delta": 14,
+    "before_body_gap": 119.29,
+    "native_reference": "gp",
+    "native_body_gap": 165.03
+  },
+  {
+    "pair": "дс",
+    "delta": 16,
+    "before_body_gap": 99.92,
+    "native_reference": "gc",
+    "native_body_gap": 170.55
+  },
+  {
+    "pair": "дт",
+    "delta": 16,
+    "before_body_gap": 112.33,
+    "native_reference": "gm",
+    "native_body_gap": 185.06
+  },
+  {
+    "pair": "ду",
+    "delta": 11,
+    "before_body_gap": 151.11,
+    "native_reference": "gy",
+    "native_body_gap": 188.9
+  },
+  {
+    "pair": "дф",
+    "delta": 7,
+    "before_body_gap": 151.18,
+    "native_reference": "go",
+    "native_body_gap": 173.29
+  },
+  {
+    "pair": "дх",
+    "delta": 16,
+    "before_body_gap": 139.73,
+    "native_reference": "gx",
+    "native_body_gap": 198.62
+  },
+  {
+    "pair": "дц",
+    "delta": -3,
+    "before_body_gap": 181.36,
+    "native_reference": "gu",
+    "native_body_gap": 171.77
+  },
+  {
+    "pair": "дч",
+    "delta": -11,
+    "before_body_gap": 208.57,
+    "native_reference": "gu",
+    "native_body_gap": 171.77
+  },
+  {
+    "pair": "дш",
+    "delta": 16,
+    "before_body_gap": 112.68,
+    "native_reference": "gu",
+    "native_body_gap": 171.77
+  },
+  {
+    "pair": "дщ",
+    "delta": -16,
+    "before_body_gap": 226.73,
+    "native_reference": "gu",
+    "native_body_gap": 171.77
+  },
+  {
+    "pair": "дъ",
+    "delta": 16,
+    "before_body_gap": 105.64,
+    "native_reference": "gb",
+    "native_body_gap": 160.5
+  },
+  {
+    "pair": "дь",
+    "delta": 14,
+    "before_body_gap": 112.35,
+    "native_reference": "gb",
+    "native_body_gap": 160.5
+  },
+  {
+    "pair": "дю",
+    "delta": 16,
+    "before_body_gap": 119.03,
+    "native_reference": "go",
+    "native_body_gap": 173.29
+  },
+  {
+    "pair": "дя",
+    "delta": 4,
+    "before_body_gap": 170.06,
+    "native_reference": "ga",
+    "native_body_gap": 185.04
+  },
+  {
+    "pair": "дѝ",
+    "delta": 16,
+    "before_body_gap": 112.68,
+    "native_reference": "gu",
+    "native_body_gap": 171.77
+  },
+  {
+    "pair": "еа",
+    "delta": 0,
+    "before_body_gap": 175.99,
+    "native_reference": "ea",
+    "native_body_gap": 175.99
+  },
+  {
+    "pair": "еб",
+    "delta": 0,
+    "before_body_gap": 156.97,
+    "native_reference": "eb",
+    "native_body_gap": 153.99
+  },
+  {
+    "pair": "ев",
+    "delta": 0,
+    "before_body_gap": 157.62,
+    "native_reference": "eb",
+    "native_body_gap": 153.99
+  },
+  {
+    "pair": "ег",
+    "delta": -7,
+    "before_body_gap": 187.09,
+    "native_reference": "er",
+    "native_body_gap": 162.64
+  },
+  {
+    "pair": "ед",
+    "delta": 8,
+    "before_body_gap": 144.91,
+    "native_reference": "eg",
+    "native_body_gap": 172.36
+  },
+  {
+    "pair": "ее",
+    "delta": 0,
+    "before_body_gap": 151.25,
+    "native_reference": "ee",
+    "native_body_gap": 151.25
+  },
+  {
+    "pair": "еж",
+    "delta": -21,
+    "before_body_gap": 253.84,
+    "native_reference": "ex",
+    "native_body_gap": 183.24
+  },
+  {
+    "pair": "ез",
+    "delta": -24,
+    "before_body_gap": 307.0,
+    "native_reference": "es",
+    "native_body_gap": 162.65
+  },
+  {
+    "pair": "еи",
+    "delta": 0,
+    "before_body_gap": 163.59,
+    "native_reference": "eu",
+    "native_body_gap": 163.59
+  },
+  {
+    "pair": "ей",
+    "delta": 0,
+    "before_body_gap": 163.59,
+    "native_reference": "eu",
+    "native_body_gap": 163.59
+  },
+  {
+    "pair": "ек",
+    "delta": 0,
+    "before_body_gap": 162.67,
+    "native_reference": "ek",
+    "native_body_gap": 162.67
+  },
+  {
+    "pair": "ел",
+    "delta": -7,
+    "before_body_gap": 219.18,
+    "native_reference": "ev",
+    "native_body_gap": 196.55
+  },
+  {
+    "pair": "ем",
+    "delta": 0,
+    "before_body_gap": 184.64,
+    "native_reference": "ew",
+    "native_body_gap": 192.34
+  },
+  {
+    "pair": "ен",
+    "delta": 0,
+    "before_body_gap": 164.69,
+    "native_reference": "eh",
+    "native_body_gap": 162.67
+  },
+  {
+    "pair": "ео",
+    "delta": 0,
+    "before_body_gap": 154.25,
+    "native_reference": "eo",
+    "native_body_gap": 154.25
+  },
+  {
+    "pair": "еп",
+    "delta": 0,
+    "before_body_gap": 162.91,
+    "native_reference": "en",
+    "native_body_gap": 162.91
+  },
+  {
+    "pair": "ер",
+    "delta": 0,
+    "before_body_gap": 165.75,
+    "native_reference": "ep",
+    "native_body_gap": 165.75
+  },
+  {
+    "pair": "ес",
+    "delta": 0,
+    "before_body_gap": 151.5,
+    "native_reference": "ec",
+    "native_body_gap": 151.5
+  },
+  {
+    "pair": "ет",
+    "delta": 0,
+    "before_body_gap": 162.89,
+    "native_reference": "em",
+    "native_body_gap": 162.89
+  },
+  {
+    "pair": "еу",
+    "delta": 0,
+    "before_body_gap": 198.01,
+    "native_reference": "ey",
+    "native_body_gap": 198.01
+  },
+  {
+    "pair": "еф",
+    "delta": 0,
+    "before_body_gap": 149.63,
+    "native_reference": "eo",
+    "native_body_gap": 154.25
+  },
+  {
+    "pair": "ех",
+    "delta": 0,
+    "before_body_gap": 189.22,
+    "native_reference": "ex",
+    "native_body_gap": 183.24
+  },
+  {
+    "pair": "ец",
+    "delta": 0,
+    "before_body_gap": 163.59,
+    "native_reference": "eu",
+    "native_body_gap": 163.59
+  },
+  {
+    "pair": "еч",
+    "delta": -24,
+    "before_body_gap": 258.42,
+    "native_reference": "eu",
+    "native_body_gap": 163.59
+  },
+  {
+    "pair": "еш",
+    "delta": 0,
+    "before_body_gap": 163.59,
+    "native_reference": "eu",
+    "native_body_gap": 163.59
+  },
+  {
+    "pair": "ещ",
+    "delta": 0,
+    "before_body_gap": 163.59,
+    "native_reference": "eu",
+    "native_body_gap": 163.59
+  },
+  {
+    "pair": "еъ",
+    "delta": 0,
+    "before_body_gap": 156.0,
+    "native_reference": "eb",
+    "native_body_gap": 153.99
+  },
+  {
+    "pair": "еь",
+    "delta": -3,
+    "before_body_gap": 162.71,
+    "native_reference": "eb",
+    "native_body_gap": 153.99
+  },
+  {
+    "pair": "ею",
+    "delta": -5,
+    "before_body_gap": 170.61,
+    "native_reference": "eo",
+    "native_body_gap": 154.25
+  },
+  {
+    "pair": "ея",
+    "delta": -13,
+    "before_body_gap": 220.43,
+    "native_reference": "ea",
+    "native_body_gap": 175.99
+  },
+  {
+    "pair": "еѝ",
+    "delta": 0,
+    "before_body_gap": 163.59,
+    "native_reference": "eu",
+    "native_body_gap": 163.59
+  },
+  {
+    "pair": "жа",
+    "delta": -21,
+    "before_body_gap": 244.95,
+    "native_reference": "xa",
+    "native_body_gap": 175.59
+  },
+  {
+    "pair": "жб",
+    "delta": -24,
+    "before_body_gap": 254.69,
+    "native_reference": "xb",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "жв",
+    "delta": -24,
+    "before_body_gap": 251.54,
+    "native_reference": "xb",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "жг",
+    "delta": -24,
+    "before_body_gap": 261.37,
+    "native_reference": "xr",
+    "native_body_gap": 163.48
+  },
+  {
+    "pair": "жд",
+    "delta": -12,
+    "before_body_gap": 199.06,
+    "native_reference": "xg",
+    "native_body_gap": 158.44
+  },
+  {
+    "pair": "же",
+    "delta": -20,
+    "before_body_gap": 198.0,
+    "native_reference": "xe",
+    "native_body_gap": 132.45
+  },
+  {
+    "pair": "жж",
+    "delta": -24,
+    "before_body_gap": 396.47,
+    "native_reference": "xx",
+    "native_body_gap": 166.43
+  },
+  {
+    "pair": "жз",
+    "delta": -24,
+    "before_body_gap": 374.27,
+    "native_reference": "xs",
+    "native_body_gap": 148.43
+  },
+  {
+    "pair": "жи",
+    "delta": -20,
+    "before_body_gap": 229.71,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "жй",
+    "delta": -24,
+    "before_body_gap": 266.46,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "жк",
+    "delta": -24,
+    "before_body_gap": 269.42,
+    "native_reference": "xk",
+    "native_body_gap": 157.19
+  },
+  {
+    "pair": "жл",
+    "delta": -24,
+    "before_body_gap": 289.48,
+    "native_reference": "xv",
+    "native_body_gap": 178.71
+  },
+  {
+    "pair": "жм",
+    "delta": -21,
+    "before_body_gap": 250.74,
+    "native_reference": "xw",
+    "native_body_gap": 180.58
+  },
+  {
+    "pair": "жн",
+    "delta": -21,
+    "before_body_gap": 228.69,
+    "native_reference": "xh",
+    "native_body_gap": 157.19
+  },
+  {
+    "pair": "жо",
+    "delta": -23,
+    "before_body_gap": 200.83,
+    "native_reference": "xo",
+    "native_body_gap": 125.25
+  },
+  {
+    "pair": "жп",
+    "delta": -21,
+    "before_body_gap": 233.21,
+    "native_reference": "xn",
+    "native_body_gap": 163.48
+  },
+  {
+    "pair": "жр",
+    "delta": -21,
+    "before_body_gap": 235.0,
+    "native_reference": "xp",
+    "native_body_gap": 165.59
+  },
+  {
+    "pair": "жс",
+    "delta": -20,
+    "before_body_gap": 198.52,
+    "native_reference": "xc",
+    "native_body_gap": 132.73
+  },
+  {
+    "pair": "жт",
+    "delta": -21,
+    "before_body_gap": 233.19,
+    "native_reference": "xm",
+    "native_body_gap": 163.48
+  },
+  {
+    "pair": "жу",
+    "delta": -9,
+    "before_body_gap": 264.32,
+    "native_reference": "xy",
+    "native_body_gap": 180.51
+  },
+  {
+    "pair": "жф",
+    "delta": -24,
+    "before_body_gap": 285.62,
+    "native_reference": "xo",
+    "native_body_gap": 125.25
+  },
+  {
+    "pair": "жх",
+    "delta": -20,
+    "before_body_gap": 260.4,
+    "native_reference": "xx",
+    "native_body_gap": 166.43
+  },
+  {
+    "pair": "жц",
+    "delta": -20,
+    "before_body_gap": 229.71,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "жч",
+    "delta": -24,
+    "before_body_gap": 327.42,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "жш",
+    "delta": -20,
+    "before_body_gap": 229.71,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "жщ",
+    "delta": -20,
+    "before_body_gap": 229.71,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "жъ",
+    "delta": -20,
+    "before_body_gap": 222.87,
+    "native_reference": "xb",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "жь",
+    "delta": -23,
+    "before_body_gap": 231.26,
+    "native_reference": "xb",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "жю",
+    "delta": -24,
+    "before_body_gap": 268.98,
+    "native_reference": "xo",
+    "native_body_gap": 125.25
+  },
+  {
+    "pair": "жя",
+    "delta": -24,
+    "before_body_gap": 290.0,
+    "native_reference": "xa",
+    "native_body_gap": 175.59
+  },
+  {
+    "pair": "жѝ",
+    "delta": -24,
+    "before_body_gap": 281.44,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "за",
+    "delta": -3,
+    "before_body_gap": 164.3,
+    "native_reference": "sa",
+    "native_body_gap": 152.73
+  },
+  {
+    "pair": "зб",
+    "delta": 0,
+    "before_body_gap": 126.28,
+    "native_reference": "sb",
+    "native_body_gap": 130.72
+  },
+  {
+    "pair": "зв",
+    "delta": 0,
+    "before_body_gap": 125.92,
+    "native_reference": "sb",
+    "native_body_gap": 130.72
+  },
+  {
+    "pair": "зг",
+    "delta": -13,
+    "before_body_gap": 180.4,
+    "native_reference": "sr",
+    "native_body_gap": 138.66
+  },
+  {
+    "pair": "зд",
+    "delta": -5,
+    "before_body_gap": 164.68,
+    "native_reference": "sg",
+    "native_body_gap": 149.09
+  },
+  {
+    "pair": "зе",
+    "delta": -3,
+    "before_body_gap": 139.56,
+    "native_reference": "se",
+    "native_body_gap": 127.98
+  },
+  {
+    "pair": "зж",
+    "delta": -24,
+    "before_body_gap": 244.12,
+    "native_reference": "sx",
+    "native_body_gap": 151.32
+  },
+  {
+    "pair": "зз",
+    "delta": -24,
+    "before_body_gap": 277.86,
+    "native_reference": "ss",
+    "native_body_gap": 139.39
+  },
+  {
+    "pair": "зи",
+    "delta": -3,
+    "before_body_gap": 151.12,
+    "native_reference": "su",
+    "native_body_gap": 140.38
+  },
+  {
+    "pair": "зй",
+    "delta": -3,
+    "before_body_gap": 151.12,
+    "native_reference": "su",
+    "native_body_gap": 140.38
+  },
+  {
+    "pair": "зк",
+    "delta": -4,
+    "before_body_gap": 152.95,
+    "native_reference": "sk",
+    "native_body_gap": 138.7
+  },
+  {
+    "pair": "зл",
+    "delta": -13,
+    "before_body_gap": 209.46,
+    "native_reference": "sv",
+    "native_body_gap": 167.34
+  },
+  {
+    "pair": "зм",
+    "delta": -3,
+    "before_body_gap": 173.39,
+    "native_reference": "sw",
+    "native_body_gap": 163.13
+  },
+  {
+    "pair": "зн",
+    "delta": -3,
+    "before_body_gap": 149.2,
+    "native_reference": "sh",
+    "native_body_gap": 138.7
+  },
+  {
+    "pair": "зо",
+    "delta": -3,
+    "before_body_gap": 142.56,
+    "native_reference": "so",
+    "native_body_gap": 130.98
+  },
+  {
+    "pair": "зп",
+    "delta": -4,
+    "before_body_gap": 153.19,
+    "native_reference": "sn",
+    "native_body_gap": 138.94
+  },
+  {
+    "pair": "зр",
+    "delta": -4,
+    "before_body_gap": 155.09,
+    "native_reference": "sp",
+    "native_body_gap": 142.48
+  },
+  {
+    "pair": "зс",
+    "delta": -3,
+    "before_body_gap": 139.81,
+    "native_reference": "sc",
+    "native_body_gap": 128.24
+  },
+  {
+    "pair": "зт",
+    "delta": -4,
+    "before_body_gap": 153.17,
+    "native_reference": "sm",
+    "native_body_gap": 138.92
+  },
+  {
+    "pair": "зу",
+    "delta": -5,
+    "before_body_gap": 185.8,
+    "native_reference": "sy",
+    "native_body_gap": 168.8
+  },
+  {
+    "pair": "зф",
+    "delta": -17,
+    "before_body_gap": 186.98,
+    "native_reference": "so",
+    "native_body_gap": 130.98
+  },
+  {
+    "pair": "зх",
+    "delta": -8,
+    "before_body_gap": 178.0,
+    "native_reference": "sx",
+    "native_body_gap": 151.32
+  },
+  {
+    "pair": "зц",
+    "delta": -23,
+    "before_body_gap": 215.67,
+    "native_reference": "su",
+    "native_body_gap": 140.38
+  },
+  {
+    "pair": "зч",
+    "delta": -24,
+    "before_body_gap": 247.93,
+    "native_reference": "su",
+    "native_body_gap": 140.38
+  },
+  {
+    "pair": "зш",
+    "delta": -3,
+    "before_body_gap": 151.12,
+    "native_reference": "su",
+    "native_body_gap": 140.38
+  },
+  {
+    "pair": "зщ",
+    "delta": -24,
+    "before_body_gap": 261.05,
+    "native_reference": "su",
+    "native_body_gap": 140.38
+  },
+  {
+    "pair": "зъ",
+    "delta": -4,
+    "before_body_gap": 144.37,
+    "native_reference": "sb",
+    "native_body_gap": 130.72
+  },
+  {
+    "pair": "зь",
+    "delta": -6,
+    "before_body_gap": 151.08,
+    "native_reference": "sb",
+    "native_body_gap": 130.72
+  },
+  {
+    "pair": "зю",
+    "delta": -8,
+    "before_body_gap": 158.92,
+    "native_reference": "so",
+    "native_body_gap": 130.98
+  },
+  {
+    "pair": "зя",
+    "delta": -17,
+    "before_body_gap": 208.8,
+    "native_reference": "sa",
+    "native_body_gap": 152.73
+  },
+  {
+    "pair": "зѝ",
+    "delta": -3,
+    "before_body_gap": 151.12,
+    "native_reference": "su",
+    "native_body_gap": 140.38
+  },
+  {
+    "pair": "иа",
+    "delta": 0,
+    "before_body_gap": 156.45,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "иб",
+    "delta": 0,
+    "before_body_gap": 129.06,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "ив",
+    "delta": 0,
+    "before_body_gap": 129.75,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "иг",
+    "delta": -10,
+    "before_body_gap": 174.4,
+    "native_reference": "ur",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "ид",
+    "delta": 5,
+    "before_body_gap": 131.87,
+    "native_reference": "ug",
+    "native_body_gap": 147.03
+  },
+  {
+    "pair": "ие",
+    "delta": 0,
+    "before_body_gap": 131.55,
+    "native_reference": "ue",
+    "native_body_gap": 131.55
+  },
+  {
+    "pair": "иж",
+    "delta": -20,
+    "before_body_gap": 232.61,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "из",
+    "delta": -24,
+    "before_body_gap": 276.72,
+    "native_reference": "us",
+    "native_body_gap": 143.62
+  },
+  {
+    "pair": "ии",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ий",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ик",
+    "delta": 0,
+    "before_body_gap": 143.31,
+    "native_reference": "uk",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "ил",
+    "delta": -10,
+    "before_body_gap": 211.59,
+    "native_reference": "uv",
+    "native_body_gap": 179.19
+  },
+  {
+    "pair": "им",
+    "delta": 3,
+    "before_body_gap": 165.79,
+    "native_reference": "uw",
+    "native_body_gap": 174.97
+  },
+  {
+    "pair": "ин",
+    "delta": 0,
+    "before_body_gap": 141.0,
+    "native_reference": "uh",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "ио",
+    "delta": 0,
+    "before_body_gap": 134.53,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "ип",
+    "delta": 0,
+    "before_body_gap": 141.6,
+    "native_reference": "un",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "ир",
+    "delta": 0,
+    "before_body_gap": 146.15,
+    "native_reference": "up",
+    "native_body_gap": 146.15
+  },
+  {
+    "pair": "ис",
+    "delta": 0,
+    "before_body_gap": 131.57,
+    "native_reference": "uc",
+    "native_body_gap": 131.57
+  },
+  {
+    "pair": "ит",
+    "delta": 0,
+    "before_body_gap": 141.6,
+    "native_reference": "um",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "иу",
+    "delta": 0,
+    "before_body_gap": 180.65,
+    "native_reference": "uy",
+    "native_body_gap": 180.65
+  },
+  {
+    "pair": "иф",
+    "delta": 0,
+    "before_body_gap": 136.53,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "их",
+    "delta": 0,
+    "before_body_gap": 170.69,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "иц",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ич",
+    "delta": -24,
+    "before_body_gap": 239.73,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "иш",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ищ",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "иъ",
+    "delta": 0,
+    "before_body_gap": 137.57,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "иь",
+    "delta": 0,
+    "before_body_gap": 144.28,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "ию",
+    "delta": -5,
+    "before_body_gap": 152.72,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "ия",
+    "delta": -14,
+    "before_body_gap": 202.0,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "иѝ",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "йа",
+    "delta": 0,
+    "before_body_gap": 156.45,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "йб",
+    "delta": -3,
+    "before_body_gap": 146.74,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "йв",
+    "delta": 0,
+    "before_body_gap": 140.27,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "йг",
+    "delta": -10,
+    "before_body_gap": 174.4,
+    "native_reference": "ur",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "йд",
+    "delta": 5,
+    "before_body_gap": 131.87,
+    "native_reference": "ug",
+    "native_body_gap": 147.03
+  },
+  {
+    "pair": "йе",
+    "delta": 0,
+    "before_body_gap": 131.55,
+    "native_reference": "ue",
+    "native_body_gap": 131.55
+  },
+  {
+    "pair": "йж",
+    "delta": -24,
+    "before_body_gap": 271.26,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "йз",
+    "delta": -24,
+    "before_body_gap": 289.72,
+    "native_reference": "us",
+    "native_body_gap": 143.62
+  },
+  {
+    "pair": "йи",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "йй",
+    "delta": -6,
+    "before_body_gap": 165.74,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "йк",
+    "delta": -3,
+    "before_body_gap": 154.27,
+    "native_reference": "uk",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "йл",
+    "delta": -6,
+    "before_body_gap": 198.59,
+    "native_reference": "uv",
+    "native_body_gap": 179.19
+  },
+  {
+    "pair": "йм",
+    "delta": 3,
+    "before_body_gap": 165.79,
+    "native_reference": "uw",
+    "native_body_gap": 174.97
+  },
+  {
+    "pair": "йн",
+    "delta": 0,
+    "before_body_gap": 141.0,
+    "native_reference": "uh",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "йо",
+    "delta": 0,
+    "before_body_gap": 134.53,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "йп",
+    "delta": 0,
+    "before_body_gap": 141.6,
+    "native_reference": "un",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "йр",
+    "delta": 0,
+    "before_body_gap": 146.15,
+    "native_reference": "up",
+    "native_body_gap": 146.15
+  },
+  {
+    "pair": "йс",
+    "delta": 0,
+    "before_body_gap": 131.57,
+    "native_reference": "uc",
+    "native_body_gap": 131.57
+  },
+  {
+    "pair": "йт",
+    "delta": 0,
+    "before_body_gap": 141.6,
+    "native_reference": "um",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "йу",
+    "delta": 0,
+    "before_body_gap": 180.65,
+    "native_reference": "uy",
+    "native_body_gap": 180.65
+  },
+  {
+    "pair": "йф",
+    "delta": -14,
+    "before_body_gap": 181.07,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "йх",
+    "delta": 0,
+    "before_body_gap": 170.69,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "йц",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "йч",
+    "delta": -24,
+    "before_body_gap": 239.73,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "йш",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "йщ",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "йъ",
+    "delta": 0,
+    "before_body_gap": 137.57,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "йь",
+    "delta": 0,
+    "before_body_gap": 144.28,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "йю",
+    "delta": -8,
+    "before_body_gap": 161.25,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "йя",
+    "delta": -14,
+    "before_body_gap": 202.0,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "йѝ",
+    "delta": -9,
+    "before_body_gap": 177.79,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ка",
+    "delta": 0,
+    "before_body_gap": 188.05,
+    "native_reference": "ka",
+    "native_body_gap": 188.05
+  },
+  {
+    "pair": "кб",
+    "delta": 7,
+    "before_body_gap": 220.23,
+    "native_reference": "kb",
+    "native_body_gap": 242.31
+  },
+  {
+    "pair": "кв",
+    "delta": 7,
+    "before_body_gap": 217.77,
+    "native_reference": "kb",
+    "native_body_gap": 242.31
+  },
+  {
+    "pair": "кг",
+    "delta": -13,
+    "before_body_gap": 226.93,
+    "native_reference": "kr",
+    "native_body_gap": 182.03
+  },
+  {
+    "pair": "кд",
+    "delta": 16,
+    "before_body_gap": 164.16,
+    "native_reference": "kg",
+    "native_body_gap": 220.23
+  },
+  {
+    "pair": "ке",
+    "delta": 0,
+    "before_body_gap": 151.1,
+    "native_reference": "ke",
+    "native_body_gap": 151.1
+  },
+  {
+    "pair": "кж",
+    "delta": -18,
+    "before_body_gap": 379.7,
+    "native_reference": "kx",
+    "native_body_gap": 156.39
+  },
+  {
+    "pair": "кз",
+    "delta": -24,
+    "before_body_gap": 339.36,
+    "native_reference": "ks",
+    "native_body_gap": 178.37
+  },
+  {
+    "pair": "ки",
+    "delta": 9,
+    "before_body_gap": 178.87,
+    "native_reference": "ku",
+    "native_body_gap": 157.87
+  },
+  {
+    "pair": "кй",
+    "delta": -6,
+    "before_body_gap": 244.62,
+    "native_reference": "ku",
+    "native_body_gap": 157.87
+  },
+  {
+    "pair": "кк",
+    "delta": 9,
+    "before_body_gap": 242.65,
+    "native_reference": "kk",
+    "native_body_gap": 240.65
+  },
+  {
+    "pair": "кл",
+    "delta": 0,
+    "before_body_gap": 254.58,
+    "native_reference": "kv",
+    "native_body_gap": 168.67
+  },
+  {
+    "pair": "км",
+    "delta": 4,
+    "before_body_gap": 215.37,
+    "native_reference": "kw",
+    "native_body_gap": 180.54
+  },
+  {
+    "pair": "кн",
+    "delta": 16,
+    "before_body_gap": 182.84,
+    "native_reference": "kh",
+    "native_body_gap": 240.65
+  },
+  {
+    "pair": "ко",
+    "delta": 0,
+    "before_body_gap": 153.93,
+    "native_reference": "ko",
+    "native_body_gap": 153.93
+  },
+  {
+    "pair": "кп",
+    "delta": 9,
+    "before_body_gap": 188.31,
+    "native_reference": "kn",
+    "native_body_gap": 182.31
+  },
+  {
+    "pair": "кр",
+    "delta": 0,
+    "before_body_gap": 184.1,
+    "native_reference": "kp",
+    "native_body_gap": 184.1
+  },
+  {
+    "pair": "кс",
+    "delta": 0,
+    "before_body_gap": 151.61,
+    "native_reference": "kc",
+    "native_body_gap": 151.61
+  },
+  {
+    "pair": "кт",
+    "delta": 9,
+    "before_body_gap": 188.29,
+    "native_reference": "km",
+    "native_body_gap": 182.29
+  },
+  {
+    "pair": "ку",
+    "delta": 9,
+    "before_body_gap": 238.47,
+    "native_reference": "ky",
+    "native_body_gap": 176.47
+  },
+  {
+    "pair": "кф",
+    "delta": -24,
+    "before_body_gap": 268.85,
+    "native_reference": "ko",
+    "native_body_gap": 153.93
+  },
+  {
+    "pair": "кх",
+    "delta": 0,
+    "before_body_gap": 237.42,
+    "native_reference": "kx",
+    "native_body_gap": 156.39
+  },
+  {
+    "pair": "кц",
+    "delta": 9,
+    "before_body_gap": 178.87,
+    "native_reference": "ku",
+    "native_body_gap": 157.87
+  },
+  {
+    "pair": "кч",
+    "delta": -11,
+    "before_body_gap": 291.57,
+    "native_reference": "ku",
+    "native_body_gap": 157.87
+  },
+  {
+    "pair": "кш",
+    "delta": 9,
+    "before_body_gap": 178.87,
+    "native_reference": "ku",
+    "native_body_gap": 157.87
+  },
+  {
+    "pair": "кщ",
+    "delta": 9,
+    "before_body_gap": 178.87,
+    "native_reference": "ku",
+    "native_body_gap": 157.87
+  },
+  {
+    "pair": "къ",
+    "delta": 16,
+    "before_body_gap": 187.02,
+    "native_reference": "kb",
+    "native_body_gap": 242.31
+  },
+  {
+    "pair": "кь",
+    "delta": 14,
+    "before_body_gap": 195.41,
+    "native_reference": "kb",
+    "native_body_gap": 242.31
+  },
+  {
+    "pair": "кю",
+    "delta": 6,
+    "before_body_gap": 252.21,
+    "native_reference": "ko",
+    "native_body_gap": 153.93
+  },
+  {
+    "pair": "кя",
+    "delta": -9,
+    "before_body_gap": 254.16,
+    "native_reference": "ka",
+    "native_body_gap": 188.05
+  },
+  {
+    "pair": "кѝ",
+    "delta": -6,
+    "before_body_gap": 259.89,
+    "native_reference": "ku",
+    "native_body_gap": 157.87
+  },
+  {
+    "pair": "ла",
+    "delta": -9,
+    "before_body_gap": 206.58,
+    "native_reference": "va",
+    "native_body_gap": 177.78
+  },
+  {
+    "pair": "лб",
+    "delta": -3,
+    "before_body_gap": 165.81,
+    "native_reference": "vb",
+    "native_body_gap": 157.35
+  },
+  {
+    "pair": "лв",
+    "delta": 0,
+    "before_body_gap": 165.45,
+    "native_reference": "vb",
+    "native_body_gap": 157.35
+  },
+  {
+    "pair": "лг",
+    "delta": -18,
+    "before_body_gap": 222.18,
+    "native_reference": "vr",
+    "native_body_gap": 161.35
+  },
+  {
+    "pair": "лд",
+    "delta": 0,
+    "before_body_gap": 159.7,
+    "native_reference": "vg",
+    "native_body_gap": 156.35
+  },
+  {
+    "pair": "ле",
+    "delta": 0,
+    "before_body_gap": 158.64,
+    "native_reference": "ve",
+    "native_body_gap": 152.88
+  },
+  {
+    "pair": "лж",
+    "delta": -24,
+    "before_body_gap": 285.77,
+    "native_reference": "vx",
+    "native_body_gap": 180.3
+  },
+  {
+    "pair": "лз",
+    "delta": -24,
+    "before_body_gap": 288.9,
+    "native_reference": "vs",
+    "native_body_gap": 164.95
+  },
+  {
+    "pair": "ли",
+    "delta": -6,
+    "before_body_gap": 192.01,
+    "native_reference": "vu",
+    "native_body_gap": 171.55
+  },
+  {
+    "pair": "лй",
+    "delta": -6,
+    "before_body_gap": 192.01,
+    "native_reference": "vu",
+    "native_body_gap": 171.55
+  },
+  {
+    "pair": "лк",
+    "delta": -7,
+    "before_body_gap": 194.6,
+    "native_reference": "vk",
+    "native_body_gap": 169.06
+  },
+  {
+    "pair": "лл",
+    "delta": -24,
+    "before_body_gap": 276.12,
+    "native_reference": "vv",
+    "native_body_gap": 194.51
+  },
+  {
+    "pair": "лм",
+    "delta": 0,
+    "before_body_gap": 212.69,
+    "native_reference": "vw",
+    "native_body_gap": 190.3
+  },
+  {
+    "pair": "лн",
+    "delta": -7,
+    "before_body_gap": 190.99,
+    "native_reference": "vh",
+    "native_body_gap": 169.06
+  },
+  {
+    "pair": "ло",
+    "delta": 0,
+    "before_body_gap": 161.47,
+    "native_reference": "vo",
+    "native_body_gap": 155.85
+  },
+  {
+    "pair": "лп",
+    "delta": -7,
+    "before_body_gap": 194.85,
+    "native_reference": "vn",
+    "native_body_gap": 161.35
+  },
+  {
+    "pair": "лр",
+    "delta": -9,
+    "before_body_gap": 196.64,
+    "native_reference": "vp",
+    "native_body_gap": 165.48
+  },
+  {
+    "pair": "лс",
+    "delta": 0,
+    "before_body_gap": 159.15,
+    "native_reference": "vc",
+    "native_body_gap": 152.9
+  },
+  {
+    "pair": "лт",
+    "delta": -7,
+    "before_body_gap": 194.83,
+    "native_reference": "vm",
+    "native_body_gap": 161.35
+  },
+  {
+    "pair": "лу",
+    "delta": 5,
+    "before_body_gap": 179.62,
+    "native_reference": "vy",
+    "native_body_gap": 195.97
+  },
+  {
+    "pair": "лф",
+    "delta": 0,
+    "before_body_gap": 163.57,
+    "native_reference": "vo",
+    "native_body_gap": 155.85
+  },
+  {
+    "pair": "лх",
+    "delta": 6,
+    "before_body_gap": 219.51,
+    "native_reference": "vx",
+    "native_body_gap": 180.3
+  },
+  {
+    "pair": "лц",
+    "delta": -6,
+    "before_body_gap": 192.01,
+    "native_reference": "vu",
+    "native_body_gap": 171.55
+  },
+  {
+    "pair": "лч",
+    "delta": -20,
+    "before_body_gap": 238.72,
+    "native_reference": "vu",
+    "native_body_gap": 171.55
+  },
+  {
+    "pair": "лш",
+    "delta": -6,
+    "before_body_gap": 192.01,
+    "native_reference": "vu",
+    "native_body_gap": 171.55
+  },
+  {
+    "pair": "лщ",
+    "delta": -6,
+    "before_body_gap": 192.01,
+    "native_reference": "vu",
+    "native_body_gap": 171.55
+  },
+  {
+    "pair": "лъ",
+    "delta": 6,
+    "before_body_gap": 172.17,
+    "native_reference": "vb",
+    "native_body_gap": 157.35
+  },
+  {
+    "pair": "ль",
+    "delta": -7,
+    "before_body_gap": 180.55,
+    "native_reference": "vb",
+    "native_body_gap": 157.35
+  },
+  {
+    "pair": "лю",
+    "delta": 0,
+    "before_body_gap": 194.1,
+    "native_reference": "vo",
+    "native_body_gap": 155.85
+  },
+  {
+    "pair": "ля",
+    "delta": -24,
+    "before_body_gap": 277.3,
+    "native_reference": "va",
+    "native_body_gap": 177.78
+  },
+  {
+    "pair": "лѝ",
+    "delta": -6,
+    "before_body_gap": 192.01,
+    "native_reference": "vu",
+    "native_body_gap": 171.55
+  },
+  {
+    "pair": "ма",
+    "delta": 0,
+    "before_body_gap": 180.46,
+    "native_reference": "wa",
+    "native_body_gap": 173.41
+  },
+  {
+    "pair": "мб",
+    "delta": 3,
+    "before_body_gap": 142.4,
+    "native_reference": "wb",
+    "native_body_gap": 152.98
+  },
+  {
+    "pair": "мв",
+    "delta": 3,
+    "before_body_gap": 142.07,
+    "native_reference": "wb",
+    "native_body_gap": 152.98
+  },
+  {
+    "pair": "мг",
+    "delta": -12,
+    "before_body_gap": 197.47,
+    "native_reference": "wr",
+    "native_body_gap": 157.07
+  },
+  {
+    "pair": "мд",
+    "delta": 0,
+    "before_body_gap": 155.52,
+    "native_reference": "wg",
+    "native_body_gap": 151.99
+  },
+  {
+    "pair": "ме",
+    "delta": 0,
+    "before_body_gap": 154.9,
+    "native_reference": "we",
+    "native_body_gap": 148.51
+  },
+  {
+    "pair": "мж",
+    "delta": -24,
+    "before_body_gap": 256.17,
+    "native_reference": "wx",
+    "native_body_gap": 176.03
+  },
+  {
+    "pair": "мз",
+    "delta": -24,
+    "before_body_gap": 289.24,
+    "native_reference": "ws",
+    "native_body_gap": 160.58
+  },
+  {
+    "pair": "ми",
+    "delta": 0,
+    "before_body_gap": 168.79,
+    "native_reference": "wu",
+    "native_body_gap": 167.19
+  },
+  {
+    "pair": "мй",
+    "delta": 0,
+    "before_body_gap": 168.79,
+    "native_reference": "wu",
+    "native_body_gap": 167.19
+  },
+  {
+    "pair": "мк",
+    "delta": 0,
+    "before_body_gap": 165.92,
+    "native_reference": "wk",
+    "native_body_gap": 164.79
+  },
+  {
+    "pair": "мл",
+    "delta": -9,
+    "before_body_gap": 221.81,
+    "native_reference": "wv",
+    "native_body_gap": 190.15
+  },
+  {
+    "pair": "мм",
+    "delta": 0,
+    "before_body_gap": 191.17,
+    "native_reference": "ww",
+    "native_body_gap": 185.93
+  },
+  {
+    "pair": "мн",
+    "delta": 0,
+    "before_body_gap": 163.32,
+    "native_reference": "wh",
+    "native_body_gap": 164.79
+  },
+  {
+    "pair": "мо",
+    "delta": 0,
+    "before_body_gap": 157.82,
+    "native_reference": "wo",
+    "native_body_gap": 151.49
+  },
+  {
+    "pair": "мп",
+    "delta": 0,
+    "before_body_gap": 164.6,
+    "native_reference": "wn",
+    "native_body_gap": 157.07
+  },
+  {
+    "pair": "мр",
+    "delta": -3,
+    "before_body_gap": 170.09,
+    "native_reference": "wp",
+    "native_body_gap": 161.11
+  },
+  {
+    "pair": "мс",
+    "delta": 0,
+    "before_body_gap": 155.12,
+    "native_reference": "wc",
+    "native_body_gap": 148.54
+  },
+  {
+    "pair": "мт",
+    "delta": 0,
+    "before_body_gap": 164.6,
+    "native_reference": "wm",
+    "native_body_gap": 157.07
+  },
+  {
+    "pair": "му",
+    "delta": 3,
+    "before_body_gap": 180.46,
+    "native_reference": "wy",
+    "native_body_gap": 191.61
+  },
+  {
+    "pair": "мф",
+    "delta": -3,
+    "before_body_gap": 160.0,
+    "native_reference": "wo",
+    "native_body_gap": 151.49
+  },
+  {
+    "pair": "мх",
+    "delta": 0,
+    "before_body_gap": 192.64,
+    "native_reference": "wx",
+    "native_body_gap": 176.03
+  },
+  {
+    "pair": "мц",
+    "delta": 0,
+    "before_body_gap": 168.79,
+    "native_reference": "wu",
+    "native_body_gap": 167.19
+  },
+  {
+    "pair": "мч",
+    "delta": -24,
+    "before_body_gap": 262.05,
+    "native_reference": "wu",
+    "native_body_gap": 167.19
+  },
+  {
+    "pair": "мш",
+    "delta": 0,
+    "before_body_gap": 168.79,
+    "native_reference": "wu",
+    "native_body_gap": 167.19
+  },
+  {
+    "pair": "мщ",
+    "delta": 0,
+    "before_body_gap": 168.79,
+    "native_reference": "wu",
+    "native_body_gap": 167.19
+  },
+  {
+    "pair": "мъ",
+    "delta": 5,
+    "before_body_gap": 145.53,
+    "native_reference": "wb",
+    "native_body_gap": 152.98
+  },
+  {
+    "pair": "мь",
+    "delta": 0,
+    "before_body_gap": 152.24,
+    "native_reference": "wb",
+    "native_body_gap": 152.98
+  },
+  {
+    "pair": "мю",
+    "delta": -5,
+    "before_body_gap": 173.61,
+    "native_reference": "wo",
+    "native_body_gap": 151.49
+  },
+  {
+    "pair": "мя",
+    "delta": -16,
+    "before_body_gap": 226.95,
+    "native_reference": "wa",
+    "native_body_gap": 173.41
+  },
+  {
+    "pair": "мѝ",
+    "delta": 0,
+    "before_body_gap": 168.79,
+    "native_reference": "wu",
+    "native_body_gap": 167.19
+  },
+  {
+    "pair": "на",
+    "delta": 0,
+    "before_body_gap": 157.58,
+    "native_reference": "ha",
+    "native_body_gap": 161.91
+  },
+  {
+    "pair": "нб",
+    "delta": 16,
+    "before_body_gap": 125.43,
+    "native_reference": "hb",
+    "native_body_gap": 214.5
+  },
+  {
+    "pair": "нв",
+    "delta": 16,
+    "before_body_gap": 126.12,
+    "native_reference": "hb",
+    "native_body_gap": 214.5
+  },
+  {
+    "pair": "нг",
+    "delta": -9,
+    "before_body_gap": 181.06,
+    "native_reference": "hr",
+    "native_body_gap": 149.89
+  },
+  {
+    "pair": "нд",
+    "delta": 16,
+    "before_body_gap": 137.16,
+    "native_reference": "hg",
+    "native_body_gap": 219.11
+  },
+  {
+    "pair": "не",
+    "delta": 0,
+    "before_body_gap": 128.44,
+    "native_reference": "he",
+    "native_body_gap": 134.96
+  },
+  {
+    "pair": "нж",
+    "delta": -24,
+    "before_body_gap": 242.48,
+    "native_reference": "hx",
+    "native_body_gap": 161.94
+  },
+  {
+    "pair": "нз",
+    "delta": -24,
+    "before_body_gap": 295.18,
+    "native_reference": "hs",
+    "native_body_gap": 148.23
+  },
+  {
+    "pair": "ни",
+    "delta": 0,
+    "before_body_gap": 143.9,
+    "native_reference": "hu",
+    "native_body_gap": 147.42
+  },
+  {
+    "pair": "нй",
+    "delta": 0,
+    "before_body_gap": 151.9,
+    "native_reference": "hu",
+    "native_body_gap": 147.42
+  },
+  {
+    "pair": "нк",
+    "delta": 16,
+    "before_body_gap": 139.18,
+    "native_reference": "hk",
+    "native_body_gap": 218.84
+  },
+  {
+    "pair": "нл",
+    "delta": -11,
+    "before_body_gap": 208.46,
+    "native_reference": "hv",
+    "native_body_gap": 170.22
+  },
+  {
+    "pair": "нм",
+    "delta": 0,
+    "before_body_gap": 171.74,
+    "native_reference": "hw",
+    "native_body_gap": 166.09
+  },
+  {
+    "pair": "нн",
+    "delta": 16,
+    "before_body_gap": 136.87,
+    "native_reference": "hh",
+    "native_body_gap": 218.84
+  },
+  {
+    "pair": "но",
+    "delta": 0,
+    "before_body_gap": 131.24,
+    "native_reference": "ho",
+    "native_body_gap": 137.79
+  },
+  {
+    "pair": "нп",
+    "delta": 0,
+    "before_body_gap": 143.47,
+    "native_reference": "hn",
+    "native_body_gap": 150.17
+  },
+  {
+    "pair": "нр",
+    "delta": 0,
+    "before_body_gap": 145.58,
+    "native_reference": "hp",
+    "native_body_gap": 151.96
+  },
+  {
+    "pair": "нс",
+    "delta": 0,
+    "before_body_gap": 128.72,
+    "native_reference": "hc",
+    "native_body_gap": 135.48
+  },
+  {
+    "pair": "нт",
+    "delta": 0,
+    "before_body_gap": 143.47,
+    "native_reference": "hm",
+    "native_body_gap": 150.15
+  },
+  {
+    "pair": "ну",
+    "delta": 0,
+    "before_body_gap": 168.5,
+    "native_reference": "hy",
+    "native_body_gap": 172.02
+  },
+  {
+    "pair": "нф",
+    "delta": 0,
+    "before_body_gap": 140.96,
+    "native_reference": "ho",
+    "native_body_gap": 137.79
+  },
+  {
+    "pair": "нх",
+    "delta": 0,
+    "before_body_gap": 179.54,
+    "native_reference": "hx",
+    "native_body_gap": 161.94
+  },
+  {
+    "pair": "нц",
+    "delta": 0,
+    "before_body_gap": 143.9,
+    "native_reference": "hu",
+    "native_body_gap": 147.42
+  },
+  {
+    "pair": "нч",
+    "delta": -24,
+    "before_body_gap": 249.6,
+    "native_reference": "hu",
+    "native_body_gap": 147.42
+  },
+  {
+    "pair": "нш",
+    "delta": 0,
+    "before_body_gap": 143.9,
+    "native_reference": "hu",
+    "native_body_gap": 147.42
+  },
+  {
+    "pair": "нщ",
+    "delta": 0,
+    "before_body_gap": 143.9,
+    "native_reference": "hu",
+    "native_body_gap": 147.42
+  },
+  {
+    "pair": "нъ",
+    "delta": 16,
+    "before_body_gap": 145.05,
+    "native_reference": "hb",
+    "native_body_gap": 214.5
+  },
+  {
+    "pair": "нь",
+    "delta": 16,
+    "before_body_gap": 153.44,
+    "native_reference": "hb",
+    "native_body_gap": 214.5
+  },
+  {
+    "pair": "ню",
+    "delta": -4,
+    "before_body_gap": 152.66,
+    "native_reference": "ho",
+    "native_body_gap": 137.79
+  },
+  {
+    "pair": "ня",
+    "delta": -15,
+    "before_body_gap": 212.19,
+    "native_reference": "ha",
+    "native_body_gap": 161.91
+  },
+  {
+    "pair": "нѝ",
+    "delta": 0,
+    "before_body_gap": 151.9,
+    "native_reference": "hu",
+    "native_body_gap": 147.42
+  },
+  {
+    "pair": "оа",
+    "delta": 0,
+    "before_body_gap": 146.45,
+    "native_reference": "oa",
+    "native_body_gap": 146.45
+  },
+  {
+    "pair": "об",
+    "delta": 0,
+    "before_body_gap": 116.42,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "ов",
+    "delta": 3,
+    "before_body_gap": 116.07,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "ог",
+    "delta": -9,
+    "before_body_gap": 162.55,
+    "native_reference": "or",
+    "native_body_gap": 131.46
+  },
+  {
+    "pair": "од",
+    "delta": 6,
+    "before_body_gap": 122.37,
+    "native_reference": "og",
+    "native_body_gap": 142.81
+  },
+  {
+    "pair": "ое",
+    "delta": 0,
+    "before_body_gap": 121.7,
+    "native_reference": "oe",
+    "native_body_gap": 121.7
+  },
+  {
+    "pair": "ож",
+    "delta": -20,
+    "before_body_gap": 202.66,
+    "native_reference": "ox",
+    "native_body_gap": 136.84
+  },
+  {
+    "pair": "оз",
+    "delta": -24,
+    "before_body_gap": 277.46,
+    "native_reference": "os",
+    "native_body_gap": 133.11
+  },
+  {
+    "pair": "ои",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "ой",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "ок",
+    "delta": 0,
+    "before_body_gap": 131.49,
+    "native_reference": "ok",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "ол",
+    "delta": 0,
+    "before_body_gap": 168.0,
+    "native_reference": "ov",
+    "native_body_gap": 159.83
+  },
+  {
+    "pair": "ом",
+    "delta": 0,
+    "before_body_gap": 153.95,
+    "native_reference": "ow",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "он",
+    "delta": 0,
+    "before_body_gap": 127.29,
+    "native_reference": "oh",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "оо",
+    "delta": 0,
+    "before_body_gap": 124.7,
+    "native_reference": "oo",
+    "native_body_gap": 124.7
+  },
+  {
+    "pair": "оп",
+    "delta": 0,
+    "before_body_gap": 131.74,
+    "native_reference": "on",
+    "native_body_gap": 131.74
+  },
+  {
+    "pair": "ор",
+    "delta": 0,
+    "before_body_gap": 136.2,
+    "native_reference": "op",
+    "native_body_gap": 136.2
+  },
+  {
+    "pair": "ос",
+    "delta": 0,
+    "before_body_gap": 121.96,
+    "native_reference": "oc",
+    "native_body_gap": 121.96
+  },
+  {
+    "pair": "от",
+    "delta": 0,
+    "before_body_gap": 131.72,
+    "native_reference": "om",
+    "native_body_gap": 131.72
+  },
+  {
+    "pair": "оу",
+    "delta": 0,
+    "before_body_gap": 159.29,
+    "native_reference": "oy",
+    "native_body_gap": 159.29
+  },
+  {
+    "pair": "оф",
+    "delta": 0,
+    "before_body_gap": 127.08,
+    "native_reference": "oo",
+    "native_body_gap": 124.7
+  },
+  {
+    "pair": "ох",
+    "delta": 0,
+    "before_body_gap": 141.57,
+    "native_reference": "ox",
+    "native_body_gap": 136.84
+  },
+  {
+    "pair": "оц",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "оч",
+    "delta": -24,
+    "before_body_gap": 226.02,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "ош",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "ощ",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "оъ",
+    "delta": 0,
+    "before_body_gap": 124.71,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "оь",
+    "delta": 0,
+    "before_body_gap": 131.42,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "ою",
+    "delta": -5,
+    "before_body_gap": 141.06,
+    "native_reference": "oo",
+    "native_body_gap": 124.7
+  },
+  {
+    "pair": "оя",
+    "delta": -9,
+    "before_body_gap": 176.14,
+    "native_reference": "oa",
+    "native_body_gap": 146.45
+  },
+  {
+    "pair": "оѝ",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "па",
+    "delta": 0,
+    "before_body_gap": 161.89,
+    "native_reference": "na",
+    "native_body_gap": 161.89
+  },
+  {
+    "pair": "пб",
+    "delta": 3,
+    "before_body_gap": 130.11,
+    "native_reference": "nb",
+    "native_body_gap": 140.29
+  },
+  {
+    "pair": "пв",
+    "delta": 3,
+    "before_body_gap": 130.75,
+    "native_reference": "nb",
+    "native_body_gap": 140.29
+  },
+  {
+    "pair": "пг",
+    "delta": -8,
+    "before_body_gap": 177.48,
+    "native_reference": "nr",
+    "native_body_gap": 149.87
+  },
+  {
+    "pair": "пд",
+    "delta": 7,
+    "before_body_gap": 136.0,
+    "native_reference": "ng",
+    "native_body_gap": 158.52
+  },
+  {
+    "pair": "пе",
+    "delta": 0,
+    "before_body_gap": 134.94,
+    "native_reference": "ne",
+    "native_body_gap": 134.94
+  },
+  {
+    "pair": "пж",
+    "delta": -24,
+    "before_body_gap": 241.08,
+    "native_reference": "nx",
+    "native_body_gap": 161.93
+  },
+  {
+    "pair": "пз",
+    "delta": -24,
+    "before_body_gap": 291.2,
+    "native_reference": "ns",
+    "native_body_gap": 148.21
+  },
+  {
+    "pair": "пи",
+    "delta": 0,
+    "before_body_gap": 147.41,
+    "native_reference": "nu",
+    "native_body_gap": 147.41
+  },
+  {
+    "pair": "пй",
+    "delta": 0,
+    "before_body_gap": 147.41,
+    "native_reference": "nu",
+    "native_body_gap": 147.41
+  },
+  {
+    "pair": "пк",
+    "delta": 0,
+    "before_body_gap": 143.91,
+    "native_reference": "nk",
+    "native_body_gap": 143.91
+  },
+  {
+    "pair": "пл",
+    "delta": -9,
+    "before_body_gap": 206.42,
+    "native_reference": "nv",
+    "native_body_gap": 170.21
+  },
+  {
+    "pair": "пм",
+    "delta": 0,
+    "before_body_gap": 167.98,
+    "native_reference": "nw",
+    "native_body_gap": 166.08
+  },
+  {
+    "pair": "пн",
+    "delta": 0,
+    "before_body_gap": 140.38,
+    "native_reference": "nh",
+    "native_body_gap": 143.91
+  },
+  {
+    "pair": "по",
+    "delta": 0,
+    "before_body_gap": 137.77,
+    "native_reference": "no",
+    "native_body_gap": 137.77
+  },
+  {
+    "pair": "пп",
+    "delta": 0,
+    "before_body_gap": 150.15,
+    "native_reference": "nn",
+    "native_body_gap": 150.15
+  },
+  {
+    "pair": "пр",
+    "delta": 0,
+    "before_body_gap": 151.94,
+    "native_reference": "np",
+    "native_body_gap": 151.94
+  },
+  {
+    "pair": "пс",
+    "delta": 0,
+    "before_body_gap": 135.45,
+    "native_reference": "nc",
+    "native_body_gap": 135.45
+  },
+  {
+    "pair": "пт",
+    "delta": 0,
+    "before_body_gap": 150.13,
+    "native_reference": "nm",
+    "native_body_gap": 150.13
+  },
+  {
+    "pair": "пу",
+    "delta": 0,
+    "before_body_gap": 172.01,
+    "native_reference": "ny",
+    "native_body_gap": 172.01
+  },
+  {
+    "pair": "пф",
+    "delta": 0,
+    "before_body_gap": 139.87,
+    "native_reference": "no",
+    "native_body_gap": 137.77
+  },
+  {
+    "pair": "пх",
+    "delta": 9,
+    "before_body_gap": 167.31,
+    "native_reference": "nx",
+    "native_body_gap": 161.93
+  },
+  {
+    "pair": "пц",
+    "delta": 0,
+    "before_body_gap": 147.41,
+    "native_reference": "nu",
+    "native_body_gap": 147.41
+  },
+  {
+    "pair": "пч",
+    "delta": -24,
+    "before_body_gap": 245.12,
+    "native_reference": "nu",
+    "native_body_gap": 147.41
+  },
+  {
+    "pair": "пш",
+    "delta": 0,
+    "before_body_gap": 147.41,
+    "native_reference": "nu",
+    "native_body_gap": 147.41
+  },
+  {
+    "pair": "пщ",
+    "delta": 0,
+    "before_body_gap": 147.41,
+    "native_reference": "nu",
+    "native_body_gap": 147.41
+  },
+  {
+    "pair": "пъ",
+    "delta": 0,
+    "before_body_gap": 140.56,
+    "native_reference": "nb",
+    "native_body_gap": 140.29
+  },
+  {
+    "pair": "пь",
+    "delta": -3,
+    "before_body_gap": 148.95,
+    "native_reference": "nb",
+    "native_body_gap": 140.29
+  },
+  {
+    "pair": "пю",
+    "delta": -3,
+    "before_body_gap": 149.4,
+    "native_reference": "no",
+    "native_body_gap": 137.77
+  },
+  {
+    "pair": "пя",
+    "delta": -14,
+    "before_body_gap": 207.7,
+    "native_reference": "na",
+    "native_body_gap": 161.89
+  },
+  {
+    "pair": "пѝ",
+    "delta": 0,
+    "before_body_gap": 147.41,
+    "native_reference": "nu",
+    "native_body_gap": 147.41
+  },
+  {
+    "pair": "ра",
+    "delta": 0,
+    "before_body_gap": 150.25,
+    "native_reference": "pa",
+    "native_body_gap": 150.25
+  },
+  {
+    "pair": "рб",
+    "delta": 0,
+    "before_body_gap": 120.22,
+    "native_reference": "pb",
+    "native_body_gap": 128.24
+  },
+  {
+    "pair": "рв",
+    "delta": 3,
+    "before_body_gap": 119.87,
+    "native_reference": "pb",
+    "native_body_gap": 128.24
+  },
+  {
+    "pair": "рг",
+    "delta": -9,
+    "before_body_gap": 166.35,
+    "native_reference": "pr",
+    "native_body_gap": 134.8
+  },
+  {
+    "pair": "рд",
+    "delta": -4,
+    "before_body_gap": 207.73,
+    "native_reference": "pg",
+    "native_body_gap": 195.52
+  },
+  {
+    "pair": "ре",
+    "delta": 0,
+    "before_body_gap": 125.5,
+    "native_reference": "pe",
+    "native_body_gap": 125.5
+  },
+  {
+    "pair": "рж",
+    "delta": -20,
+    "before_body_gap": 206.0,
+    "native_reference": "px",
+    "native_body_gap": 140.48
+  },
+  {
+    "pair": "рз",
+    "delta": -24,
+    "before_body_gap": 320.91,
+    "native_reference": "ps",
+    "native_body_gap": 136.91
+  },
+  {
+    "pair": "ри",
+    "delta": 0,
+    "before_body_gap": 136.97,
+    "native_reference": "pu",
+    "native_body_gap": 136.97
+  },
+  {
+    "pair": "рй",
+    "delta": 0,
+    "before_body_gap": 136.97,
+    "native_reference": "pu",
+    "native_body_gap": 136.97
+  },
+  {
+    "pair": "рк",
+    "delta": 0,
+    "before_body_gap": 134.83,
+    "native_reference": "pk",
+    "native_body_gap": 134.83
+  },
+  {
+    "pair": "рл",
+    "delta": 0,
+    "before_body_gap": 171.35,
+    "native_reference": "pv",
+    "native_body_gap": 163.93
+  },
+  {
+    "pair": "рм",
+    "delta": 0,
+    "before_body_gap": 157.72,
+    "native_reference": "pw",
+    "native_body_gap": 159.72
+  },
+  {
+    "pair": "рн",
+    "delta": 0,
+    "before_body_gap": 130.93,
+    "native_reference": "ph",
+    "native_body_gap": 134.83
+  },
+  {
+    "pair": "ро",
+    "delta": 0,
+    "before_body_gap": 128.5,
+    "native_reference": "po",
+    "native_body_gap": 128.5
+  },
+  {
+    "pair": "рп",
+    "delta": 0,
+    "before_body_gap": 135.08,
+    "native_reference": "pn",
+    "native_body_gap": 135.08
+  },
+  {
+    "pair": "рр",
+    "delta": 0,
+    "before_body_gap": 198.14,
+    "native_reference": "pp",
+    "native_body_gap": 198.14
+  },
+  {
+    "pair": "рс",
+    "delta": 0,
+    "before_body_gap": 125.76,
+    "native_reference": "pc",
+    "native_body_gap": 125.76
+  },
+  {
+    "pair": "рт",
+    "delta": 0,
+    "before_body_gap": 135.06,
+    "native_reference": "pm",
+    "native_body_gap": 135.06
+  },
+  {
+    "pair": "ру",
+    "delta": 0,
+    "before_body_gap": 221.42,
+    "native_reference": "py",
+    "native_body_gap": 221.42
+  },
+  {
+    "pair": "рф",
+    "delta": -24,
+    "before_body_gap": 230.03,
+    "native_reference": "po",
+    "native_body_gap": 128.5
+  },
+  {
+    "pair": "рх",
+    "delta": 0,
+    "before_body_gap": 145.5,
+    "native_reference": "px",
+    "native_body_gap": 140.48
+  },
+  {
+    "pair": "рц",
+    "delta": -24,
+    "before_body_gap": 249.34,
+    "native_reference": "pu",
+    "native_body_gap": 136.97
+  },
+  {
+    "pair": "рч",
+    "delta": -24,
+    "before_body_gap": 229.66,
+    "native_reference": "pu",
+    "native_body_gap": 136.97
+  },
+  {
+    "pair": "рш",
+    "delta": 0,
+    "before_body_gap": 136.97,
+    "native_reference": "pu",
+    "native_body_gap": 136.97
+  },
+  {
+    "pair": "рщ",
+    "delta": -24,
+    "before_body_gap": 294.71,
+    "native_reference": "pu",
+    "native_body_gap": 136.97
+  },
+  {
+    "pair": "ръ",
+    "delta": 0,
+    "before_body_gap": 128.64,
+    "native_reference": "pb",
+    "native_body_gap": 128.24
+  },
+  {
+    "pair": "рь",
+    "delta": 0,
+    "before_body_gap": 135.35,
+    "native_reference": "pb",
+    "native_body_gap": 128.24
+  },
+  {
+    "pair": "рю",
+    "delta": -5,
+    "before_body_gap": 144.87,
+    "native_reference": "po",
+    "native_body_gap": 128.5
+  },
+  {
+    "pair": "ря",
+    "delta": -9,
+    "before_body_gap": 180.07,
+    "native_reference": "pa",
+    "native_body_gap": 150.25
+  },
+  {
+    "pair": "рѝ",
+    "delta": 0,
+    "before_body_gap": 136.97,
+    "native_reference": "pu",
+    "native_body_gap": 136.97
+  },
+  {
+    "pair": "са",
+    "delta": 0,
+    "before_body_gap": 186.78,
+    "native_reference": "ca",
+    "native_body_gap": 186.78
+  },
+  {
+    "pair": "сб",
+    "delta": -7,
+    "before_body_gap": 188.75,
+    "native_reference": "cb",
+    "native_body_gap": 164.77
+  },
+  {
+    "pair": "св",
+    "delta": -7,
+    "before_body_gap": 189.4,
+    "native_reference": "cb",
+    "native_body_gap": 164.77
+  },
+  {
+    "pair": "сг",
+    "delta": -7,
+    "before_body_gap": 197.88,
+    "native_reference": "cr",
+    "native_body_gap": 173.78
+  },
+  {
+    "pair": "сд",
+    "delta": 8,
+    "before_body_gap": 155.7,
+    "native_reference": "cg",
+    "native_body_gap": 183.14
+  },
+  {
+    "pair": "се",
+    "delta": 0,
+    "before_body_gap": 162.03,
+    "native_reference": "ce",
+    "native_body_gap": 162.03
+  },
+  {
+    "pair": "сж",
+    "delta": -21,
+    "before_body_gap": 264.99,
+    "native_reference": "cx",
+    "native_body_gap": 195.19
+  },
+  {
+    "pair": "сз",
+    "delta": -24,
+    "before_body_gap": 317.79,
+    "native_reference": "cs",
+    "native_body_gap": 173.44
+  },
+  {
+    "pair": "си",
+    "delta": 0,
+    "before_body_gap": 175.15,
+    "native_reference": "cu",
+    "native_body_gap": 175.15
+  },
+  {
+    "pair": "сй",
+    "delta": 0,
+    "before_body_gap": 175.15,
+    "native_reference": "cu",
+    "native_body_gap": 175.15
+  },
+  {
+    "pair": "ск",
+    "delta": 0,
+    "before_body_gap": 173.82,
+    "native_reference": "ck",
+    "native_body_gap": 173.82
+  },
+  {
+    "pair": "сл",
+    "delta": -7,
+    "before_body_gap": 230.33,
+    "native_reference": "cv",
+    "native_body_gap": 208.11
+  },
+  {
+    "pair": "см",
+    "delta": 0,
+    "before_body_gap": 195.91,
+    "native_reference": "cw",
+    "native_body_gap": 203.9
+  },
+  {
+    "pair": "сн",
+    "delta": 0,
+    "before_body_gap": 171.64,
+    "native_reference": "ch",
+    "native_body_gap": 173.82
+  },
+  {
+    "pair": "со",
+    "delta": 0,
+    "before_body_gap": 165.03,
+    "native_reference": "co",
+    "native_body_gap": 165.03
+  },
+  {
+    "pair": "сп",
+    "delta": 0,
+    "before_body_gap": 174.06,
+    "native_reference": "cn",
+    "native_body_gap": 174.06
+  },
+  {
+    "pair": "ср",
+    "delta": 0,
+    "before_body_gap": 176.53,
+    "native_reference": "cp",
+    "native_body_gap": 176.53
+  },
+  {
+    "pair": "сс",
+    "delta": 0,
+    "before_body_gap": 162.29,
+    "native_reference": "cc",
+    "native_body_gap": 162.29
+  },
+  {
+    "pair": "ст",
+    "delta": 0,
+    "before_body_gap": 174.04,
+    "native_reference": "cm",
+    "native_body_gap": 174.04
+  },
+  {
+    "pair": "су",
+    "delta": 0,
+    "before_body_gap": 209.57,
+    "native_reference": "cy",
+    "native_body_gap": 209.57
+  },
+  {
+    "pair": "сф",
+    "delta": 0,
+    "before_body_gap": 160.41,
+    "native_reference": "co",
+    "native_body_gap": 165.03
+  },
+  {
+    "pair": "сх",
+    "delta": 0,
+    "before_body_gap": 202.04,
+    "native_reference": "cx",
+    "native_body_gap": 195.19
+  },
+  {
+    "pair": "сц",
+    "delta": 0,
+    "before_body_gap": 175.15,
+    "native_reference": "cu",
+    "native_body_gap": 175.15
+  },
+  {
+    "pair": "сч",
+    "delta": -24,
+    "before_body_gap": 270.37,
+    "native_reference": "cu",
+    "native_body_gap": 175.15
+  },
+  {
+    "pair": "сш",
+    "delta": 0,
+    "before_body_gap": 175.15,
+    "native_reference": "cu",
+    "native_body_gap": 175.15
+  },
+  {
+    "pair": "сщ",
+    "delta": 0,
+    "before_body_gap": 175.15,
+    "native_reference": "cu",
+    "native_body_gap": 175.15
+  },
+  {
+    "pair": "съ",
+    "delta": 0,
+    "before_body_gap": 167.69,
+    "native_reference": "cb",
+    "native_body_gap": 164.77
+  },
+  {
+    "pair": "сь",
+    "delta": -3,
+    "before_body_gap": 174.4,
+    "native_reference": "cb",
+    "native_body_gap": 164.77
+  },
+  {
+    "pair": "сю",
+    "delta": -5,
+    "before_body_gap": 181.4,
+    "native_reference": "co",
+    "native_body_gap": 165.03
+  },
+  {
+    "pair": "ся",
+    "delta": -14,
+    "before_body_gap": 232.11,
+    "native_reference": "ca",
+    "native_body_gap": 186.78
+  },
+  {
+    "pair": "сѝ",
+    "delta": 0,
+    "before_body_gap": 175.15,
+    "native_reference": "cu",
+    "native_body_gap": 175.15
+  },
+  {
+    "pair": "та",
+    "delta": 0,
+    "before_body_gap": 161.78,
+    "native_reference": "ma",
+    "native_body_gap": 161.78
+  },
+  {
+    "pair": "тб",
+    "delta": 3,
+    "before_body_gap": 130.0,
+    "native_reference": "mb",
+    "native_body_gap": 140.18
+  },
+  {
+    "pair": "тв",
+    "delta": 3,
+    "before_body_gap": 130.64,
+    "native_reference": "mb",
+    "native_body_gap": 140.18
+  },
+  {
+    "pair": "тг",
+    "delta": -8,
+    "before_body_gap": 177.37,
+    "native_reference": "mr",
+    "native_body_gap": 149.76
+  },
+  {
+    "pair": "тд",
+    "delta": 7,
+    "before_body_gap": 135.89,
+    "native_reference": "mg",
+    "native_body_gap": 158.41
+  },
+  {
+    "pair": "те",
+    "delta": 0,
+    "before_body_gap": 134.83,
+    "native_reference": "me",
+    "native_body_gap": 134.83
+  },
+  {
+    "pair": "тж",
+    "delta": -24,
+    "before_body_gap": 240.97,
+    "native_reference": "mx",
+    "native_body_gap": 161.86
+  },
+  {
+    "pair": "тз",
+    "delta": -24,
+    "before_body_gap": 291.1,
+    "native_reference": "ms",
+    "native_body_gap": 148.1
+  },
+  {
+    "pair": "ти",
+    "delta": 0,
+    "before_body_gap": 147.34,
+    "native_reference": "mu",
+    "native_body_gap": 147.34
+  },
+  {
+    "pair": "тй",
+    "delta": 0,
+    "before_body_gap": 147.34,
+    "native_reference": "mu",
+    "native_body_gap": 147.34
+  },
+  {
+    "pair": "тк",
+    "delta": 0,
+    "before_body_gap": 143.8,
+    "native_reference": "mk",
+    "native_body_gap": 143.8
+  },
+  {
+    "pair": "тл",
+    "delta": -9,
+    "before_body_gap": 206.31,
+    "native_reference": "mv",
+    "native_body_gap": 170.14
+  },
+  {
+    "pair": "тм",
+    "delta": 0,
+    "before_body_gap": 167.9,
+    "native_reference": "mw",
+    "native_body_gap": 166.01
+  },
+  {
+    "pair": "тн",
+    "delta": 0,
+    "before_body_gap": 140.31,
+    "native_reference": "mh",
+    "native_body_gap": 143.8
+  },
+  {
+    "pair": "то",
+    "delta": 0,
+    "before_body_gap": 137.66,
+    "native_reference": "mo",
+    "native_body_gap": 137.66
+  },
+  {
+    "pair": "тп",
+    "delta": 0,
+    "before_body_gap": 150.04,
+    "native_reference": "mn",
+    "native_body_gap": 150.04
+  },
+  {
+    "pair": "тр",
+    "delta": 0,
+    "before_body_gap": 151.83,
+    "native_reference": "mp",
+    "native_body_gap": 151.83
+  },
+  {
+    "pair": "тс",
+    "delta": 0,
+    "before_body_gap": 135.35,
+    "native_reference": "mc",
+    "native_body_gap": 135.35
+  },
+  {
+    "pair": "тт",
+    "delta": 0,
+    "before_body_gap": 150.02,
+    "native_reference": "mm",
+    "native_body_gap": 150.02
+  },
+  {
+    "pair": "ту",
+    "delta": 0,
+    "before_body_gap": 171.94,
+    "native_reference": "my",
+    "native_body_gap": 171.94
+  },
+  {
+    "pair": "тф",
+    "delta": 0,
+    "before_body_gap": 139.76,
+    "native_reference": "mo",
+    "native_body_gap": 137.66
+  },
+  {
+    "pair": "тх",
+    "delta": 9,
+    "before_body_gap": 167.26,
+    "native_reference": "mx",
+    "native_body_gap": 161.86
+  },
+  {
+    "pair": "тц",
+    "delta": 0,
+    "before_body_gap": 147.34,
+    "native_reference": "mu",
+    "native_body_gap": 147.34
+  },
+  {
+    "pair": "тч",
+    "delta": -24,
+    "before_body_gap": 245.05,
+    "native_reference": "mu",
+    "native_body_gap": 147.34
+  },
+  {
+    "pair": "тш",
+    "delta": 0,
+    "before_body_gap": 147.34,
+    "native_reference": "mu",
+    "native_body_gap": 147.34
+  },
+  {
+    "pair": "тщ",
+    "delta": 0,
+    "before_body_gap": 147.34,
+    "native_reference": "mu",
+    "native_body_gap": 147.34
+  },
+  {
+    "pair": "тъ",
+    "delta": 0,
+    "before_body_gap": 140.49,
+    "native_reference": "mb",
+    "native_body_gap": 140.18
+  },
+  {
+    "pair": "ть",
+    "delta": -3,
+    "before_body_gap": 148.88,
+    "native_reference": "mb",
+    "native_body_gap": 140.18
+  },
+  {
+    "pair": "тю",
+    "delta": -3,
+    "before_body_gap": 149.29,
+    "native_reference": "mo",
+    "native_body_gap": 137.66
+  },
+  {
+    "pair": "тя",
+    "delta": -14,
+    "before_body_gap": 207.63,
+    "native_reference": "ma",
+    "native_body_gap": 161.78
+  },
+  {
+    "pair": "тѝ",
+    "delta": 0,
+    "before_body_gap": 147.34,
+    "native_reference": "mu",
+    "native_body_gap": 147.34
+  },
+  {
+    "pair": "уа",
+    "delta": 0,
+    "before_body_gap": 180.46,
+    "native_reference": "ya",
+    "native_body_gap": 180.46
+  },
+  {
+    "pair": "уб",
+    "delta": 5,
+    "before_body_gap": 147.07,
+    "native_reference": "yb",
+    "native_body_gap": 164.03
+  },
+  {
+    "pair": "ув",
+    "delta": 5,
+    "before_body_gap": 146.77,
+    "native_reference": "yb",
+    "native_body_gap": 164.03
+  },
+  {
+    "pair": "уг",
+    "delta": -10,
+    "before_body_gap": 197.41,
+    "native_reference": "yr",
+    "native_body_gap": 164.03
+  },
+  {
+    "pair": "уд",
+    "delta": -13,
+    "before_body_gap": 223.6,
+    "native_reference": "yg",
+    "native_body_gap": 179.54
+  },
+  {
+    "pair": "уе",
+    "delta": 0,
+    "before_body_gap": 151.56,
+    "native_reference": "ye",
+    "native_body_gap": 151.56
+  },
+  {
+    "pair": "уж",
+    "delta": -15,
+    "before_body_gap": 269.04,
+    "native_reference": "yx",
+    "native_body_gap": 176.98
+  },
+  {
+    "pair": "уз",
+    "delta": -24,
+    "before_body_gap": 353.31,
+    "native_reference": "ys",
+    "native_body_gap": 167.63
+  },
+  {
+    "pair": "уи",
+    "delta": 11,
+    "before_body_gap": 182.24,
+    "native_reference": "yu",
+    "native_body_gap": 182.24
+  },
+  {
+    "pair": "уй",
+    "delta": 11,
+    "before_body_gap": 182.24,
+    "native_reference": "yu",
+    "native_body_gap": 182.24
+  },
+  {
+    "pair": "ук",
+    "delta": 0,
+    "before_body_gap": 171.74,
+    "native_reference": "yk",
+    "native_body_gap": 171.74
+  },
+  {
+    "pair": "ул",
+    "delta": 5,
+    "before_body_gap": 182.02,
+    "native_reference": "yv",
+    "native_body_gap": 197.2
+  },
+  {
+    "pair": "ум",
+    "delta": 3,
+    "before_body_gap": 182.75,
+    "native_reference": "yw",
+    "native_body_gap": 192.98
+  },
+  {
+    "pair": "ун",
+    "delta": 0,
+    "before_body_gap": 169.43,
+    "native_reference": "yh",
+    "native_body_gap": 171.74
+  },
+  {
+    "pair": "уо",
+    "delta": 0,
+    "before_body_gap": 154.54,
+    "native_reference": "yo",
+    "native_body_gap": 154.54
+  },
+  {
+    "pair": "уп",
+    "delta": 0,
+    "before_body_gap": 164.03,
+    "native_reference": "yn",
+    "native_body_gap": 164.03
+  },
+  {
+    "pair": "ур",
+    "delta": 0,
+    "before_body_gap": 200.06,
+    "native_reference": "yp",
+    "native_body_gap": 200.06
+  },
+  {
+    "pair": "ус",
+    "delta": 0,
+    "before_body_gap": 151.59,
+    "native_reference": "yc",
+    "native_body_gap": 151.59
+  },
+  {
+    "pair": "ут",
+    "delta": 0,
+    "before_body_gap": 164.03,
+    "native_reference": "ym",
+    "native_body_gap": 164.03
+  },
+  {
+    "pair": "уу",
+    "delta": 54,
+    "before_body_gap": 228.95,
+    "native_reference": "yy",
+    "native_body_gap": 228.95
+  },
+  {
+    "pair": "уф",
+    "delta": -24,
+    "before_body_gap": 246.05,
+    "native_reference": "yo",
+    "native_body_gap": 154.54
+  },
+  {
+    "pair": "ух",
+    "delta": 36,
+    "before_body_gap": 185.04,
+    "native_reference": "yx",
+    "native_body_gap": 176.98
+  },
+  {
+    "pair": "уц",
+    "delta": 10,
+    "before_body_gap": 270.92,
+    "native_reference": "yu",
+    "native_body_gap": 182.24
+  },
+  {
+    "pair": "уч",
+    "delta": 6,
+    "before_body_gap": 276.16,
+    "native_reference": "yu",
+    "native_body_gap": 182.24
+  },
+  {
+    "pair": "уш",
+    "delta": 10,
+    "before_body_gap": 183.24,
+    "native_reference": "yu",
+    "native_body_gap": 182.24
+  },
+  {
+    "pair": "ущ",
+    "delta": 10,
+    "before_body_gap": 316.29,
+    "native_reference": "yu",
+    "native_body_gap": 182.24
+  },
+  {
+    "pair": "уъ",
+    "delta": 10,
+    "before_body_gap": 175.54,
+    "native_reference": "yb",
+    "native_body_gap": 164.03
+  },
+  {
+    "pair": "уь",
+    "delta": -5,
+    "before_body_gap": 182.25,
+    "native_reference": "yb",
+    "native_body_gap": 164.03
+  },
+  {
+    "pair": "ую",
+    "delta": -10,
+    "before_body_gap": 188.73,
+    "native_reference": "yo",
+    "native_body_gap": 154.54
+  },
+  {
+    "pair": "уя",
+    "delta": -18,
+    "before_body_gap": 238.96,
+    "native_reference": "ya",
+    "native_body_gap": 180.46
+  },
+  {
+    "pair": "уѝ",
+    "delta": 11,
+    "before_body_gap": 182.24,
+    "native_reference": "yu",
+    "native_body_gap": 182.24
+  },
+  {
+    "pair": "фа",
+    "delta": -9,
+    "before_body_gap": 176.65,
+    "native_reference": "oa",
+    "native_body_gap": 146.45
+  },
+  {
+    "pair": "фб",
+    "delta": -22,
+    "before_body_gap": 196.5,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "фв",
+    "delta": -21,
+    "before_body_gap": 193.74,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "фг",
+    "delta": -19,
+    "before_body_gap": 193.79,
+    "native_reference": "or",
+    "native_body_gap": 131.46
+  },
+  {
+    "pair": "фд",
+    "delta": -21,
+    "before_body_gap": 212.35,
+    "native_reference": "og",
+    "native_body_gap": 142.81
+  },
+  {
+    "pair": "фе",
+    "delta": -9,
+    "before_body_gap": 151.91,
+    "native_reference": "oe",
+    "native_body_gap": 121.7
+  },
+  {
+    "pair": "фж",
+    "delta": -24,
+    "before_body_gap": 315.39,
+    "native_reference": "ox",
+    "native_body_gap": 136.84
+  },
+  {
+    "pair": "фз",
+    "delta": -24,
+    "before_body_gap": 325.53,
+    "native_reference": "os",
+    "native_body_gap": 133.11
+  },
+  {
+    "pair": "фи",
+    "delta": -9,
+    "before_body_gap": 162.69,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "фй",
+    "delta": -22,
+    "before_body_gap": 205.57,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "фк",
+    "delta": -23,
+    "before_body_gap": 208.34,
+    "native_reference": "ok",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "фл",
+    "delta": -11,
+    "before_body_gap": 197.94,
+    "native_reference": "ov",
+    "native_body_gap": 159.83
+  },
+  {
+    "pair": "фм",
+    "delta": -9,
+    "before_body_gap": 183.95,
+    "native_reference": "ow",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "фн",
+    "delta": -8,
+    "before_body_gap": 156.83,
+    "native_reference": "oh",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "фо",
+    "delta": -9,
+    "before_body_gap": 154.91,
+    "native_reference": "oo",
+    "native_body_gap": 124.7
+  },
+  {
+    "pair": "фп",
+    "delta": -9,
+    "before_body_gap": 161.68,
+    "native_reference": "on",
+    "native_body_gap": 131.74
+  },
+  {
+    "pair": "фр",
+    "delta": -20,
+    "before_body_gap": 202.75,
+    "native_reference": "op",
+    "native_body_gap": 136.2
+  },
+  {
+    "pair": "фс",
+    "delta": -9,
+    "before_body_gap": 152.16,
+    "native_reference": "oc",
+    "native_body_gap": 121.96
+  },
+  {
+    "pair": "фт",
+    "delta": -9,
+    "before_body_gap": 161.66,
+    "native_reference": "om",
+    "native_body_gap": 131.72
+  },
+  {
+    "pair": "фу",
+    "delta": -22,
+    "before_body_gap": 233.3,
+    "native_reference": "oy",
+    "native_body_gap": 159.29
+  },
+  {
+    "pair": "фф",
+    "delta": -24,
+    "before_body_gap": 287.68,
+    "native_reference": "oo",
+    "native_body_gap": 124.7
+  },
+  {
+    "pair": "фх",
+    "delta": -14,
+    "before_body_gap": 184.9,
+    "native_reference": "ox",
+    "native_body_gap": 136.84
+  },
+  {
+    "pair": "фц",
+    "delta": -24,
+    "before_body_gap": 259.63,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "фч",
+    "delta": -24,
+    "before_body_gap": 255.57,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "фш",
+    "delta": -9,
+    "before_body_gap": 162.69,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "фщ",
+    "delta": -24,
+    "before_body_gap": 305.01,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "фъ",
+    "delta": -9,
+    "before_body_gap": 154.56,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "фь",
+    "delta": -11,
+    "before_body_gap": 161.27,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "фю",
+    "delta": -24,
+    "before_body_gap": 214.41,
+    "native_reference": "oo",
+    "native_body_gap": 124.7
+  },
+  {
+    "pair": "фя",
+    "delta": -18,
+    "before_body_gap": 205.98,
+    "native_reference": "oa",
+    "native_body_gap": 146.45
+  },
+  {
+    "pair": "фѝ",
+    "delta": -24,
+    "before_body_gap": 220.43,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "ха",
+    "delta": 0,
+    "before_body_gap": 180.51,
+    "native_reference": "xa",
+    "native_body_gap": 175.59
+  },
+  {
+    "pair": "хб",
+    "delta": 8,
+    "before_body_gap": 127.61,
+    "native_reference": "xb",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "хв",
+    "delta": 8,
+    "before_body_gap": 127.34,
+    "native_reference": "xb",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "хг",
+    "delta": -11,
+    "before_body_gap": 199.5,
+    "native_reference": "xr",
+    "native_body_gap": 163.48
+  },
+  {
+    "pair": "хд",
+    "delta": 0,
+    "before_body_gap": 153.55,
+    "native_reference": "xg",
+    "native_body_gap": 158.44
+  },
+  {
+    "pair": "хе",
+    "delta": 0,
+    "before_body_gap": 137.13,
+    "native_reference": "xe",
+    "native_body_gap": 132.45
+  },
+  {
+    "pair": "хж",
+    "delta": -24,
+    "before_body_gap": 262.57,
+    "native_reference": "xx",
+    "native_body_gap": 166.43
+  },
+  {
+    "pair": "хз",
+    "delta": -24,
+    "before_body_gap": 314.41,
+    "native_reference": "xs",
+    "native_body_gap": 148.43
+  },
+  {
+    "pair": "хи",
+    "delta": 0,
+    "before_body_gap": 170.93,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "хй",
+    "delta": 0,
+    "before_body_gap": 170.93,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "хк",
+    "delta": 0,
+    "before_body_gap": 165.28,
+    "native_reference": "xk",
+    "native_body_gap": 157.19
+  },
+  {
+    "pair": "хл",
+    "delta": -4,
+    "before_body_gap": 225.35,
+    "native_reference": "xv",
+    "native_body_gap": 178.71
+  },
+  {
+    "pair": "хм",
+    "delta": 0,
+    "before_body_gap": 189.51,
+    "native_reference": "xw",
+    "native_body_gap": 180.58
+  },
+  {
+    "pair": "хн",
+    "delta": 0,
+    "before_body_gap": 162.26,
+    "native_reference": "xh",
+    "native_body_gap": 157.19
+  },
+  {
+    "pair": "хо",
+    "delta": 0,
+    "before_body_gap": 129.9,
+    "native_reference": "xo",
+    "native_body_gap": 125.25
+  },
+  {
+    "pair": "хп",
+    "delta": 0,
+    "before_body_gap": 168.9,
+    "native_reference": "xn",
+    "native_body_gap": 163.48
+  },
+  {
+    "pair": "хр",
+    "delta": 0,
+    "before_body_gap": 171.06,
+    "native_reference": "xp",
+    "native_body_gap": 165.59
+  },
+  {
+    "pair": "хс",
+    "delta": 0,
+    "before_body_gap": 137.2,
+    "native_reference": "xc",
+    "native_body_gap": 132.73
+  },
+  {
+    "pair": "хт",
+    "delta": 0,
+    "before_body_gap": 168.9,
+    "native_reference": "xm",
+    "native_body_gap": 163.48
+  },
+  {
+    "pair": "ху",
+    "delta": 35,
+    "before_body_gap": 188.52,
+    "native_reference": "xy",
+    "native_body_gap": 180.51
+  },
+  {
+    "pair": "хф",
+    "delta": -10,
+    "before_body_gap": 157.39,
+    "native_reference": "xo",
+    "native_body_gap": 125.25
+  },
+  {
+    "pair": "хх",
+    "delta": 10,
+    "before_body_gap": 194.79,
+    "native_reference": "xx",
+    "native_body_gap": 166.43
+  },
+  {
+    "pair": "хц",
+    "delta": 0,
+    "before_body_gap": 170.93,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "хч",
+    "delta": -12,
+    "before_body_gap": 270.13,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "хш",
+    "delta": 0,
+    "before_body_gap": 170.93,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "хщ",
+    "delta": 0,
+    "before_body_gap": 170.93,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "хъ",
+    "delta": -3,
+    "before_body_gap": 164.0,
+    "native_reference": "xb",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "хь",
+    "delta": -5,
+    "before_body_gap": 170.87,
+    "native_reference": "xb",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "хю",
+    "delta": 0,
+    "before_body_gap": 170.76,
+    "native_reference": "xo",
+    "native_body_gap": 125.25
+  },
+  {
+    "pair": "хя",
+    "delta": -18,
+    "before_body_gap": 236.82,
+    "native_reference": "xa",
+    "native_body_gap": 175.59
+  },
+  {
+    "pair": "хѝ",
+    "delta": 0,
+    "before_body_gap": 170.93,
+    "native_reference": "xu",
+    "native_body_gap": 163.91
+  },
+  {
+    "pair": "ца",
+    "delta": 4,
+    "before_body_gap": 144.59,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "цб",
+    "delta": 6,
+    "before_body_gap": 117.2,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "цв",
+    "delta": 5,
+    "before_body_gap": 117.89,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "цг",
+    "delta": -8,
+    "before_body_gap": 168.54,
+    "native_reference": "ur",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "цд",
+    "delta": 4,
+    "before_body_gap": 134.51,
+    "native_reference": "ug",
+    "native_body_gap": 147.03
+  },
+  {
+    "pair": "це",
+    "delta": 4,
+    "before_body_gap": 119.69,
+    "native_reference": "ue",
+    "native_body_gap": 131.55
+  },
+  {
+    "pair": "цж",
+    "delta": -20,
+    "before_body_gap": 230.6,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "цз",
+    "delta": 0,
+    "before_body_gap": 257.39,
+    "native_reference": "us",
+    "native_body_gap": 143.62
+  },
+  {
+    "pair": "ци",
+    "delta": 4,
+    "before_body_gap": 134.36,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "цй",
+    "delta": 0,
+    "before_body_gap": 140.36,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "цк",
+    "delta": 0,
+    "before_body_gap": 135.3,
+    "native_reference": "uk",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "цл",
+    "delta": -9,
+    "before_body_gap": 209.58,
+    "native_reference": "uv",
+    "native_body_gap": 179.19
+  },
+  {
+    "pair": "цм",
+    "delta": 4,
+    "before_body_gap": 162.01,
+    "native_reference": "uw",
+    "native_body_gap": 174.97
+  },
+  {
+    "pair": "цн",
+    "delta": 3,
+    "before_body_gap": 132.99,
+    "native_reference": "uh",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "цо",
+    "delta": 4,
+    "before_body_gap": 122.66,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "цп",
+    "delta": 0,
+    "before_body_gap": 133.59,
+    "native_reference": "un",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "цр",
+    "delta": 7,
+    "before_body_gap": 122.78,
+    "native_reference": "up",
+    "native_body_gap": 146.15
+  },
+  {
+    "pair": "цс",
+    "delta": 4,
+    "before_body_gap": 119.71,
+    "native_reference": "uc",
+    "native_body_gap": 131.57
+  },
+  {
+    "pair": "цт",
+    "delta": 0,
+    "before_body_gap": 133.59,
+    "native_reference": "um",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "цу",
+    "delta": 6,
+    "before_body_gap": 161.3,
+    "native_reference": "uy",
+    "native_body_gap": 180.65
+  },
+  {
+    "pair": "цф",
+    "delta": -4,
+    "before_body_gap": 147.86,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "цх",
+    "delta": -4,
+    "before_body_gap": 176.55,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "цц",
+    "delta": -13,
+    "before_body_gap": 190.39,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "цч",
+    "delta": -24,
+    "before_body_gap": 237.72,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "цш",
+    "delta": 4,
+    "before_body_gap": 134.36,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "цщ",
+    "delta": -24,
+    "before_body_gap": 235.77,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "цъ",
+    "delta": 0,
+    "before_body_gap": 133.8,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "ць",
+    "delta": 0,
+    "before_body_gap": 140.51,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "цю",
+    "delta": 0,
+    "before_body_gap": 146.85,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "ця",
+    "delta": -13,
+    "before_body_gap": 198.23,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "цѝ",
+    "delta": 0,
+    "before_body_gap": 140.36,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ча",
+    "delta": 0,
+    "before_body_gap": 152.2,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "чб",
+    "delta": 7,
+    "before_body_gap": 113.05,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "чв",
+    "delta": 7,
+    "before_body_gap": 112.74,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "чг",
+    "delta": -8,
+    "before_body_gap": 169.68,
+    "native_reference": "ur",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "чд",
+    "delta": 6,
+    "before_body_gap": 125.78,
+    "native_reference": "ug",
+    "native_body_gap": 147.03
+  },
+  {
+    "pair": "че",
+    "delta": 0,
+    "before_body_gap": 125.06,
+    "native_reference": "ue",
+    "native_body_gap": 131.55
+  },
+  {
+    "pair": "чж",
+    "delta": -20,
+    "before_body_gap": 231.1,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "чз",
+    "delta": -24,
+    "before_body_gap": 283.8,
+    "native_reference": "us",
+    "native_body_gap": 143.62
+  },
+  {
+    "pair": "чи",
+    "delta": 0,
+    "before_body_gap": 140.51,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "чй",
+    "delta": 0,
+    "before_body_gap": 140.51,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "чк",
+    "delta": 0,
+    "before_body_gap": 141.8,
+    "native_reference": "uk",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "чл",
+    "delta": -5,
+    "before_body_gap": 197.08,
+    "native_reference": "uv",
+    "native_body_gap": 179.19
+  },
+  {
+    "pair": "чм",
+    "delta": 4,
+    "before_body_gap": 160.36,
+    "native_reference": "uw",
+    "native_body_gap": 174.97
+  },
+  {
+    "pair": "чн",
+    "delta": 0,
+    "before_body_gap": 139.49,
+    "native_reference": "uh",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "чо",
+    "delta": 0,
+    "before_body_gap": 127.86,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "чп",
+    "delta": 0,
+    "before_body_gap": 140.09,
+    "native_reference": "un",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "чр",
+    "delta": 0,
+    "before_body_gap": 142.2,
+    "native_reference": "up",
+    "native_body_gap": 146.15
+  },
+  {
+    "pair": "чс",
+    "delta": 0,
+    "before_body_gap": 125.34,
+    "native_reference": "uc",
+    "native_body_gap": 131.57
+  },
+  {
+    "pair": "чт",
+    "delta": 0,
+    "before_body_gap": 140.09,
+    "native_reference": "um",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "чу",
+    "delta": 0,
+    "before_body_gap": 175.12,
+    "native_reference": "uy",
+    "native_body_gap": 180.65
+  },
+  {
+    "pair": "чф",
+    "delta": 0,
+    "before_body_gap": 129.58,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "чх",
+    "delta": 0,
+    "before_body_gap": 169.17,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "чц",
+    "delta": 0,
+    "before_body_gap": 140.51,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "чч",
+    "delta": -24,
+    "before_body_gap": 238.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "чш",
+    "delta": 0,
+    "before_body_gap": 140.51,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "чщ",
+    "delta": 0,
+    "before_body_gap": 140.51,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "чъ",
+    "delta": 0,
+    "before_body_gap": 133.67,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "чь",
+    "delta": 0,
+    "before_body_gap": 142.06,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "чю",
+    "delta": 0,
+    "before_body_gap": 141.28,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "чя",
+    "delta": -13,
+    "before_body_gap": 200.81,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "чѝ",
+    "delta": 0,
+    "before_body_gap": 140.51,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ша",
+    "delta": 0,
+    "before_body_gap": 157.76,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "шб",
+    "delta": 0,
+    "before_body_gap": 130.37,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "шв",
+    "delta": 0,
+    "before_body_gap": 131.06,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "шг",
+    "delta": -5,
+    "before_body_gap": 156.71,
+    "native_reference": "ur",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "шд",
+    "delta": 10,
+    "before_body_gap": 114.18,
+    "native_reference": "ug",
+    "native_body_gap": 147.03
+  },
+  {
+    "pair": "ше",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ue",
+    "native_body_gap": 131.55
+  },
+  {
+    "pair": "шж",
+    "delta": -15,
+    "before_body_gap": 213.08,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "шз",
+    "delta": -24,
+    "before_body_gap": 259.03,
+    "native_reference": "us",
+    "native_body_gap": 143.62
+  },
+  {
+    "pair": "ши",
+    "delta": 0,
+    "before_body_gap": 147.53,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "шй",
+    "delta": 5,
+    "before_body_gap": 128.53,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "шк",
+    "delta": 0,
+    "before_body_gap": 142.78,
+    "native_reference": "uk",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "шл",
+    "delta": -4,
+    "before_body_gap": 192.06,
+    "native_reference": "uv",
+    "native_body_gap": 179.19
+  },
+  {
+    "pair": "шм",
+    "delta": 8,
+    "before_body_gap": 148.1,
+    "native_reference": "uw",
+    "native_body_gap": 174.97
+  },
+  {
+    "pair": "шн",
+    "delta": 0,
+    "before_body_gap": 140.47,
+    "native_reference": "uh",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "шо",
+    "delta": 0,
+    "before_body_gap": 135.83,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "шп",
+    "delta": 0,
+    "before_body_gap": 141.07,
+    "native_reference": "un",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "шр",
+    "delta": 0,
+    "before_body_gap": 147.46,
+    "native_reference": "up",
+    "native_body_gap": 146.15
+  },
+  {
+    "pair": "шс",
+    "delta": 0,
+    "before_body_gap": 132.88,
+    "native_reference": "uc",
+    "native_body_gap": 131.57
+  },
+  {
+    "pair": "шт",
+    "delta": 0,
+    "before_body_gap": 141.07,
+    "native_reference": "um",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "шу",
+    "delta": 0,
+    "before_body_gap": 181.95,
+    "native_reference": "uy",
+    "native_body_gap": 180.65
+  },
+  {
+    "pair": "шф",
+    "delta": 5,
+    "before_body_gap": 118.84,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "шх",
+    "delta": 0,
+    "before_body_gap": 170.15,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "шц",
+    "delta": 0,
+    "before_body_gap": 147.53,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "шч",
+    "delta": -22,
+    "before_body_gap": 220.2,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "шш",
+    "delta": 0,
+    "before_body_gap": 147.53,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "шщ",
+    "delta": 0,
+    "before_body_gap": 147.53,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "шъ",
+    "delta": 5,
+    "before_body_gap": 119.89,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "шь",
+    "delta": 3,
+    "before_body_gap": 126.6,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "шю",
+    "delta": 0,
+    "before_body_gap": 135.02,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "шя",
+    "delta": -8,
+    "before_body_gap": 184.32,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "шѝ",
+    "delta": 5,
+    "before_body_gap": 128.53,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ща",
+    "delta": 4,
+    "before_body_gap": 144.59,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "щб",
+    "delta": 6,
+    "before_body_gap": 117.2,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "щв",
+    "delta": 5,
+    "before_body_gap": 117.89,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "щг",
+    "delta": -8,
+    "before_body_gap": 168.54,
+    "native_reference": "ur",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "щд",
+    "delta": 4,
+    "before_body_gap": 134.51,
+    "native_reference": "ug",
+    "native_body_gap": 147.03
+  },
+  {
+    "pair": "ще",
+    "delta": 4,
+    "before_body_gap": 119.69,
+    "native_reference": "ue",
+    "native_body_gap": 131.55
+  },
+  {
+    "pair": "щж",
+    "delta": -20,
+    "before_body_gap": 230.6,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "щз",
+    "delta": 0,
+    "before_body_gap": 257.39,
+    "native_reference": "us",
+    "native_body_gap": 143.62
+  },
+  {
+    "pair": "щи",
+    "delta": 4,
+    "before_body_gap": 134.36,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "щй",
+    "delta": 0,
+    "before_body_gap": 140.36,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "щк",
+    "delta": 0,
+    "before_body_gap": 135.3,
+    "native_reference": "uk",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "щл",
+    "delta": -9,
+    "before_body_gap": 209.58,
+    "native_reference": "uv",
+    "native_body_gap": 179.19
+  },
+  {
+    "pair": "щм",
+    "delta": 4,
+    "before_body_gap": 162.01,
+    "native_reference": "uw",
+    "native_body_gap": 174.97
+  },
+  {
+    "pair": "щн",
+    "delta": 3,
+    "before_body_gap": 132.99,
+    "native_reference": "uh",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "що",
+    "delta": 4,
+    "before_body_gap": 122.66,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "щп",
+    "delta": 0,
+    "before_body_gap": 133.59,
+    "native_reference": "un",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "щр",
+    "delta": 7,
+    "before_body_gap": 122.78,
+    "native_reference": "up",
+    "native_body_gap": 146.15
+  },
+  {
+    "pair": "щс",
+    "delta": 4,
+    "before_body_gap": 119.71,
+    "native_reference": "uc",
+    "native_body_gap": 131.57
+  },
+  {
+    "pair": "щт",
+    "delta": 0,
+    "before_body_gap": 133.59,
+    "native_reference": "um",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "щу",
+    "delta": 6,
+    "before_body_gap": 161.3,
+    "native_reference": "uy",
+    "native_body_gap": 180.65
+  },
+  {
+    "pair": "щф",
+    "delta": -4,
+    "before_body_gap": 147.86,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "щх",
+    "delta": -4,
+    "before_body_gap": 176.55,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "щц",
+    "delta": -13,
+    "before_body_gap": 190.39,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "щч",
+    "delta": -24,
+    "before_body_gap": 237.72,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "щш",
+    "delta": 4,
+    "before_body_gap": 134.36,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "щщ",
+    "delta": -24,
+    "before_body_gap": 235.77,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "щъ",
+    "delta": 0,
+    "before_body_gap": 133.8,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "щь",
+    "delta": 0,
+    "before_body_gap": 140.51,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "щю",
+    "delta": 0,
+    "before_body_gap": 146.85,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "щя",
+    "delta": -13,
+    "before_body_gap": 198.23,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "щѝ",
+    "delta": 0,
+    "before_body_gap": 140.36,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ъа",
+    "delta": -12,
+    "before_body_gap": 199.74,
+    "native_reference": "ba",
+    "native_body_gap": 160.03
+  },
+  {
+    "pair": "ъб",
+    "delta": 13,
+    "before_body_gap": 162.42,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "ъв",
+    "delta": 14,
+    "before_body_gap": 162.11,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "ъг",
+    "delta": -22,
+    "before_body_gap": 217.61,
+    "native_reference": "br",
+    "native_body_gap": 144.67
+  },
+  {
+    "pair": "ъд",
+    "delta": 12,
+    "before_body_gap": 174.55,
+    "native_reference": "bg",
+    "native_body_gap": 214.08
+  },
+  {
+    "pair": "ъе",
+    "delta": -12,
+    "before_body_gap": 174.08,
+    "native_reference": "be",
+    "native_body_gap": 135.29
+  },
+  {
+    "pair": "ъж",
+    "delta": -24,
+    "before_body_gap": 277.4,
+    "native_reference": "bx",
+    "native_body_gap": 150.34
+  },
+  {
+    "pair": "ъз",
+    "delta": -24,
+    "before_body_gap": 307.65,
+    "native_reference": "bs",
+    "native_body_gap": 146.7
+  },
+  {
+    "pair": "ъи",
+    "delta": -13,
+    "before_body_gap": 189.03,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ъй",
+    "delta": -13,
+    "before_body_gap": 189.03,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ък",
+    "delta": 9,
+    "before_body_gap": 188.1,
+    "native_reference": "bk",
+    "native_body_gap": 216.65
+  },
+  {
+    "pair": "ъл",
+    "delta": -21,
+    "before_body_gap": 243.38,
+    "native_reference": "bv",
+    "native_body_gap": 173.72
+  },
+  {
+    "pair": "ъм",
+    "delta": -12,
+    "before_body_gap": 210.98,
+    "native_reference": "bw",
+    "native_body_gap": 169.5
+  },
+  {
+    "pair": "ън",
+    "delta": 9,
+    "before_body_gap": 185.79,
+    "native_reference": "bh",
+    "native_body_gap": 216.65
+  },
+  {
+    "pair": "ъо",
+    "delta": -12,
+    "before_body_gap": 177.0,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "ъп",
+    "delta": -12,
+    "before_body_gap": 186.39,
+    "native_reference": "bn",
+    "native_body_gap": 144.94
+  },
+  {
+    "pair": "ър",
+    "delta": -12,
+    "before_body_gap": 189.72,
+    "native_reference": "bp",
+    "native_body_gap": 149.79
+  },
+  {
+    "pair": "ъс",
+    "delta": -12,
+    "before_body_gap": 174.2,
+    "native_reference": "bc",
+    "native_body_gap": 135.55
+  },
+  {
+    "pair": "ът",
+    "delta": -12,
+    "before_body_gap": 186.39,
+    "native_reference": "bm",
+    "native_body_gap": 144.92
+  },
+  {
+    "pair": "ъу",
+    "delta": -8,
+    "before_body_gap": 198.7,
+    "native_reference": "by",
+    "native_body_gap": 173.18
+  },
+  {
+    "pair": "ъф",
+    "delta": -12,
+    "before_body_gap": 179.01,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "ъх",
+    "delta": -17,
+    "before_body_gap": 206.63,
+    "native_reference": "bx",
+    "native_body_gap": 150.34
+  },
+  {
+    "pair": "ъц",
+    "delta": -13,
+    "before_body_gap": 189.03,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ъч",
+    "delta": -24,
+    "before_body_gap": 284.52,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ъш",
+    "delta": -13,
+    "before_body_gap": 189.03,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ъщ",
+    "delta": -13,
+    "before_body_gap": 189.03,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ъъ",
+    "delta": 16,
+    "before_body_gap": 151.77,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "ъь",
+    "delta": 15,
+    "before_body_gap": 158.48,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "ъю",
+    "delta": -17,
+    "before_body_gap": 193.62,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "ъя",
+    "delta": -24,
+    "before_body_gap": 247.19,
+    "native_reference": "ba",
+    "native_body_gap": 160.03
+  },
+  {
+    "pair": "ъѝ",
+    "delta": -13,
+    "before_body_gap": 189.03,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ьа",
+    "delta": -12,
+    "before_body_gap": 198.94,
+    "native_reference": "ba",
+    "native_body_gap": 160.03
+  },
+  {
+    "pair": "ьб",
+    "delta": 14,
+    "before_body_gap": 161.62,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "ьв",
+    "delta": 14,
+    "before_body_gap": 161.31,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "ьг",
+    "delta": -22,
+    "before_body_gap": 216.81,
+    "native_reference": "br",
+    "native_body_gap": 144.67
+  },
+  {
+    "pair": "ьд",
+    "delta": 12,
+    "before_body_gap": 173.75,
+    "native_reference": "bg",
+    "native_body_gap": 214.08
+  },
+  {
+    "pair": "ье",
+    "delta": -11,
+    "before_body_gap": 173.29,
+    "native_reference": "be",
+    "native_body_gap": 135.29
+  },
+  {
+    "pair": "ьж",
+    "delta": -24,
+    "before_body_gap": 276.59,
+    "native_reference": "bx",
+    "native_body_gap": 150.34
+  },
+  {
+    "pair": "ьз",
+    "delta": -24,
+    "before_body_gap": 306.85,
+    "native_reference": "bs",
+    "native_body_gap": 146.7
+  },
+  {
+    "pair": "ьи",
+    "delta": -12,
+    "before_body_gap": 188.23,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ьй",
+    "delta": -12,
+    "before_body_gap": 188.23,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ьк",
+    "delta": 9,
+    "before_body_gap": 187.29,
+    "native_reference": "bk",
+    "native_body_gap": 216.65
+  },
+  {
+    "pair": "ьл",
+    "delta": -21,
+    "before_body_gap": 242.57,
+    "native_reference": "bv",
+    "native_body_gap": 173.72
+  },
+  {
+    "pair": "ьм",
+    "delta": -12,
+    "before_body_gap": 210.18,
+    "native_reference": "bw",
+    "native_body_gap": 169.5
+  },
+  {
+    "pair": "ьн",
+    "delta": 10,
+    "before_body_gap": 184.98,
+    "native_reference": "bh",
+    "native_body_gap": 216.65
+  },
+  {
+    "pair": "ьо",
+    "delta": -11,
+    "before_body_gap": 176.2,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "ьп",
+    "delta": -12,
+    "before_body_gap": 185.58,
+    "native_reference": "bn",
+    "native_body_gap": 144.94
+  },
+  {
+    "pair": "ьр",
+    "delta": -12,
+    "before_body_gap": 188.92,
+    "native_reference": "bp",
+    "native_body_gap": 149.79
+  },
+  {
+    "pair": "ьс",
+    "delta": -11,
+    "before_body_gap": 173.4,
+    "native_reference": "bc",
+    "native_body_gap": 135.55
+  },
+  {
+    "pair": "ьт",
+    "delta": -12,
+    "before_body_gap": 185.58,
+    "native_reference": "bm",
+    "native_body_gap": 144.92
+  },
+  {
+    "pair": "ьу",
+    "delta": -7,
+    "before_body_gap": 197.9,
+    "native_reference": "by",
+    "native_body_gap": 173.18
+  },
+  {
+    "pair": "ьф",
+    "delta": -12,
+    "before_body_gap": 178.22,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "ьх",
+    "delta": -17,
+    "before_body_gap": 206.63,
+    "native_reference": "bx",
+    "native_body_gap": 150.34
+  },
+  {
+    "pair": "ьц",
+    "delta": -12,
+    "before_body_gap": 188.23,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ьч",
+    "delta": -24,
+    "before_body_gap": 283.71,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ьш",
+    "delta": -12,
+    "before_body_gap": 188.23,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ьщ",
+    "delta": -12,
+    "before_body_gap": 188.23,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "ьъ",
+    "delta": 16,
+    "before_body_gap": 150.97,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "ьь",
+    "delta": 15,
+    "before_body_gap": 157.68,
+    "native_reference": "bb",
+    "native_body_gap": 207.25
+  },
+  {
+    "pair": "ью",
+    "delta": -16,
+    "before_body_gap": 192.82,
+    "native_reference": "bo",
+    "native_body_gap": 138.29
+  },
+  {
+    "pair": "ья",
+    "delta": -24,
+    "before_body_gap": 246.4,
+    "native_reference": "ba",
+    "native_body_gap": 160.03
+  },
+  {
+    "pair": "ьѝ",
+    "delta": -12,
+    "before_body_gap": 188.23,
+    "native_reference": "bu",
+    "native_body_gap": 146.75
+  },
+  {
+    "pair": "юа",
+    "delta": 0,
+    "before_body_gap": 146.45,
+    "native_reference": "oa",
+    "native_body_gap": 146.45
+  },
+  {
+    "pair": "юб",
+    "delta": -24,
+    "before_body_gap": 243.42,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "юв",
+    "delta": -24,
+    "before_body_gap": 243.72,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "юг",
+    "delta": -10,
+    "before_body_gap": 165.61,
+    "native_reference": "or",
+    "native_body_gap": 131.46
+  },
+  {
+    "pair": "юд",
+    "delta": 6,
+    "before_body_gap": 122.37,
+    "native_reference": "og",
+    "native_body_gap": 142.81
+  },
+  {
+    "pair": "юе",
+    "delta": 0,
+    "before_body_gap": 121.7,
+    "native_reference": "oe",
+    "native_body_gap": 121.7
+  },
+  {
+    "pair": "юж",
+    "delta": -24,
+    "before_body_gap": 366.86,
+    "native_reference": "ox",
+    "native_body_gap": 136.84
+  },
+  {
+    "pair": "юз",
+    "delta": -24,
+    "before_body_gap": 277.46,
+    "native_reference": "os",
+    "native_body_gap": 133.11
+  },
+  {
+    "pair": "юи",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "юй",
+    "delta": -24,
+    "before_body_gap": 236.55,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "юк",
+    "delta": -24,
+    "before_body_gap": 259.81,
+    "native_reference": "ok",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "юл",
+    "delta": 0,
+    "before_body_gap": 168.0,
+    "native_reference": "ov",
+    "native_body_gap": 159.83
+  },
+  {
+    "pair": "юм",
+    "delta": 0,
+    "before_body_gap": 153.95,
+    "native_reference": "ow",
+    "native_body_gap": 155.61
+  },
+  {
+    "pair": "юн",
+    "delta": 0,
+    "before_body_gap": 127.29,
+    "native_reference": "oh",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "юо",
+    "delta": 0,
+    "before_body_gap": 124.7,
+    "native_reference": "oo",
+    "native_body_gap": 124.7
+  },
+  {
+    "pair": "юп",
+    "delta": 0,
+    "before_body_gap": 131.74,
+    "native_reference": "on",
+    "native_body_gap": 131.74
+  },
+  {
+    "pair": "юр",
+    "delta": 0,
+    "before_body_gap": 136.2,
+    "native_reference": "op",
+    "native_body_gap": 136.2
+  },
+  {
+    "pair": "юс",
+    "delta": 0,
+    "before_body_gap": 121.96,
+    "native_reference": "oc",
+    "native_body_gap": 121.96
+  },
+  {
+    "pair": "ют",
+    "delta": 0,
+    "before_body_gap": 131.72,
+    "native_reference": "om",
+    "native_body_gap": 131.72
+  },
+  {
+    "pair": "юу",
+    "delta": 0,
+    "before_body_gap": 167.29,
+    "native_reference": "oy",
+    "native_body_gap": 159.29
+  },
+  {
+    "pair": "юф",
+    "delta": -24,
+    "before_body_gap": 297.17,
+    "native_reference": "oo",
+    "native_body_gap": 124.7
+  },
+  {
+    "pair": "юх",
+    "delta": -6,
+    "before_body_gap": 155.57,
+    "native_reference": "ox",
+    "native_body_gap": 136.84
+  },
+  {
+    "pair": "юц",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "юч",
+    "delta": -24,
+    "before_body_gap": 226.02,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "юш",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "ющ",
+    "delta": 0,
+    "before_body_gap": 132.86,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "юъ",
+    "delta": 0,
+    "before_body_gap": 124.71,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "юь",
+    "delta": 0,
+    "before_body_gap": 131.42,
+    "native_reference": "ob",
+    "native_body_gap": 124.44
+  },
+  {
+    "pair": "юю",
+    "delta": -24,
+    "before_body_gap": 264.39,
+    "native_reference": "oo",
+    "native_body_gap": 124.7
+  },
+  {
+    "pair": "юя",
+    "delta": -9,
+    "before_body_gap": 176.14,
+    "native_reference": "oa",
+    "native_body_gap": 146.45
+  },
+  {
+    "pair": "юѝ",
+    "delta": -24,
+    "before_body_gap": 252.64,
+    "native_reference": "ou",
+    "native_body_gap": 132.86
+  },
+  {
+    "pair": "яа",
+    "delta": -4,
+    "before_body_gap": 165.41,
+    "native_reference": "aa",
+    "native_body_gap": 153.49
+  },
+  {
+    "pair": "яб",
+    "delta": 0,
+    "before_body_gap": 128.1,
+    "native_reference": "ab",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "яв",
+    "delta": 0,
+    "before_body_gap": 127.79,
+    "native_reference": "ab",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "яг",
+    "delta": -13,
+    "before_body_gap": 183.28,
+    "native_reference": "ar",
+    "native_body_gap": 141.17
+  },
+  {
+    "pair": "яд",
+    "delta": 0,
+    "before_body_gap": 140.23,
+    "native_reference": "ag",
+    "native_body_gap": 139.86
+  },
+  {
+    "pair": "яе",
+    "delta": -3,
+    "before_body_gap": 139.76,
+    "native_reference": "ae",
+    "native_body_gap": 128.75
+  },
+  {
+    "pair": "яж",
+    "delta": -24,
+    "before_body_gap": 239.55,
+    "native_reference": "ax",
+    "native_body_gap": 153.02
+  },
+  {
+    "pair": "яз",
+    "delta": -24,
+    "before_body_gap": 298.33,
+    "native_reference": "as",
+    "native_body_gap": 140.15
+  },
+  {
+    "pair": "яи",
+    "delta": -4,
+    "before_body_gap": 154.71,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "яй",
+    "delta": -4,
+    "before_body_gap": 154.71,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "як",
+    "delta": -3,
+    "before_body_gap": 150.25,
+    "native_reference": "ak",
+    "native_body_gap": 141.2
+  },
+  {
+    "pair": "ял",
+    "delta": -15,
+    "before_body_gap": 205.54,
+    "native_reference": "av",
+    "native_body_gap": 155.29
+  },
+  {
+    "pair": "ям",
+    "delta": -8,
+    "before_body_gap": 176.66,
+    "native_reference": "aw",
+    "native_body_gap": 151.08
+  },
+  {
+    "pair": "ян",
+    "delta": 0,
+    "before_body_gap": 147.94,
+    "native_reference": "ah",
+    "native_body_gap": 141.2
+  },
+  {
+    "pair": "яо",
+    "delta": -3,
+    "before_body_gap": 142.67,
+    "native_reference": "ao",
+    "native_body_gap": 131.75
+  },
+  {
+    "pair": "яп",
+    "delta": 0,
+    "before_body_gap": 148.54,
+    "native_reference": "an",
+    "native_body_gap": 141.45
+  },
+  {
+    "pair": "яр",
+    "delta": -4,
+    "before_body_gap": 155.39,
+    "native_reference": "ap",
+    "native_body_gap": 143.25
+  },
+  {
+    "pair": "яс",
+    "delta": -3,
+    "before_body_gap": 139.88,
+    "native_reference": "ac",
+    "native_body_gap": 129.0
+  },
+  {
+    "pair": "ят",
+    "delta": 0,
+    "before_body_gap": 148.54,
+    "native_reference": "am",
+    "native_body_gap": 141.43
+  },
+  {
+    "pair": "яу",
+    "delta": 7,
+    "before_body_gap": 189.38,
+    "native_reference": "ay",
+    "native_body_gap": 156.75
+  },
+  {
+    "pair": "яф",
+    "delta": -4,
+    "before_body_gap": 144.69,
+    "native_reference": "ao",
+    "native_body_gap": 131.75
+  },
+  {
+    "pair": "ях",
+    "delta": -8,
+    "before_body_gap": 178.63,
+    "native_reference": "ax",
+    "native_body_gap": 153.02
+  },
+  {
+    "pair": "яц",
+    "delta": -4,
+    "before_body_gap": 154.71,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "яч",
+    "delta": -24,
+    "before_body_gap": 246.68,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "яш",
+    "delta": -4,
+    "before_body_gap": 154.71,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "ящ",
+    "delta": -4,
+    "before_body_gap": 154.71,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "яъ",
+    "delta": -5,
+    "before_body_gap": 148.44,
+    "native_reference": "ab",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "яь",
+    "delta": -7,
+    "before_body_gap": 155.15,
+    "native_reference": "ab",
+    "native_body_gap": 131.49
+  },
+  {
+    "pair": "яю",
+    "delta": -8,
+    "before_body_gap": 159.3,
+    "native_reference": "ao",
+    "native_body_gap": 131.75
+  },
+  {
+    "pair": "яя",
+    "delta": -18,
+    "before_body_gap": 212.87,
+    "native_reference": "aa",
+    "native_body_gap": 153.49
+  },
+  {
+    "pair": "яѝ",
+    "delta": -4,
+    "before_body_gap": 154.71,
+    "native_reference": "au",
+    "native_body_gap": 140.33
+  },
+  {
+    "pair": "ѝа",
+    "delta": 0,
+    "before_body_gap": 156.45,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "ѝб",
+    "delta": -7,
+    "before_body_gap": 160.41,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "ѝв",
+    "delta": -7,
+    "before_body_gap": 159.41,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "ѝг",
+    "delta": -10,
+    "before_body_gap": 174.4,
+    "native_reference": "ur",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "ѝд",
+    "delta": 5,
+    "before_body_gap": 131.87,
+    "native_reference": "ug",
+    "native_body_gap": 147.03
+  },
+  {
+    "pair": "ѝе",
+    "delta": 0,
+    "before_body_gap": 131.55,
+    "native_reference": "ue",
+    "native_body_gap": 131.55
+  },
+  {
+    "pair": "ѝж",
+    "delta": -24,
+    "before_body_gap": 290.08,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "ѝз",
+    "delta": -24,
+    "before_body_gap": 289.72,
+    "native_reference": "us",
+    "native_body_gap": 143.62
+  },
+  {
+    "pair": "ѝи",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ѝй",
+    "delta": -10,
+    "before_body_gap": 177.97,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ѝк",
+    "delta": -9,
+    "before_body_gap": 172.52,
+    "native_reference": "uk",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "ѝл",
+    "delta": -6,
+    "before_body_gap": 198.59,
+    "native_reference": "uv",
+    "native_body_gap": 179.19
+  },
+  {
+    "pair": "ѝм",
+    "delta": 3,
+    "before_body_gap": 165.79,
+    "native_reference": "uw",
+    "native_body_gap": 174.97
+  },
+  {
+    "pair": "ѝн",
+    "delta": 0,
+    "before_body_gap": 141.0,
+    "native_reference": "uh",
+    "native_body_gap": 143.31
+  },
+  {
+    "pair": "ѝо",
+    "delta": 0,
+    "before_body_gap": 134.53,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "ѝп",
+    "delta": 0,
+    "before_body_gap": 141.6,
+    "native_reference": "un",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "ѝр",
+    "delta": 0,
+    "before_body_gap": 146.15,
+    "native_reference": "up",
+    "native_body_gap": 146.15
+  },
+  {
+    "pair": "ѝс",
+    "delta": 0,
+    "before_body_gap": 131.57,
+    "native_reference": "uc",
+    "native_body_gap": 131.57
+  },
+  {
+    "pair": "ѝт",
+    "delta": 0,
+    "before_body_gap": 141.6,
+    "native_reference": "um",
+    "native_body_gap": 141.6
+  },
+  {
+    "pair": "ѝу",
+    "delta": 0,
+    "before_body_gap": 180.65,
+    "native_reference": "uy",
+    "native_body_gap": 180.65
+  },
+  {
+    "pair": "ѝф",
+    "delta": -20,
+    "before_body_gap": 199.69,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "ѝх",
+    "delta": 0,
+    "before_body_gap": 170.69,
+    "native_reference": "ux",
+    "native_body_gap": 164.55
+  },
+  {
+    "pair": "ѝц",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ѝч",
+    "delta": -24,
+    "before_body_gap": 239.73,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ѝш",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ѝщ",
+    "delta": 0,
+    "before_body_gap": 146.22,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  },
+  {
+    "pair": "ѝъ",
+    "delta": 0,
+    "before_body_gap": 137.57,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "ѝь",
+    "delta": 0,
+    "before_body_gap": 144.28,
+    "native_reference": "ub",
+    "native_body_gap": 136.02
+  },
+  {
+    "pair": "ѝю",
+    "delta": -13,
+    "before_body_gap": 179.14,
+    "native_reference": "uo",
+    "native_body_gap": 134.53
+  },
+  {
+    "pair": "ѝя",
+    "delta": -14,
+    "before_body_gap": 202.0,
+    "native_reference": "ua",
+    "native_body_gap": 156.45
+  },
+  {
+    "pair": "ѝѝ",
+    "delta": -15,
+    "before_body_gap": 196.98,
+    "native_reference": "uu",
+    "native_body_gap": 146.22
+  }
+]

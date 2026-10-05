@@ -1,0 +1,102 @@
+{
+  "Ъ": {
+    "advance": 574,
+    "bounds": [
+      50,
+      0,
+      550,
+      729
+    ],
+    "adjacent_duplicates": 0
+  },
+  "б": {
+    "advance": 408,
+    "bounds": [
+      23,
+      -9,
+      383,
+      730
+    ],
+    "adjacent_duplicates": 0
+  },
+  "ц": {
+    "advance": 460,
+    "bounds": [
+      11,
+      -130,
+      455,
+      510
+    ],
+    "adjacent_duplicates": 0
+  },
+  "щ": {
+    "advance": 702,
+    "bounds": [
+      11,
+      -130,
+      697,
+      510
+    ],
+    "adjacent_duplicates": 0
+  },
+  "ъ": {
+    "advance": 451,
+    "bounds": [
+      7,
+      -7,
+      415,
+      512
+    ],
+    "adjacent_duplicates": 0
+  },
+  "ь": {
+    "advance": 451,
+    "bounds": [
+      17,
+      -7,
+      415,
+      510
+    ],
+    "adjacent_duplicates": 0
+  },
+  "я": {
+    "advance": 496,
+    "bounds": [
+      20,
+      -6,
+      475,
+      510
+    ],
+    "adjacent_duplicates": 0
+  },
+  "ж": {
+    "advance": 636,
+    "bounds": [
+      31,
+      0,
+      605,
+      740
+    ],
+    "adjacent_duplicates": 0
+  },
+  "х": {
+    "advance": 393,
+    "bounds": [
+      2,
+      0,
+      387,
+      500
+    ],
+    "adjacent_duplicates": 0
+  },
+  "д": {
+    "advance": 406,
+    "bounds": [
+      23,
+      -205,
+      374,
+      516
+    ],
+    "adjacent_duplicates": 0
+  }
+}

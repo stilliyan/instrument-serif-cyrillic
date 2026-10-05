@@ -1,7 +1,7 @@
 @font-face{font-family:PixelSans;src:url('fonts/BratPixelSans-v5-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 /* Original user-provided font: personal-use local preview only. See fonts/Darkcastle-Usage.txt. */
 
-@font-face{font-family:"Lirena";src:url('fonts/Lirena-Regular.woff2?v=0.5.7') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Lirena";src:url('fonts/Lirena-Regular.woff2?v=0.5.8-final') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:"Lirena";src:url('fonts/Lirena-Italic.woff2') format('woff2');font-weight:400;font-style:italic;font-display:swap}
 @font-face{font-family:Brat;src:url('fonts/BratSuisseText-v2-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:Brat;src:url('fonts/BratSuisseText-v2-Medium.woff2') format('woff2');font-weight:500;font-style:normal;font-display:swap}
@@ -353,10 +353,10 @@ body{background:var(--bg);min-height:100svh}
  background:transparent;color:var(--fg);white-space:nowrap;max-width:100%;
 }
 .nav-download.download-action{width:144px;height:40px;padding:0 16px;font-size:13px;line-height:1.3;background:var(--fg);color:var(--bg);border-color:var(--fg)}
-.download-panel .download-button.download-action{width:224px;height:40px;padding:0 24px}
+.download-panel .download-button.download-action{width:224px;height:40px;padding:0 16px;justify-content:space-between;gap:16px;background:#fff;color:var(--bg);border-color:#fff}
 .download-action-copy{display:block;transform:translateX(0)}
 .download-action-leading,.download-action-trailing{display:flex;align-items:center;justify-content:center;width:12px;height:12px;flex-shrink:0}
-.download-action-leading{position:absolute;inset-inline-start:24px;transform:translateX(-40px);opacity:0}
+.download-action-leading{position:absolute;inset-inline-start:16px;transform:translateX(-40px);opacity:0}
 .nav-download.download-action>.download-action-leading{position:absolute;inset-inline-start:16px;width:12px;height:12px;padding:0;margin:0;overflow:visible;clip-path:none}
 .download-action-trailing{transform:translateX(0);opacity:1}
 .nav-download.download-action:focus-visible,.download-panel .download-button.download-action:focus-visible{background:#fff;color:var(--bg);border-color:#fff}

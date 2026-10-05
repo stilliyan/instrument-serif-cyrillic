@@ -6,7 +6,12 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 [Try the typeface](https://spasovtype.com/) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
 
-## Regular refinement — release 0.5.7
+## Regular refinement — release 0.5.8
+
+Regular 0.580 adapts native Instrument bowl curves for distinct lowercase ъ/ь with 510-unit heads, restores х optical height, refines Ъ, б and ц/щ terminals, narrows lowercase я, corrects the basic bearings of д/ж and calibrates lowercase Cyrillic optical spacing. Original Latin and Italic are retained.
+[Actual comparisons and validation](specimens/terminal-refinement/notes.md).
+
+## Previous Regular refinement — release 0.5.7
 
 Regular 0.570 smooths the outer connection between lowercase в loops and removes
 its accidental pinhole, retaining the preferred oval and main counters. Lowercase
