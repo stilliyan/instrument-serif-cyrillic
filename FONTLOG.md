@@ -1,3 +1,10 @@
+# v0.5.5 — Regular 0.550
+
+Redraw the complete ъ bowl and counter; use the centered native l footer for ф.
+Restore native-style u flares for ц/щ and connect continuous curved descenders,
+following the user’s example. Add ten Cyrillic pair corrections for clearance.
+Retain all advances, original lookups, other letters, native Latin and Italic.
+
 # v0.5.4 — Regular 0.540
 
 Clean and round the lower ф bowl/stem joins; remove inherited footer/bowl tabs.

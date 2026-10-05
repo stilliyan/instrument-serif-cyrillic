@@ -1,0 +1,42 @@
+{
+  "ъ": {
+    "advance": 451,
+    "bounds": [
+      15,
+      -9,
+      411,
+      510
+    ],
+    "adjacent_duplicates": 0
+  },
+  "ф": {
+    "advance": 532,
+    "bounds": [
+      23,
+      -205,
+      479,
+      740
+    ],
+    "adjacent_duplicates": 0
+  },
+  "ц": {
+    "advance": 460,
+    "bounds": [
+      11,
+      -130,
+      466,
+      510
+    ],
+    "adjacent_duplicates": 0
+  },
+  "щ": {
+    "advance": 702,
+    "bounds": [
+      11,
+      -130,
+      708,
+      510
+    ],
+    "adjacent_duplicates": 0
+  }
+}

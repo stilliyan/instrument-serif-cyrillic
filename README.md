@@ -6,12 +6,18 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 [Try the typeface](https://spasovtype.com/) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
 
-## Regular refinement — release 0.5.4
+## Regular refinement — release 0.5.5
 
-Regular 0.540 removes protruding pieces at the lower ф bowl/stem junctions and
-rounds those joins. The ц/щ exits flow continuously into their curved descenders.
-All advance widths, kerning, original Latin and Italic remain unchanged.
-[Actual analysis, before/after proofs and validation](specimens/junction-refinement/notes.md).
+Regular 0.550 redraws the entire rounded bowl and counter of ъ, with smooth
+returns to the stem. The lower ф serif uses the centered native l foot. The ц/щ exits
+follow the native u flare and flow into their curved descenders, based on the
+user’s visual proposal. Ten targeted Cyrillic pair corrections provide tail
+clearance. Advance widths, original Latin and Italic remain unchanged.
+[Actual before/after comparisons and validation](specimens/roundness-refinement/notes.md).
+
+Previous Regular 0.540 removes protruding pieces at the lower ф bowl/stem
+junctions and makes the ц/щ exits flow continuously into their descenders.
+[Analysis and measured checks](specimens/junction-refinement/notes.md).
 
 Previous Regular 0.530 redraws the lower ш/щ joins as one continuous outline,
 uses native h heads for н/ъ and retains the preferred earlier в shape with
