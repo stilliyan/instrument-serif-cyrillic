@@ -1,3 +1,12 @@
+# v0.5.7 — Regular 0.570
+
+Smooth the outer connection between lowercase в loops, remove its accidental
+triangular pinhole and retain the preferred lower oval and both main counters.
+Lower м upper points by 12 units. Preserve all widths, sidebearings, existing
+kerning, other outlines, original Latin and Italic. Center the process comparison
+SVGs by their visible outlines without changing scale or path geometry; center
+context words on font load, style change and resize.
+
 # v0.5.6 — Regular 0.560
 
 Lower Cyrillic х from 510 to 480 units, preserve terminal thickness and refine

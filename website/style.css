@@ -1,7 +1,7 @@
 @font-face{font-family:PixelSans;src:url('fonts/BratPixelSans-v5-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 /* Original user-provided font: personal-use local preview only. See fonts/Darkcastle-Usage.txt. */
 
-@font-face{font-family:"Lirena";src:url('fonts/Lirena-Regular.woff2?v=0.5.6') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Lirena";src:url('fonts/Lirena-Regular.woff2?v=0.5.7') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:"Lirena";src:url('fonts/Lirena-Italic.woff2') format('woff2');font-weight:400;font-style:italic;font-display:swap}
 @font-face{font-family:Brat;src:url('fonts/BratSuisseText-v2-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:Brat;src:url('fonts/BratSuisseText-v2-Medium.woff2') format('woff2');font-weight:500;font-style:normal;font-display:swap}
@@ -342,3 +342,6 @@ body{background:var(--bg);min-height:100svh}
 
 /* Match the reference arrow-to-label spacing. */
 .nav-link-leading{justify-content:flex-start}
+
+/* Align process words by visible ink within the comparison canvas. */
+.context-word>span{display:block;line-height:1;transform:translate(var(--context-x,0px),var(--context-y,0px))}

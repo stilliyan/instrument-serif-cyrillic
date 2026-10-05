@@ -1,0 +1,1954 @@
+[
+  {
+    "pair": "Ав",
+    "kern": -11,
+    "minimum_scanline_gap": 95.02,
+    "prior_minimum_gap": 95.02,
+    "at_y": 19,
+    "median_body_gap": 119.82
+  },
+  {
+    "pair": "Ам",
+    "kern": 10,
+    "minimum_scanline_gap": 2.04,
+    "prior_minimum_gap": 2.04,
+    "at_y": 11,
+    "median_body_gap": 214.3
+  },
+  {
+    "pair": "Бв",
+    "kern": 0,
+    "minimum_scanline_gap": 61.13,
+    "prior_minimum_gap": 61.13,
+    "at_y": 219,
+    "median_body_gap": 100.87
+  },
+  {
+    "pair": "Бм",
+    "kern": 0,
+    "minimum_scanline_gap": 125.03,
+    "prior_minimum_gap": 124.92,
+    "at_y": 179,
+    "median_body_gap": 152.44
+  },
+  {
+    "pair": "Вв",
+    "kern": 11,
+    "minimum_scanline_gap": 63.83,
+    "prior_minimum_gap": 63.83,
+    "at_y": 223,
+    "median_body_gap": 103.07
+  },
+  {
+    "pair": "Вм",
+    "kern": 0,
+    "minimum_scanline_gap": 117.38,
+    "prior_minimum_gap": 117.26,
+    "at_y": 187,
+    "median_body_gap": 143.53
+  },
+  {
+    "pair": "Гв",
+    "kern": 0,
+    "minimum_scanline_gap": 59.59,
+    "prior_minimum_gap": 59.59,
+    "at_y": 523,
+    "median_body_gap": 275.41
+  },
+  {
+    "pair": "Гм",
+    "kern": -90,
+    "minimum_scanline_gap": 76.03,
+    "prior_minimum_gap": 43.98,
+    "at_y": 11,
+    "median_body_gap": 254.72
+  },
+  {
+    "pair": "Дв",
+    "kern": 0,
+    "minimum_scanline_gap": 150.27,
+    "prior_minimum_gap": 150.27,
+    "at_y": 23,
+    "median_body_gap": 184.82
+  },
+  {
+    "pair": "Дм",
+    "kern": 0,
+    "minimum_scanline_gap": 43.96,
+    "prior_minimum_gap": 43.96,
+    "at_y": 7,
+    "median_body_gap": 258.3
+  },
+  {
+    "pair": "Ев",
+    "kern": 4,
+    "minimum_scanline_gap": 62.41,
+    "prior_minimum_gap": 62.41,
+    "at_y": 207,
+    "median_body_gap": 164.86
+  },
+  {
+    "pair": "Ем",
+    "kern": 0,
+    "minimum_scanline_gap": 54.05,
+    "prior_minimum_gap": 54.05,
+    "at_y": 19,
+    "median_body_gap": 235.54
+  },
+  {
+    "pair": "Жв",
+    "kern": 0,
+    "minimum_scanline_gap": 141.17,
+    "prior_minimum_gap": 141.17,
+    "at_y": 19,
+    "median_body_gap": 238.45
+  },
+  {
+    "pair": "Жм",
+    "kern": 0,
+    "minimum_scanline_gap": 29.0,
+    "prior_minimum_gap": 29.0,
+    "at_y": 11,
+    "median_body_gap": 311.93
+  },
+  {
+    "pair": "Зв",
+    "kern": 0,
+    "minimum_scanline_gap": 53.21,
+    "prior_minimum_gap": 53.21,
+    "at_y": 243,
+    "median_body_gap": 82.98
+  },
+  {
+    "pair": "Зм",
+    "kern": 0,
+    "minimum_scanline_gap": 121.76,
+    "prior_minimum_gap": 121.58,
+    "at_y": 215,
+    "median_body_gap": 143.28
+  },
+  {
+    "pair": "Ив",
+    "kern": 0,
+    "minimum_scanline_gap": 112.0,
+    "prior_minimum_gap": 112.0,
+    "at_y": 255,
+    "median_body_gap": 116.41
+  },
+  {
+    "pair": "Им",
+    "kern": 0,
+    "minimum_scanline_gap": 29.0,
+    "prior_minimum_gap": 29.0,
+    "at_y": 11,
+    "median_body_gap": 185.72
+  },
+  {
+    "pair": "Йв",
+    "kern": 0,
+    "minimum_scanline_gap": 112.0,
+    "prior_minimum_gap": 112.0,
+    "at_y": 255,
+    "median_body_gap": 116.41
+  },
+  {
+    "pair": "Йм",
+    "kern": 0,
+    "minimum_scanline_gap": 29.0,
+    "prior_minimum_gap": 29.0,
+    "at_y": 11,
+    "median_body_gap": 185.72
+  },
+  {
+    "pair": "Кв",
+    "kern": -17,
+    "minimum_scanline_gap": 85.17,
+    "prior_minimum_gap": 85.17,
+    "at_y": 19,
+    "median_body_gap": 182.45
+  },
+  {
+    "pair": "Км",
+    "kern": 12,
+    "minimum_scanline_gap": 2.0,
+    "prior_minimum_gap": 2.0,
+    "at_y": 11,
+    "median_body_gap": 284.93
+  },
+  {
+    "pair": "Лв",
+    "kern": 0,
+    "minimum_scanline_gap": 130.02,
+    "prior_minimum_gap": 130.02,
+    "at_y": 19,
+    "median_body_gap": 154.82
+  },
+  {
+    "pair": "Лм",
+    "kern": 0,
+    "minimum_scanline_gap": 16.04,
+    "prior_minimum_gap": 16.04,
+    "at_y": 11,
+    "median_body_gap": 228.3
+  },
+  {
+    "pair": "Мв",
+    "kern": 0,
+    "minimum_scanline_gap": 113.13,
+    "prior_minimum_gap": 113.13,
+    "at_y": 239,
+    "median_body_gap": 120.31
+  },
+  {
+    "pair": "Мм",
+    "kern": 0,
+    "minimum_scanline_gap": 24.0,
+    "prior_minimum_gap": 24.0,
+    "at_y": 11,
+    "median_body_gap": 188.37
+  },
+  {
+    "pair": "Нв",
+    "kern": -8,
+    "minimum_scanline_gap": 104.0,
+    "prior_minimum_gap": 104.0,
+    "at_y": 255,
+    "median_body_gap": 108.41
+  },
+  {
+    "pair": "Нм",
+    "kern": 0,
+    "minimum_scanline_gap": 29.0,
+    "prior_minimum_gap": 29.0,
+    "at_y": 11,
+    "median_body_gap": 185.72
+  },
+  {
+    "pair": "Ов",
+    "kern": 17,
+    "minimum_scanline_gap": 81.68,
+    "prior_minimum_gap": 81.68,
+    "at_y": 339,
+    "median_body_gap": 93.27
+  },
+  {
+    "pair": "Ом",
+    "kern": -25,
+    "minimum_scanline_gap": 115.12,
+    "prior_minimum_gap": 114.7,
+    "at_y": 311,
+    "median_body_gap": 124.32
+  },
+  {
+    "pair": "Пв",
+    "kern": 0,
+    "minimum_scanline_gap": 112.0,
+    "prior_minimum_gap": 112.0,
+    "at_y": 255,
+    "median_body_gap": 116.41
+  },
+  {
+    "pair": "Пм",
+    "kern": 0,
+    "minimum_scanline_gap": 29.0,
+    "prior_minimum_gap": 29.0,
+    "at_y": 11,
+    "median_body_gap": 185.72
+  },
+  {
+    "pair": "Рв",
+    "kern": -18,
+    "minimum_scanline_gap": 43.44,
+    "prior_minimum_gap": 43.44,
+    "at_y": 491,
+    "median_body_gap": 311.05
+  },
+  {
+    "pair": "Рм",
+    "kern": -38,
+    "minimum_scanline_gap": 99.43,
+    "prior_minimum_gap": 98.55,
+    "at_y": 499,
+    "median_body_gap": 351.24
+  },
+  {
+    "pair": "Св",
+    "kern": 0,
+    "minimum_scanline_gap": 66.1,
+    "prior_minimum_gap": 66.1,
+    "at_y": 203,
+    "median_body_gap": 382.45
+  },
+  {
+    "pair": "См",
+    "kern": 0,
+    "minimum_scanline_gap": 63.2,
+    "prior_minimum_gap": 63.2,
+    "at_y": 23,
+    "median_body_gap": 455.93
+  },
+  {
+    "pair": "Тв",
+    "kern": -46,
+    "minimum_scanline_gap": 6.51,
+    "prior_minimum_gap": 6.51,
+    "at_y": 523,
+    "median_body_gap": 176.41
+  },
+  {
+    "pair": "Тм",
+    "kern": -90,
+    "minimum_scanline_gap": 23.0,
+    "prior_minimum_gap": 23.0,
+    "at_y": 11,
+    "median_body_gap": 201.72
+  },
+  {
+    "pair": "Ув",
+    "kern": -55,
+    "minimum_scanline_gap": 60.51,
+    "prior_minimum_gap": 60.51,
+    "at_y": 699,
+    "median_body_gap": 165.96
+  },
+  {
+    "pair": "Ум",
+    "kern": -100,
+    "minimum_scanline_gap": 149.67,
+    "prior_minimum_gap": 146.27,
+    "at_y": 507,
+    "median_body_gap": 194.44
+  },
+  {
+    "pair": "Фв",
+    "kern": 0,
+    "minimum_scanline_gap": 64.68,
+    "prior_minimum_gap": 64.68,
+    "at_y": 339,
+    "median_body_gap": 76.27
+  },
+  {
+    "pair": "Фм",
+    "kern": -25,
+    "minimum_scanline_gap": 115.12,
+    "prior_minimum_gap": 114.7,
+    "at_y": 311,
+    "median_body_gap": 124.32
+  },
+  {
+    "pair": "Хв",
+    "kern": -50,
+    "minimum_scanline_gap": 92.88,
+    "prior_minimum_gap": 92.88,
+    "at_y": 19,
+    "median_body_gap": 174.23
+  },
+  {
+    "pair": "Хм",
+    "kern": 0,
+    "minimum_scanline_gap": 29.04,
+    "prior_minimum_gap": 29.04,
+    "at_y": 11,
+    "median_body_gap": 297.71
+  },
+  {
+    "pair": "Цв",
+    "kern": -33,
+    "minimum_scanline_gap": 112.0,
+    "prior_minimum_gap": 112.0,
+    "at_y": 255,
+    "median_body_gap": 116.41
+  },
+  {
+    "pair": "Цм",
+    "kern": 0,
+    "minimum_scanline_gap": 46.92,
+    "prior_minimum_gap": 46.92,
+    "at_y": 7,
+    "median_body_gap": 218.72
+  },
+  {
+    "pair": "Чв",
+    "kern": 0,
+    "minimum_scanline_gap": 117.0,
+    "prior_minimum_gap": 117.0,
+    "at_y": 255,
+    "median_body_gap": 121.41
+  },
+  {
+    "pair": "Чм",
+    "kern": 0,
+    "minimum_scanline_gap": 34.0,
+    "prior_minimum_gap": 34.0,
+    "at_y": 11,
+    "median_body_gap": 190.72
+  },
+  {
+    "pair": "Шв",
+    "kern": 0,
+    "minimum_scanline_gap": 112.0,
+    "prior_minimum_gap": 112.0,
+    "at_y": 255,
+    "median_body_gap": 116.41
+  },
+  {
+    "pair": "Шм",
+    "kern": 0,
+    "minimum_scanline_gap": 29.0,
+    "prior_minimum_gap": 29.0,
+    "at_y": 11,
+    "median_body_gap": 185.72
+  },
+  {
+    "pair": "Щв",
+    "kern": -33,
+    "minimum_scanline_gap": 112.0,
+    "prior_minimum_gap": 112.0,
+    "at_y": 255,
+    "median_body_gap": 116.41
+  },
+  {
+    "pair": "Щм",
+    "kern": 0,
+    "minimum_scanline_gap": 46.92,
+    "prior_minimum_gap": 46.92,
+    "at_y": 7,
+    "median_body_gap": 218.72
+  },
+  {
+    "pair": "Ъв",
+    "kern": 0,
+    "minimum_scanline_gap": 49.13,
+    "prior_minimum_gap": 49.13,
+    "at_y": 219,
+    "median_body_gap": 88.87
+  },
+  {
+    "pair": "Ъм",
+    "kern": 0,
+    "minimum_scanline_gap": 113.03,
+    "prior_minimum_gap": 112.92,
+    "at_y": 179,
+    "median_body_gap": 140.44
+  },
+  {
+    "pair": "Ьв",
+    "kern": 0,
+    "minimum_scanline_gap": 49.13,
+    "prior_minimum_gap": 49.13,
+    "at_y": 219,
+    "median_body_gap": 88.87
+  },
+  {
+    "pair": "Ьм",
+    "kern": 0,
+    "minimum_scanline_gap": 113.03,
+    "prior_minimum_gap": 112.92,
+    "at_y": 179,
+    "median_body_gap": 140.44
+  },
+  {
+    "pair": "Юв",
+    "kern": 0,
+    "minimum_scanline_gap": 64.68,
+    "prior_minimum_gap": 64.68,
+    "at_y": 339,
+    "median_body_gap": 76.27
+  },
+  {
+    "pair": "Юм",
+    "kern": -25,
+    "minimum_scanline_gap": 115.12,
+    "prior_minimum_gap": 114.7,
+    "at_y": 311,
+    "median_body_gap": 124.32
+  },
+  {
+    "pair": "Яв",
+    "kern": 0,
+    "minimum_scanline_gap": 112.0,
+    "prior_minimum_gap": 112.0,
+    "at_y": 255,
+    "median_body_gap": 116.41
+  },
+  {
+    "pair": "Ям",
+    "kern": 0,
+    "minimum_scanline_gap": 29.0,
+    "prior_minimum_gap": 29.0,
+    "at_y": 11,
+    "median_body_gap": 185.72
+  },
+  {
+    "pair": "Ѝв",
+    "kern": 0,
+    "minimum_scanline_gap": 112.0,
+    "prior_minimum_gap": 112.0,
+    "at_y": 255,
+    "median_body_gap": 116.41
+  },
+  {
+    "pair": "Ѝм",
+    "kern": 0,
+    "minimum_scanline_gap": 29.0,
+    "prior_minimum_gap": 29.0,
+    "at_y": 11,
+    "median_body_gap": 185.72
+  },
+  {
+    "pair": "ав",
+    "kern": 5,
+    "minimum_scanline_gap": 51.66,
+    "prior_minimum_gap": 51.66,
+    "at_y": 139,
+    "median_body_gap": 116.07
+  },
+  {
+    "pair": "ам",
+    "kern": 0,
+    "minimum_scanline_gap": 43.9,
+    "prior_minimum_gap": 43.9,
+    "at_y": 23,
+    "median_body_gap": 182.72
+  },
+  {
+    "pair": "бв",
+    "kern": 8,
+    "minimum_scanline_gap": 56.0,
+    "prior_minimum_gap": 56.0,
+    "at_y": 255,
+    "median_body_gap": 76.64
+  },
+  {
+    "pair": "бм",
+    "kern": 0,
+    "minimum_scanline_gap": 117.62,
+    "prior_minimum_gap": 117.42,
+    "at_y": 219,
+    "median_body_gap": 132.05
+  },
+  {
+    "pair": "вА",
+    "kern": 0,
+    "minimum_scanline_gap": 107.62,
+    "prior_minimum_gap": 107.62,
+    "at_y": 19,
+    "median_body_gap": 134.68
+  },
+  {
+    "pair": "вБ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вВ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вГ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вД",
+    "kern": 0,
+    "minimum_scanline_gap": 121.8,
+    "prior_minimum_gap": 121.8,
+    "at_y": 23,
+    "median_body_gap": 158.68
+  },
+  {
+    "pair": "вЕ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вЖ",
+    "kern": 0,
+    "minimum_scanline_gap": 134.82,
+    "prior_minimum_gap": 134.82,
+    "at_y": 703,
+    "median_body_gap": 242.79
+  },
+  {
+    "pair": "вЗ",
+    "kern": 0,
+    "minimum_scanline_gap": 92.6,
+    "prior_minimum_gap": 92.6,
+    "at_y": 79,
+    "median_body_gap": 289.08
+  },
+  {
+    "pair": "вИ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вЙ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вК",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вЛ",
+    "kern": 0,
+    "minimum_scanline_gap": 131.62,
+    "prior_minimum_gap": 131.62,
+    "at_y": 19,
+    "median_body_gap": 158.68
+  },
+  {
+    "pair": "вМ",
+    "kern": 0,
+    "minimum_scanline_gap": 116.64,
+    "prior_minimum_gap": 116.64,
+    "at_y": 239,
+    "median_body_gap": 130.8
+  },
+  {
+    "pair": "вН",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вО",
+    "kern": 0,
+    "minimum_scanline_gap": 70.28,
+    "prior_minimum_gap": 70.28,
+    "at_y": 295,
+    "median_body_gap": 95.24
+  },
+  {
+    "pair": "вП",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вР",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вС",
+    "kern": 0,
+    "minimum_scanline_gap": 70.0,
+    "prior_minimum_gap": 70.0,
+    "at_y": 295,
+    "median_body_gap": 93.89
+  },
+  {
+    "pair": "вТ",
+    "kern": 0,
+    "minimum_scanline_gap": 94.01,
+    "prior_minimum_gap": 94.01,
+    "at_y": 647,
+    "median_body_gap": 234.21
+  },
+  {
+    "pair": "вУ",
+    "kern": 0,
+    "minimum_scanline_gap": 99.77,
+    "prior_minimum_gap": 99.77,
+    "at_y": 699,
+    "median_body_gap": 279.42
+  },
+  {
+    "pair": "вФ",
+    "kern": 0,
+    "minimum_scanline_gap": 70.28,
+    "prior_minimum_gap": 70.28,
+    "at_y": 295,
+    "median_body_gap": 95.24
+  },
+  {
+    "pair": "вХ",
+    "kern": 0,
+    "minimum_scanline_gap": 126.17,
+    "prior_minimum_gap": 126.17,
+    "at_y": 703,
+    "median_body_gap": 243.61
+  },
+  {
+    "pair": "вЦ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вЧ",
+    "kern": 0,
+    "minimum_scanline_gap": 118.4,
+    "prior_minimum_gap": 118.4,
+    "at_y": 703,
+    "median_body_gap": 301.58
+  },
+  {
+    "pair": "вШ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вЩ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вЪ",
+    "kern": 0,
+    "minimum_scanline_gap": 95.79,
+    "prior_minimum_gap": 95.79,
+    "at_y": 647,
+    "median_body_gap": 236.21
+  },
+  {
+    "pair": "вЬ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вЮ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "вЯ",
+    "kern": 0,
+    "minimum_scanline_gap": 89.93,
+    "prior_minimum_gap": 89.93,
+    "at_y": 39,
+    "median_body_gap": 178.62
+  },
+  {
+    "pair": "вЍ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 255,
+    "median_body_gap": 128.21
+  },
+  {
+    "pair": "ва",
+    "kern": 0,
+    "minimum_scanline_gap": 67.59,
+    "prior_minimum_gap": 67.59,
+    "at_y": 347,
+    "median_body_gap": 107.72
+  },
+  {
+    "pair": "вб",
+    "kern": 8,
+    "minimum_scanline_gap": 56.0,
+    "prior_minimum_gap": 56.0,
+    "at_y": 255,
+    "median_body_gap": 76.88
+  },
+  {
+    "pair": "вв",
+    "kern": 8,
+    "minimum_scanline_gap": 56.0,
+    "prior_minimum_gap": 56.0,
+    "at_y": 255,
+    "median_body_gap": 76.64
+  },
+  {
+    "pair": "вг",
+    "kern": 0,
+    "minimum_scanline_gap": 87.65,
+    "prior_minimum_gap": 87.65,
+    "at_y": 363,
+    "median_body_gap": 130.95
+  },
+  {
+    "pair": "вд",
+    "kern": 0,
+    "minimum_scanline_gap": 64.22,
+    "prior_minimum_gap": 64.22,
+    "at_y": 243,
+    "median_body_gap": 90.47
+  },
+  {
+    "pair": "ве",
+    "kern": 0,
+    "minimum_scanline_gap": 48.01,
+    "prior_minimum_gap": 48.01,
+    "at_y": 251,
+    "median_body_gap": 74.17
+  },
+  {
+    "pair": "вж",
+    "kern": 0,
+    "minimum_scanline_gap": 170.07,
+    "prior_minimum_gap": 170.07,
+    "at_y": 23,
+    "median_body_gap": 238.46
+  },
+  {
+    "pair": "вз",
+    "kern": 0,
+    "minimum_scanline_gap": 107.91,
+    "prior_minimum_gap": 107.91,
+    "at_y": 227,
+    "median_body_gap": 267.15
+  },
+  {
+    "pair": "ви",
+    "kern": 0,
+    "minimum_scanline_gap": 95.0,
+    "prior_minimum_gap": 95.0,
+    "at_y": 255,
+    "median_body_gap": 109.21
+  },
+  {
+    "pair": "вй",
+    "kern": 0,
+    "minimum_scanline_gap": 95.0,
+    "prior_minimum_gap": 95.0,
+    "at_y": 255,
+    "median_body_gap": 109.21
+  },
+  {
+    "pair": "вк",
+    "kern": 0,
+    "minimum_scanline_gap": 99.0,
+    "prior_minimum_gap": 99.0,
+    "at_y": 255,
+    "median_body_gap": 113.21
+  },
+  {
+    "pair": "вл",
+    "kern": 0,
+    "minimum_scanline_gap": 135.35,
+    "prior_minimum_gap": 135.35,
+    "at_y": 143,
+    "median_body_gap": 166.49
+  },
+  {
+    "pair": "вм",
+    "kern": 0,
+    "minimum_scanline_gap": 117.62,
+    "prior_minimum_gap": 117.42,
+    "at_y": 219,
+    "median_body_gap": 132.05
+  },
+  {
+    "pair": "вн",
+    "kern": 0,
+    "minimum_scanline_gap": 99.0,
+    "prior_minimum_gap": 99.0,
+    "at_y": 255,
+    "median_body_gap": 110.96
+  },
+  {
+    "pair": "во",
+    "kern": 0,
+    "minimum_scanline_gap": 48.0,
+    "prior_minimum_gap": 48.0,
+    "at_y": 255,
+    "median_body_gap": 76.42
+  },
+  {
+    "pair": "вп",
+    "kern": 0,
+    "minimum_scanline_gap": 96.54,
+    "prior_minimum_gap": 96.54,
+    "at_y": 443,
+    "median_body_gap": 110.07
+  },
+  {
+    "pair": "вр",
+    "kern": 0,
+    "minimum_scanline_gap": 95.54,
+    "prior_minimum_gap": 95.54,
+    "at_y": 443,
+    "median_body_gap": 109.07
+  },
+  {
+    "pair": "вс",
+    "kern": 0,
+    "minimum_scanline_gap": 48.16,
+    "prior_minimum_gap": 48.16,
+    "at_y": 247,
+    "median_body_gap": 74.27
+  },
+  {
+    "pair": "вт",
+    "kern": 0,
+    "minimum_scanline_gap": 96.54,
+    "prior_minimum_gap": 96.54,
+    "at_y": 443,
+    "median_body_gap": 110.07
+  },
+  {
+    "pair": "ву",
+    "kern": -8,
+    "minimum_scanline_gap": 105.55,
+    "prior_minimum_gap": 105.55,
+    "at_y": 363,
+    "median_body_gap": 122.83
+  },
+  {
+    "pair": "вф",
+    "kern": 0,
+    "minimum_scanline_gap": 48.0,
+    "prior_minimum_gap": 48.0,
+    "at_y": 255,
+    "median_body_gap": 76.42
+  },
+  {
+    "pair": "вх",
+    "kern": -14,
+    "minimum_scanline_gap": 90.89,
+    "prior_minimum_gap": 90.89,
+    "at_y": 463,
+    "median_body_gap": 138.32
+  },
+  {
+    "pair": "вц",
+    "kern": 0,
+    "minimum_scanline_gap": 95.0,
+    "prior_minimum_gap": 95.0,
+    "at_y": 255,
+    "median_body_gap": 109.21
+  },
+  {
+    "pair": "вч",
+    "kern": 0,
+    "minimum_scanline_gap": 98.73,
+    "prior_minimum_gap": 98.73,
+    "at_y": 303,
+    "median_body_gap": 141.16
+  },
+  {
+    "pair": "вш",
+    "kern": 0,
+    "minimum_scanline_gap": 95.0,
+    "prior_minimum_gap": 95.0,
+    "at_y": 255,
+    "median_body_gap": 109.21
+  },
+  {
+    "pair": "вщ",
+    "kern": 0,
+    "minimum_scanline_gap": 95.0,
+    "prior_minimum_gap": 95.0,
+    "at_y": 255,
+    "median_body_gap": 109.21
+  },
+  {
+    "pair": "въ",
+    "kern": 0,
+    "minimum_scanline_gap": 99.0,
+    "prior_minimum_gap": 99.0,
+    "at_y": 255,
+    "median_body_gap": 110.96
+  },
+  {
+    "pair": "вь",
+    "kern": 0,
+    "minimum_scanline_gap": 99.0,
+    "prior_minimum_gap": 99.0,
+    "at_y": 255,
+    "median_body_gap": 110.96
+  },
+  {
+    "pair": "вю",
+    "kern": 0,
+    "minimum_scanline_gap": 97.1,
+    "prior_minimum_gap": 97.1,
+    "at_y": 683,
+    "median_body_gap": 113.21
+  },
+  {
+    "pair": "вя",
+    "kern": 0,
+    "minimum_scanline_gap": 132.19,
+    "prior_minimum_gap": 132.19,
+    "at_y": 27,
+    "median_body_gap": 189.73
+  },
+  {
+    "pair": "вѝ",
+    "kern": 0,
+    "minimum_scanline_gap": 95.0,
+    "prior_minimum_gap": 95.0,
+    "at_y": 255,
+    "median_body_gap": 109.21
+  },
+  {
+    "pair": "гв",
+    "kern": 0,
+    "minimum_scanline_gap": 64.17,
+    "prior_minimum_gap": 64.17,
+    "at_y": 111,
+    "median_body_gap": 101.4
+  },
+  {
+    "pair": "гм",
+    "kern": 0,
+    "minimum_scanline_gap": 91.87,
+    "prior_minimum_gap": 91.87,
+    "at_y": 23,
+    "median_body_gap": 177.39
+  },
+  {
+    "pair": "дв",
+    "kern": 0,
+    "minimum_scanline_gap": 103.0,
+    "prior_minimum_gap": 103.0,
+    "at_y": 255,
+    "median_body_gap": 107.04
+  },
+  {
+    "pair": "дм",
+    "kern": 0,
+    "minimum_scanline_gap": 90.0,
+    "prior_minimum_gap": 90.0,
+    "at_y": 11,
+    "median_body_gap": 176.72
+  },
+  {
+    "pair": "ев",
+    "kern": 20,
+    "minimum_scanline_gap": 68.55,
+    "prior_minimum_gap": 68.55,
+    "at_y": 307,
+    "median_body_gap": 97.6
+  },
+  {
+    "pair": "ем",
+    "kern": 0,
+    "minimum_scanline_gap": 94.58,
+    "prior_minimum_gap": 94.58,
+    "at_y": 23,
+    "median_body_gap": 137.97
+  },
+  {
+    "pair": "жв",
+    "kern": 0,
+    "minimum_scanline_gap": 89.72,
+    "prior_minimum_gap": 89.72,
+    "at_y": 499,
+    "median_body_gap": 230.98
+  },
+  {
+    "pair": "жм",
+    "kern": 0,
+    "minimum_scanline_gap": 58.28,
+    "prior_minimum_gap": 58.28,
+    "at_y": 11,
+    "median_body_gap": 293.88
+  },
+  {
+    "pair": "зв",
+    "kern": 0,
+    "minimum_scanline_gap": 92.14,
+    "prior_minimum_gap": 92.14,
+    "at_y": 395,
+    "median_body_gap": 105.6
+  },
+  {
+    "pair": "зм",
+    "kern": 0,
+    "minimum_scanline_gap": 49.13,
+    "prior_minimum_gap": 49.13,
+    "at_y": 15,
+    "median_body_gap": 178.78
+  },
+  {
+    "pair": "ив",
+    "kern": 10,
+    "minimum_scanline_gap": 101.85,
+    "prior_minimum_gap": 101.85,
+    "at_y": 67,
+    "median_body_gap": 111.41
+  },
+  {
+    "pair": "им",
+    "kern": 0,
+    "minimum_scanline_gap": 87.05,
+    "prior_minimum_gap": 87.05,
+    "at_y": 59,
+    "median_body_gap": 170.72
+  },
+  {
+    "pair": "йв",
+    "kern": 0,
+    "minimum_scanline_gap": 91.85,
+    "prior_minimum_gap": 91.85,
+    "at_y": 67,
+    "median_body_gap": 101.41
+  },
+  {
+    "pair": "йм",
+    "kern": 0,
+    "minimum_scanline_gap": 87.05,
+    "prior_minimum_gap": 87.05,
+    "at_y": 59,
+    "median_body_gap": 170.72
+  },
+  {
+    "pair": "кв",
+    "kern": -17,
+    "minimum_scanline_gap": 28.77,
+    "prior_minimum_gap": 28.77,
+    "at_y": 495,
+    "median_body_gap": 154.88
+  },
+  {
+    "pair": "км",
+    "kern": 0,
+    "minimum_scanline_gap": 10.0,
+    "prior_minimum_gap": 10.0,
+    "at_y": 11,
+    "median_body_gap": 241.22
+  },
+  {
+    "pair": "лв",
+    "kern": 0,
+    "minimum_scanline_gap": 129.7,
+    "prior_minimum_gap": 129.7,
+    "at_y": 19,
+    "median_body_gap": 158.8
+  },
+  {
+    "pair": "лм",
+    "kern": 0,
+    "minimum_scanline_gap": 16.03,
+    "prior_minimum_gap": 16.03,
+    "at_y": 11,
+    "median_body_gap": 232.28
+  },
+  {
+    "pair": "мА",
+    "kern": 9,
+    "minimum_scanline_gap": 2.04,
+    "prior_minimum_gap": 2.04,
+    "at_y": 11,
+    "median_body_gap": 218.76
+  },
+  {
+    "pair": "мБ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мВ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мГ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мД",
+    "kern": 0,
+    "minimum_scanline_gap": 14.8,
+    "prior_minimum_gap": 14.8,
+    "at_y": 3,
+    "median_body_gap": 233.76
+  },
+  {
+    "pair": "мЕ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мЖ",
+    "kern": 0,
+    "minimum_scanline_gap": 31.0,
+    "prior_minimum_gap": 31.0,
+    "at_y": 11,
+    "median_body_gap": 317.87
+  },
+  {
+    "pair": "мЗ",
+    "kern": 0,
+    "minimum_scanline_gap": 47.93,
+    "prior_minimum_gap": 47.93,
+    "at_y": 23,
+    "median_body_gap": 350.27
+  },
+  {
+    "pair": "мИ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мЙ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мК",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мЛ",
+    "kern": 0,
+    "minimum_scanline_gap": 17.04,
+    "prior_minimum_gap": 17.04,
+    "at_y": 11,
+    "median_body_gap": 233.76
+  },
+  {
+    "pair": "мМ",
+    "kern": 0,
+    "minimum_scanline_gap": 25.0,
+    "prior_minimum_gap": 25.0,
+    "at_y": 11,
+    "median_body_gap": 194.88
+  },
+  {
+    "pair": "мН",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мО",
+    "kern": 0,
+    "minimum_scanline_gap": 145.34,
+    "prior_minimum_gap": 144.8,
+    "at_y": 299,
+    "median_body_gap": 154.89
+  },
+  {
+    "pair": "мП",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мР",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мС",
+    "kern": 0,
+    "minimum_scanline_gap": 145.09,
+    "prior_minimum_gap": 144.56,
+    "at_y": 291,
+    "median_body_gap": 153.67
+  },
+  {
+    "pair": "мТ",
+    "kern": 0,
+    "minimum_scanline_gap": 114.0,
+    "prior_minimum_gap": 114.0,
+    "at_y": 11,
+    "median_body_gap": 296.66
+  },
+  {
+    "pair": "мУ",
+    "kern": 0,
+    "minimum_scanline_gap": 65.75,
+    "prior_minimum_gap": 65.75,
+    "at_y": 11,
+    "median_body_gap": 334.55
+  },
+  {
+    "pair": "мФ",
+    "kern": 0,
+    "minimum_scanline_gap": 145.34,
+    "prior_minimum_gap": 144.8,
+    "at_y": 299,
+    "median_body_gap": 154.89
+  },
+  {
+    "pair": "мХ",
+    "kern": 0,
+    "minimum_scanline_gap": 31.06,
+    "prior_minimum_gap": 31.06,
+    "at_y": 11,
+    "median_body_gap": 308.22
+  },
+  {
+    "pair": "мЦ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мЧ",
+    "kern": 0,
+    "minimum_scanline_gap": 211.63,
+    "prior_minimum_gap": 210.62,
+    "at_y": 463,
+    "median_body_gap": 376.66
+  },
+  {
+    "pair": "мШ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мЩ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мЪ",
+    "kern": 0,
+    "minimum_scanline_gap": 138.0,
+    "prior_minimum_gap": 138.0,
+    "at_y": 11,
+    "median_body_gap": 298.66
+  },
+  {
+    "pair": "мЬ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мЮ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "мЯ",
+    "kern": 0,
+    "minimum_scanline_gap": 5.07,
+    "prior_minimum_gap": 5.07,
+    "at_y": 23,
+    "median_body_gap": 222.8
+  },
+  {
+    "pair": "мЍ",
+    "kern": 0,
+    "minimum_scanline_gap": 30.0,
+    "prior_minimum_gap": 30.0,
+    "at_y": 11,
+    "median_body_gap": 190.66
+  },
+  {
+    "pair": "ма",
+    "kern": 0,
+    "minimum_scanline_gap": 58.85,
+    "prior_minimum_gap": 58.85,
+    "at_y": 23,
+    "median_body_gap": 165.38
+  },
+  {
+    "pair": "мб",
+    "kern": 0,
+    "minimum_scanline_gap": 119.12,
+    "prior_minimum_gap": 118.82,
+    "at_y": 215,
+    "median_body_gap": 130.22
+  },
+  {
+    "pair": "мв",
+    "kern": 0,
+    "minimum_scanline_gap": 119.12,
+    "prior_minimum_gap": 118.82,
+    "at_y": 215,
+    "median_body_gap": 130.22
+  },
+  {
+    "pair": "мг",
+    "kern": 0,
+    "minimum_scanline_gap": 96.27,
+    "prior_minimum_gap": 96.27,
+    "at_y": 23,
+    "median_body_gap": 182.21
+  },
+  {
+    "pair": "мд",
+    "kern": 0,
+    "minimum_scanline_gap": 122.83,
+    "prior_minimum_gap": 122.83,
+    "at_y": 23,
+    "median_body_gap": 146.12
+  },
+  {
+    "pair": "ме",
+    "kern": 0,
+    "minimum_scanline_gap": 118.38,
+    "prior_minimum_gap": 118.1,
+    "at_y": 203,
+    "median_body_gap": 132.08
+  },
+  {
+    "pair": "мж",
+    "kern": 0,
+    "minimum_scanline_gap": 59.28,
+    "prior_minimum_gap": 59.28,
+    "at_y": 11,
+    "median_body_gap": 298.97
+  },
+  {
+    "pair": "мз",
+    "kern": -23,
+    "minimum_scanline_gap": 153.71,
+    "prior_minimum_gap": 152.89,
+    "at_y": 395,
+    "median_body_gap": 313.3
+  },
+  {
+    "pair": "ми",
+    "kern": 0,
+    "minimum_scanline_gap": 108.39,
+    "prior_minimum_gap": 108.39,
+    "at_y": 23,
+    "median_body_gap": 169.74
+  },
+  {
+    "pair": "мй",
+    "kern": 0,
+    "minimum_scanline_gap": 108.39,
+    "prior_minimum_gap": 108.39,
+    "at_y": 23,
+    "median_body_gap": 169.74
+  },
+  {
+    "pair": "мк",
+    "kern": 0,
+    "minimum_scanline_gap": 26.0,
+    "prior_minimum_gap": 26.0,
+    "at_y": 11,
+    "median_body_gap": 175.66
+  },
+  {
+    "pair": "мл",
+    "kern": 0,
+    "minimum_scanline_gap": 23.0,
+    "prior_minimum_gap": 23.0,
+    "at_y": 11,
+    "median_body_gap": 241.57
+  },
+  {
+    "pair": "мм",
+    "kern": 0,
+    "minimum_scanline_gap": 21.0,
+    "prior_minimum_gap": 21.0,
+    "at_y": 11,
+    "median_body_gap": 198.38
+  },
+  {
+    "pair": "мн",
+    "kern": 0,
+    "minimum_scanline_gap": 26.0,
+    "prior_minimum_gap": 26.0,
+    "at_y": 11,
+    "median_body_gap": 172.2
+  },
+  {
+    "pair": "мо",
+    "kern": 0,
+    "minimum_scanline_gap": 119.12,
+    "prior_minimum_gap": 118.82,
+    "at_y": 215,
+    "median_body_gap": 133.82
+  },
+  {
+    "pair": "мп",
+    "kern": 0,
+    "minimum_scanline_gap": 26.0,
+    "prior_minimum_gap": 26.0,
+    "at_y": 11,
+    "median_body_gap": 172.59
+  },
+  {
+    "pair": "мр",
+    "kern": 0,
+    "minimum_scanline_gap": 84.0,
+    "prior_minimum_gap": 84.0,
+    "at_y": 11,
+    "median_body_gap": 171.59
+  },
+  {
+    "pair": "мс",
+    "kern": 0,
+    "minimum_scanline_gap": 110.57,
+    "prior_minimum_gap": 110.57,
+    "at_y": 23,
+    "median_body_gap": 130.7
+  },
+  {
+    "pair": "мт",
+    "kern": 0,
+    "minimum_scanline_gap": 26.0,
+    "prior_minimum_gap": 26.0,
+    "at_y": 11,
+    "median_body_gap": 172.59
+  },
+  {
+    "pair": "му",
+    "kern": -23,
+    "minimum_scanline_gap": 84.65,
+    "prior_minimum_gap": 83.54,
+    "at_y": 499,
+    "median_body_gap": 174.41
+  },
+  {
+    "pair": "мф",
+    "kern": 0,
+    "minimum_scanline_gap": 119.12,
+    "prior_minimum_gap": 118.82,
+    "at_y": 215,
+    "median_body_gap": 133.83
+  },
+  {
+    "pair": "мх",
+    "kern": 0,
+    "minimum_scanline_gap": 13.0,
+    "prior_minimum_gap": 13.0,
+    "at_y": 11,
+    "median_body_gap": 210.92
+  },
+  {
+    "pair": "мц",
+    "kern": 0,
+    "minimum_scanline_gap": 108.39,
+    "prior_minimum_gap": 108.39,
+    "at_y": 23,
+    "median_body_gap": 169.74
+  },
+  {
+    "pair": "мч",
+    "kern": 0,
+    "minimum_scanline_gap": 137.08,
+    "prior_minimum_gap": 135.99,
+    "at_y": 495,
+    "median_body_gap": 184.71
+  },
+  {
+    "pair": "мш",
+    "kern": 0,
+    "minimum_scanline_gap": 108.39,
+    "prior_minimum_gap": 108.39,
+    "at_y": 23,
+    "median_body_gap": 169.74
+  },
+  {
+    "pair": "мщ",
+    "kern": 0,
+    "minimum_scanline_gap": 108.39,
+    "prior_minimum_gap": 108.39,
+    "at_y": 23,
+    "median_body_gap": 169.74
+  },
+  {
+    "pair": "мъ",
+    "kern": -17,
+    "minimum_scanline_gap": 9.0,
+    "prior_minimum_gap": 9.0,
+    "at_y": 11,
+    "median_body_gap": 155.2
+  },
+  {
+    "pair": "мь",
+    "kern": -17,
+    "minimum_scanline_gap": 79.8,
+    "prior_minimum_gap": 79.8,
+    "at_y": 23,
+    "median_body_gap": 155.2
+  },
+  {
+    "pair": "мю",
+    "kern": 0,
+    "minimum_scanline_gap": 19.0,
+    "prior_minimum_gap": 19.0,
+    "at_y": 11,
+    "median_body_gap": 175.66
+  },
+  {
+    "pair": "мя",
+    "kern": 0,
+    "minimum_scanline_gap": 31.95,
+    "prior_minimum_gap": 31.95,
+    "at_y": 19,
+    "median_body_gap": 238.3
+  },
+  {
+    "pair": "мѝ",
+    "kern": 0,
+    "minimum_scanline_gap": 108.39,
+    "prior_minimum_gap": 108.39,
+    "at_y": 23,
+    "median_body_gap": 169.74
+  },
+  {
+    "pair": "нв",
+    "kern": 2,
+    "minimum_scanline_gap": 111.0,
+    "prior_minimum_gap": 111.0,
+    "at_y": 255,
+    "median_body_gap": 115.41
+  },
+  {
+    "pair": "нм",
+    "kern": 0,
+    "minimum_scanline_gap": 24.0,
+    "prior_minimum_gap": 24.0,
+    "at_y": 11,
+    "median_body_gap": 182.72
+  },
+  {
+    "pair": "ов",
+    "kern": 8,
+    "minimum_scanline_gap": 56.0,
+    "prior_minimum_gap": 56.0,
+    "at_y": 255,
+    "median_body_gap": 76.64
+  },
+  {
+    "pair": "ом",
+    "kern": 0,
+    "minimum_scanline_gap": 117.62,
+    "prior_minimum_gap": 117.42,
+    "at_y": 219,
+    "median_body_gap": 132.05
+  },
+  {
+    "pair": "пв",
+    "kern": 10,
+    "minimum_scanline_gap": 111.0,
+    "prior_minimum_gap": 111.0,
+    "at_y": 255,
+    "median_body_gap": 115.64
+  },
+  {
+    "pair": "пм",
+    "kern": 0,
+    "minimum_scanline_gap": 21.0,
+    "prior_minimum_gap": 21.0,
+    "at_y": 11,
+    "median_body_gap": 174.72
+  },
+  {
+    "pair": "рв",
+    "kern": 8,
+    "minimum_scanline_gap": 61.06,
+    "prior_minimum_gap": 61.06,
+    "at_y": 271,
+    "median_body_gap": 79.41
+  },
+  {
+    "pair": "рм",
+    "kern": 0,
+    "minimum_scanline_gap": 123.98,
+    "prior_minimum_gap": 123.74,
+    "at_y": 235,
+    "median_body_gap": 136.91
+  },
+  {
+    "pair": "св",
+    "kern": 41,
+    "minimum_scanline_gap": 93.66,
+    "prior_minimum_gap": 93.66,
+    "at_y": 179,
+    "median_body_gap": 118.29
+  },
+  {
+    "pair": "см",
+    "kern": 0,
+    "minimum_scanline_gap": 90.45,
+    "prior_minimum_gap": 90.45,
+    "at_y": 23,
+    "median_body_gap": 149.11
+  },
+  {
+    "pair": "тв",
+    "kern": 10,
+    "minimum_scanline_gap": 111.0,
+    "prior_minimum_gap": 111.0,
+    "at_y": 255,
+    "median_body_gap": 115.64
+  },
+  {
+    "pair": "тм",
+    "kern": 0,
+    "minimum_scanline_gap": 21.0,
+    "prior_minimum_gap": 21.0,
+    "at_y": 11,
+    "median_body_gap": 174.72
+  },
+  {
+    "pair": "ув",
+    "kern": -9,
+    "minimum_scanline_gap": 19.78,
+    "prior_minimum_gap": 19.78,
+    "at_y": 499,
+    "median_body_gap": 114.26
+  },
+  {
+    "pair": "ум",
+    "kern": -20,
+    "minimum_scanline_gap": 84.54,
+    "prior_minimum_gap": 83.67,
+    "at_y": 499,
+    "median_body_gap": 176.74
+  },
+  {
+    "pair": "фв",
+    "kern": 0,
+    "minimum_scanline_gap": 76.0,
+    "prior_minimum_gap": 76.0,
+    "at_y": 255,
+    "median_body_gap": 96.64
+  },
+  {
+    "pair": "фм",
+    "kern": 0,
+    "minimum_scanline_gap": 145.62,
+    "prior_minimum_gap": 145.42,
+    "at_y": 223,
+    "median_body_gap": 160.05
+  },
+  {
+    "pair": "хв",
+    "kern": -15,
+    "minimum_scanline_gap": 26.99,
+    "prior_minimum_gap": 26.99,
+    "at_y": 467,
+    "median_body_gap": 131.98
+  },
+  {
+    "pair": "хм",
+    "kern": 0,
+    "minimum_scanline_gap": 16.03,
+    "prior_minimum_gap": 16.03,
+    "at_y": 11,
+    "median_body_gap": 209.68
+  },
+  {
+    "pair": "цв",
+    "kern": 4,
+    "minimum_scanline_gap": 103.09,
+    "prior_minimum_gap": 103.09,
+    "at_y": 63,
+    "median_body_gap": 111.41
+  },
+  {
+    "pair": "цм",
+    "kern": 0,
+    "minimum_scanline_gap": 15.02,
+    "prior_minimum_gap": 15.02,
+    "at_y": 3,
+    "median_body_gap": 176.72
+  },
+  {
+    "pair": "чв",
+    "kern": 0,
+    "minimum_scanline_gap": 97.0,
+    "prior_minimum_gap": 97.0,
+    "at_y": 255,
+    "median_body_gap": 101.41
+  },
+  {
+    "pair": "чм",
+    "kern": 0,
+    "minimum_scanline_gap": 30.28,
+    "prior_minimum_gap": 30.28,
+    "at_y": 11,
+    "median_body_gap": 170.72
+  },
+  {
+    "pair": "шв",
+    "kern": 29,
+    "minimum_scanline_gap": 107.0,
+    "prior_minimum_gap": 107.0,
+    "at_y": 255,
+    "median_body_gap": 111.41
+  },
+  {
+    "pair": "шм",
+    "kern": 0,
+    "minimum_scanline_gap": 25.0,
+    "prior_minimum_gap": 25.0,
+    "at_y": 11,
+    "median_body_gap": 151.72
+  },
+  {
+    "pair": "щв",
+    "kern": 4,
+    "minimum_scanline_gap": 103.09,
+    "prior_minimum_gap": 103.09,
+    "at_y": 63,
+    "median_body_gap": 111.41
+  },
+  {
+    "pair": "щм",
+    "kern": 0,
+    "minimum_scanline_gap": 15.02,
+    "prior_minimum_gap": 15.02,
+    "at_y": 3,
+    "median_body_gap": 176.72
+  },
+  {
+    "pair": "ъв",
+    "kern": 0,
+    "minimum_scanline_gap": 68.89,
+    "prior_minimum_gap": 68.89,
+    "at_y": 195,
+    "median_body_gap": 123.67
+  },
+  {
+    "pair": "ъм",
+    "kern": 0,
+    "minimum_scanline_gap": 127.08,
+    "prior_minimum_gap": 127.03,
+    "at_y": 159,
+    "median_body_gap": 188.44
+  },
+  {
+    "pair": "ьв",
+    "kern": 0,
+    "minimum_scanline_gap": 68.89,
+    "prior_minimum_gap": 68.89,
+    "at_y": 195,
+    "median_body_gap": 123.67
+  },
+  {
+    "pair": "ьм",
+    "kern": 0,
+    "minimum_scanline_gap": 127.08,
+    "prior_minimum_gap": 127.03,
+    "at_y": 159,
+    "median_body_gap": 188.44
+  },
+  {
+    "pair": "юв",
+    "kern": 0,
+    "minimum_scanline_gap": 48.0,
+    "prior_minimum_gap": 48.0,
+    "at_y": 255,
+    "median_body_gap": 68.64
+  },
+  {
+    "pair": "юм",
+    "kern": 0,
+    "minimum_scanline_gap": 117.62,
+    "prior_minimum_gap": 117.42,
+    "at_y": 219,
+    "median_body_gap": 132.05
+  },
+  {
+    "pair": "яв",
+    "kern": 0,
+    "minimum_scanline_gap": 58.39,
+    "prior_minimum_gap": 58.39,
+    "at_y": 503,
+    "median_body_gap": 114.67
+  },
+  {
+    "pair": "ям",
+    "kern": 0,
+    "minimum_scanline_gap": 31.21,
+    "prior_minimum_gap": 31.21,
+    "at_y": 7,
+    "median_body_gap": 183.8
+  },
+  {
+    "pair": "ѝв",
+    "kern": 0,
+    "minimum_scanline_gap": 91.85,
+    "prior_minimum_gap": 91.85,
+    "at_y": 67,
+    "median_body_gap": 101.41
+  },
+  {
+    "pair": "ѝм",
+    "kern": 0,
+    "minimum_scanline_gap": 87.05,
+    "prior_minimum_gap": 87.05,
+    "at_y": 59,
+    "median_body_gap": 170.72
+  }
+]

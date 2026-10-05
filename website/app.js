@@ -33,6 +33,7 @@ const comparison = document.querySelector('.process-comparison');
 const processButtons = [...document.querySelectorAll('[data-process-style]')];
 for (const button of processButtons) button.addEventListener('click', () => {
   comparison.dataset.style = button.dataset.processStyle;
+  requestAnimationFrame(centerProcessWords);
   for (const item of processButtons) item.setAttribute('aria-pressed', String(item === button));
 });
 const menu = document.querySelector('.nav-menu');
@@ -79,12 +80,29 @@ function centerGlyphs() {
     span.style.transform = `translate(${x}px, 0px)`;
   }
 }
-document.fonts.ready.then(centerGlyphs);
-document.fonts.addEventListener('loadingdone', centerGlyphs);
+// Process specimens use visible-ink centers; glyph-grid rows retain their baseline.
+function centerProcessWords() {
+  if (!comparison || !glyphMeasure) return;
+  for (const span of comparison.querySelectorAll('.context-word > span')) {
+    const style = getComputedStyle(span);
+    glyphMeasure.font = `${style.fontStyle} ${style.fontWeight} ${style.fontSize} ${style.fontFamily}`;
+    if ('letterSpacing' in glyphMeasure) glyphMeasure.letterSpacing = style.letterSpacing === 'normal' ? '0px' : style.letterSpacing;
+    const m = glyphMeasure.measureText(span.textContent);
+    const metrics = [m.actualBoundingBoxLeft, m.actualBoundingBoxRight, m.actualBoundingBoxAscent, m.actualBoundingBoxDescent, m.fontBoundingBoxAscent, m.fontBoundingBoxDescent];
+    if (!metrics.every(Number.isFinite)) continue;
+    const x = (m.width + m.actualBoundingBoxLeft - m.actualBoundingBoxRight) / 2;
+    const y = (m.actualBoundingBoxAscent - m.actualBoundingBoxDescent - m.fontBoundingBoxAscent + m.fontBoundingBoxDescent) / 2;
+    span.style.setProperty('--context-x', `${x}px`);
+    span.style.setProperty('--context-y', `${y}px`);
+  }
+  if ('letterSpacing' in glyphMeasure) glyphMeasure.letterSpacing = '0px';
+}
+document.fonts.ready.then(() => { centerGlyphs(); centerProcessWords(); });
+document.fonts.addEventListener('loadingdone', () => { centerGlyphs(); centerProcessWords(); });
 let glyphFrame;
 window.addEventListener('resize', () => {
   cancelAnimationFrame(glyphFrame);
-  glyphFrame = requestAnimationFrame(centerGlyphs);
+  glyphFrame = requestAnimationFrame(() => { centerGlyphs(); centerProcessWords(); });
 });
 
 // PhysioPrime's word entrance, scoped to the opening specimen only.
