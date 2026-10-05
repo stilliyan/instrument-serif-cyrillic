@@ -1,5 +1,16 @@
 # Lirena font history
 
+## Regular 0.510 / release v0.5.1 — 2026-10-05
+
+Measure and refine eleven Regular forms: Ц, Ш, Щ, б, ж, з, в, У, д, ч and я.
+Reconstruct the seven lowercase curves with smoother joins, native-weight
+stems and rounded counters; remove the double head serif in ч. Open the capital
+counters and refine tails and the У junction. Add 69 targeted Cyrillic pair
+corrections, with a 1,243-pair sampled clearance check. Original Latin, all other
+outlines/metrics and Italic remain unchanged. Restore shared website grid
+baselines. Actual proofs and measurements: specimens/priority-refinement.
+Compact package: eight files, with both original licenses.
+
 ## Regular 0.500 / release v0.5.0 — 2026-10-05
 
 Full Bulgarian alphabet review: refine 38 additional Regular outlines, including

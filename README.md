@@ -6,13 +6,16 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 [Try the typeface](https://spasovtype.com/) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
 
-## Full Regular refinement — release 0.5.0
+## Regular refinement — release 0.5.1
 
-All 62 Bulgarian letter codepoints are reviewed in both styles. Regular 0.500
+All 62 Bulgarian letter codepoints are reviewed in both styles. Regular 0.510
 refines the distinct Cyrillic capitals, lowercase and accents: 41 changed outlines
 since 0.300, including 20 capitals and 21 lowercase. Original Latin and shared
 Latin-derived Cyrillic forms are preserved. Italic remains the original 0.300.
-[Actual comparisons, change notes and validation](specimens/full-refinement/notes.md).
+Version 0.510 additionally refines **Ц, Ш, Щ, б, ж, з, в, У, д, ч and я**, adds 69 targeted
+Cyrillic pair adjustments and restores the website grid’s shared baselines.
+[Actual priority comparisons, measurements and validation](specimens/priority-refinement/notes.md).
+[Earlier full-alphabet refinement](specimens/full-refinement/notes.md).
 The download contains eight files: two TTFs, two WOFF2s, web CSS, README/credits
 and both original OFL licenses. Latin a and Cyrillic а are identical within each
 style: double-storey in Regular, single-storey in Italic.

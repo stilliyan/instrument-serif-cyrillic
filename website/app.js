@@ -66,7 +66,7 @@ copyCss.addEventListener('click', async () => {
   }, 3000);
 });
 
-// Center the visible glyph bounds rather than the shared font baseline.
+// Center each glyph horizontally while preserving the shared baseline of each row.
 const glyphMeasure = document.createElement('canvas').getContext('2d');
 function centerGlyphs() {
   if (!grid || !glyphMeasure) return;
@@ -74,10 +74,9 @@ function centerGlyphs() {
     const style = getComputedStyle(span);
     glyphMeasure.font = `${style.fontStyle} ${style.fontWeight} ${style.fontSize} ${style.fontFamily}`;
     const m = glyphMeasure.measureText(span.textContent);
-    if (!Number.isFinite(m.fontBoundingBoxAscent)) continue;
+    if (!Number.isFinite(m.actualBoundingBoxLeft) || !Number.isFinite(m.actualBoundingBoxRight)) continue;
     const x = (m.width + m.actualBoundingBoxLeft - m.actualBoundingBoxRight) / 2;
-    const y = (m.actualBoundingBoxAscent - m.actualBoundingBoxDescent - m.fontBoundingBoxAscent + m.fontBoundingBoxDescent) / 2;
-    span.style.transform = `translate(${x}px, ${y}px)`;
+    span.style.transform = `translate(${x}px, 0px)`;
   }
 }
 document.fonts.ready.then(centerGlyphs);
