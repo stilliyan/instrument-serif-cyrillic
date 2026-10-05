@@ -345,3 +345,37 @@ body{background:var(--bg);min-height:100svh}
 
 /* Align process words by visible ink within the comparison canvas. */
 .context-word>span{display:block;line-height:1;transform:translate(var(--context-x,0px),var(--context-y,0px))}
+
+/* Compact download actions share the navigation's arrow exchange. */
+.nav-download.download-action,.download-panel .download-button.download-action{
+ position:relative;display:inline-flex;align-items:center;justify-content:space-between;
+ flex-shrink:0;overflow:hidden;gap:0;border:1px solid var(--rule);
+ background:transparent;color:var(--fg);white-space:nowrap;max-width:100%;
+}
+.nav-download.download-action{width:144px;height:40px;padding:0 16px;font-size:13px;line-height:1.3}
+.download-panel .download-button.download-action{width:224px;height:48px;padding:0 24px}
+.download-action-copy{display:block;transform:translateX(0)}
+.download-action-leading,.download-action-trailing{display:flex;align-items:center;justify-content:center;width:12px;height:12px;flex-shrink:0}
+.download-action-leading{position:absolute;inset-inline-start:24px;transform:translateX(-40px);opacity:0}
+.nav-download.download-action>.download-action-leading{position:absolute;inset-inline-start:16px;width:12px;height:12px;padding:0;margin:0;overflow:visible;clip-path:none}
+.download-action-trailing{transform:translateX(0);opacity:1}
+.nav-download.download-action:focus-visible,.download-panel .download-button.download-action:focus-visible{background:#fff;color:var(--bg);border-color:#fff}
+.download-action:focus-visible .download-action-copy{transform:translateX(24px)}
+.download-action:focus-visible .download-action-leading{transform:translateX(0);opacity:1}
+.download-action:focus-visible .download-action-trailing{transform:translateX(40px);opacity:0}
+@media(hover:hover) and (pointer:fine){
+ .download-action{transition:background-color 160ms ease,color 160ms ease,border-color 160ms ease}
+ .download-action-copy,.download-action-leading,.download-action-trailing{transition:transform 200ms cubic-bezier(.23,1,.32,1),opacity 160ms ease}
+ .nav-download.download-action:hover,.download-panel .download-button.download-action:hover{background:#fff;color:var(--bg);border-color:#fff}
+ .download-action:hover .download-action-copy{transform:translateX(24px)}
+ .download-action:hover .download-action-leading{transform:translateX(0);opacity:1}
+ .download-action:hover .download-action-trailing{transform:translateX(40px);opacity:0}
+ .download-action:focus-visible,.download-action:focus-visible>*{transition:none}
+}
+@media(prefers-reduced-motion:reduce){
+ .download-action,.download-action>*{transition:none!important}
+ .download-action:is(:hover,:focus-visible) .download-action-copy{transform:none}
+ .download-action:is(:hover,:focus-visible) .download-action-leading{transform:translateX(-40px);opacity:0}
+ .download-action:is(:hover,:focus-visible) .download-action-trailing{transform:none;opacity:1}
+}
+@media(max-width:400px){.nav-download.download-action{width:128px}}
