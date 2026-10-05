@@ -1,3 +1,9 @@
+# v0.5.2 — Regular 0.520
+
+Refine б/в curves and spacing, native к, ц/щ tails, ш/щ cups and н/ъ heads.
+Add 173 Cyrillic-only pair corrections. Original Latin and Italic retained.
+Measured proof and validation in specimens/followup-refinement/.
+
 # Lirena font history
 
 ## Regular 0.510 / release v0.5.1 — 2026-10-05
