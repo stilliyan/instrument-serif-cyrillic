@@ -1,0 +1,26 @@
+{
+  "version": "0.530",
+  "changed_outlines": "цшщнъв",
+  "outline_count": 6,
+  "Latin_mappings_preserved": {
+    "Regular": 285,
+    "Italic": 285
+  },
+  "Italic_TTF_unchanged": true,
+  "all_other_outlines_and_metrics_unchanged": true,
+  "Latin_shaping_preserved": true,
+  "vertical_metrics_preserved": true,
+  "woff2_roundtrip": true,
+  "NFD_accents": true,
+  "cyrl_only_kern_added": true,
+  "pair_corrections": 127,
+  "approximate_proper_crossings": {
+    "ц": 0,
+    "ш": 0,
+    "щ": 0,
+    "н": 0,
+    "ъ": 0,
+    "в": 0
+  },
+  "Regular_sha256": "26410bfa47f60c5bc106bc65021716afc58b3b2a0e53495327dcb6d6c84e4836"
+}

@@ -6,9 +6,14 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 [Try the typeface](https://spasovtype.com/) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
 
-## Regular refinement — release 0.5.2
+## Regular refinement — release 0.5.3
 
-Regular 0.520 refines **б, в, к, ц, ш, щ, н and ъ** with continuous contours,
+Regular 0.530 redraws the lower ш/щ joins as one continuous outline,
+uses native h head curves for н/ъ, softens ц/щ terminals and retains the
+preferred earlier в shape with corrected spacing. Italic and original Latin
+are unchanged. [Actual reviewed comparisons and validation](specimens/soft-refinement/notes.md).
+
+Previous Regular 0.520 refines **б, в, к, ц, ш, щ, н and ъ** with continuous contours,
 clean native-style heads/cups, connected tails and 173 Cyrillic-only pair
 corrections. Original Latin and Italic are preserved.
 [Followup proofs and measured validation](specimens/followup-refinement/notes.md).

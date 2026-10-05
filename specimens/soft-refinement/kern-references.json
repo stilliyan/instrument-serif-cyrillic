@@ -1,0 +1,1018 @@
+[
+  {
+    "pair": "Ан",
+    "native_control": "Ah",
+    "existing_kern": 12,
+    "delta": -4,
+    "median_before": 187.60000000000002,
+    "median_reference": 181.57999999999998
+  },
+  {
+    "pair": "Кн",
+    "native_control": "Kh",
+    "existing_kern": 14,
+    "delta": -4,
+    "median_before": 261.3999999999999,
+    "median_reference": 250.20999999999998
+  },
+  {
+    "pair": "Мн",
+    "native_control": "Mh",
+    "existing_kern": -16,
+    "delta": 17,
+    "median_before": 148.15999999999997,
+    "median_reference": 165.64999999999998
+  },
+  {
+    "pair": "Нн",
+    "native_control": "Hh",
+    "existing_kern": -12,
+    "delta": 12,
+    "median_before": 151.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "Он",
+    "native_control": "Oh",
+    "existing_kern": -8,
+    "delta": 11,
+    "median_before": 112.32999999999998,
+    "median_reference": 122.92000000000002
+  },
+  {
+    "pair": "Сн",
+    "native_control": "Ch",
+    "existing_kern": -12,
+    "delta": 14,
+    "median_before": 415.61999999999995,
+    "median_reference": 430.1
+  },
+  {
+    "pair": "Тн",
+    "native_control": "Th",
+    "existing_kern": -40,
+    "delta": 40,
+    "median_before": 229.0,
+    "median_reference": 269.0
+  },
+  {
+    "pair": "Тц",
+    "native_control": "Tu",
+    "existing_kern": -40,
+    "delta": 4,
+    "median_before": 225.0,
+    "median_reference": 229.0
+  },
+  {
+    "pair": "Тш",
+    "native_control": "Tu",
+    "existing_kern": -40,
+    "delta": 4,
+    "median_before": 225.0,
+    "median_reference": 229.0
+  },
+  {
+    "pair": "Тщ",
+    "native_control": "Tu",
+    "existing_kern": -40,
+    "delta": 4,
+    "median_before": 225.0,
+    "median_reference": 229.0
+  },
+  {
+    "pair": "Хн",
+    "native_control": "Xh",
+    "existing_kern": -25,
+    "delta": 6,
+    "median_before": 235.7,
+    "median_reference": 241.63
+  },
+  {
+    "pair": "ен",
+    "native_control": "eh",
+    "existing_kern": 0,
+    "delta": 5,
+    "median_before": 108.02999999999997,
+    "median_reference": 113.20999999999998
+  },
+  {
+    "pair": "кн",
+    "native_control": "kh",
+    "existing_kern": -6,
+    "delta": -4,
+    "median_before": 212.64,
+    "median_reference": 206.64
+  },
+  {
+    "pair": "нА",
+    "native_control": "hA",
+    "existing_kern": 21,
+    "delta": -12,
+    "median_before": 215.10000000000002,
+    "median_reference": 186.10000000000002
+  },
+  {
+    "pair": "нВ",
+    "native_control": "hB",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 175.0,
+    "median_reference": 167.0
+  },
+  {
+    "pair": "нЕ",
+    "native_control": "hE",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 175.0,
+    "median_reference": 167.0
+  },
+  {
+    "pair": "нК",
+    "native_control": "hK",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 175.0,
+    "median_reference": 167.0
+  },
+  {
+    "pair": "нМ",
+    "native_control": "hM",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 179.22000000000003,
+    "median_reference": 171.22000000000003
+  },
+  {
+    "pair": "нН",
+    "native_control": "hH",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 175.0,
+    "median_reference": 167.0
+  },
+  {
+    "pair": "нО",
+    "native_control": "hO",
+    "existing_kern": 0,
+    "delta": -4,
+    "median_before": 134.91999999999996,
+    "median_reference": 130.86
+  },
+  {
+    "pair": "нР",
+    "native_control": "hP",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 175.0,
+    "median_reference": 167.0
+  },
+  {
+    "pair": "нС",
+    "native_control": "hC",
+    "existing_kern": 0,
+    "delta": -4,
+    "median_before": 134.03999999999996,
+    "median_reference": 129.60000000000002
+  },
+  {
+    "pair": "нТ",
+    "native_control": "hT",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 281.0,
+    "median_reference": 273.0
+  },
+  {
+    "pair": "на",
+    "native_control": "ha",
+    "existing_kern": 0,
+    "delta": -6,
+    "median_before": 147.26999999999998,
+    "median_reference": 141.00000000000006
+  },
+  {
+    "pair": "нб",
+    "native_control": "ho",
+    "existing_kern": 9,
+    "delta": -8,
+    "median_before": 122.74000000000001,
+    "median_reference": 115.20999999999998
+  },
+  {
+    "pair": "нв",
+    "native_control": "ho",
+    "existing_kern": 10,
+    "delta": -8,
+    "median_before": 123.41000000000003,
+    "median_reference": 115.20999999999998
+  },
+  {
+    "pair": "не",
+    "native_control": "he",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 121.45999999999998,
+    "median_reference": 113.45999999999998
+  },
+  {
+    "pair": "ни",
+    "native_control": "hu",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 156.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "нк",
+    "native_control": "hk",
+    "existing_kern": 0,
+    "delta": -14,
+    "median_before": 160.0,
+    "median_reference": 146.0
+  },
+  {
+    "pair": "нн",
+    "native_control": "hh",
+    "existing_kern": 0,
+    "delta": -14,
+    "median_before": 160.0,
+    "median_reference": 146.0
+  },
+  {
+    "pair": "но",
+    "native_control": "ho",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 123.20999999999998,
+    "median_reference": 115.20999999999998
+  },
+  {
+    "pair": "нп",
+    "native_control": "hn",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 160.0,
+    "median_reference": 152.0
+  },
+  {
+    "pair": "нр",
+    "native_control": "hp",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 159.0,
+    "median_reference": 151.0
+  },
+  {
+    "pair": "нс",
+    "native_control": "hc",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 121.19,
+    "median_reference": 113.19
+  },
+  {
+    "pair": "нт",
+    "native_control": "hm",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 160.0,
+    "median_reference": 152.0
+  },
+  {
+    "pair": "ну",
+    "native_control": "hy",
+    "existing_kern": 0,
+    "delta": -18,
+    "median_before": 181.75,
+    "median_reference": 163.75
+  },
+  {
+    "pair": "нх",
+    "native_control": "hx",
+    "existing_kern": 11,
+    "delta": -12,
+    "median_before": 205.74,
+    "median_reference": 178.74
+  },
+  {
+    "pair": "нц",
+    "native_control": "hu",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 156.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "нш",
+    "native_control": "hu",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 156.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "нщ",
+    "native_control": "hu",
+    "existing_kern": 0,
+    "delta": -8,
+    "median_before": 156.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "пн",
+    "native_control": "nh",
+    "existing_kern": 0,
+    "delta": -6,
+    "median_before": 152.0,
+    "median_reference": 146.0
+  },
+  {
+    "pair": "тн",
+    "native_control": "mh",
+    "existing_kern": 0,
+    "delta": -6,
+    "median_before": 152.0,
+    "median_reference": 146.0
+  },
+  {
+    "pair": "ун",
+    "native_control": "yh",
+    "existing_kern": 1,
+    "delta": -9,
+    "median_before": 175.01999999999998,
+    "median_reference": 166.01999999999998
+  },
+  {
+    "pair": "хн",
+    "native_control": "xh",
+    "existing_kern": 0,
+    "delta": -6,
+    "median_before": 184.77999999999997,
+    "median_reference": 176.77999999999997
+  },
+  {
+    "pair": "цВ",
+    "native_control": "uB",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 154.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "цЕ",
+    "native_control": "uE",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 154.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "цК",
+    "native_control": "uK",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 154.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "цМ",
+    "native_control": "uM",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 158.22000000000003,
+    "median_reference": 167.22000000000003
+  },
+  {
+    "pair": "цН",
+    "native_control": "uH",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 154.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "цО",
+    "native_control": "uO",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 113.92000000000002,
+    "median_reference": 122.92000000000002
+  },
+  {
+    "pair": "цР",
+    "native_control": "uP",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 154.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "цС",
+    "native_control": "uC",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 113.04000000000002,
+    "median_reference": 122.04000000000002
+  },
+  {
+    "pair": "цТ",
+    "native_control": "uT",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 260.0,
+    "median_reference": 269.0
+  },
+  {
+    "pair": "цХ",
+    "native_control": "uX",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 263.54999999999995,
+    "median_reference": 272.54999999999995
+  },
+  {
+    "pair": "ца",
+    "native_control": "ua",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 126.26999999999998,
+    "median_reference": 135.26999999999998
+  },
+  {
+    "pair": "цб",
+    "native_control": "uo",
+    "existing_kern": -6,
+    "delta": 9,
+    "median_before": 101.74000000000001,
+    "median_reference": 111.20999999999998
+  },
+  {
+    "pair": "цв",
+    "native_control": "uo",
+    "existing_kern": -5,
+    "delta": 9,
+    "median_before": 102.41000000000003,
+    "median_reference": 111.20999999999998
+  },
+  {
+    "pair": "це",
+    "native_control": "ue",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 100.45999999999998,
+    "median_reference": 109.45999999999998
+  },
+  {
+    "pair": "ци",
+    "native_control": "uu",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 135.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "цк",
+    "native_control": "uk",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 139.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "цн",
+    "native_control": "uh",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 139.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "цо",
+    "native_control": "uo",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 102.20999999999998,
+    "median_reference": 111.20999999999998
+  },
+  {
+    "pair": "цп",
+    "native_control": "un",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 139.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "цр",
+    "native_control": "up",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 138.0,
+    "median_reference": 147.0
+  },
+  {
+    "pair": "цс",
+    "native_control": "uc",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 100.19,
+    "median_reference": 109.19
+  },
+  {
+    "pair": "цт",
+    "native_control": "um",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 139.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "цу",
+    "native_control": "uy",
+    "existing_kern": -13,
+    "delta": 7,
+    "median_before": 162.75,
+    "median_reference": 169.75
+  },
+  {
+    "pair": "цх",
+    "native_control": "ux",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 173.74,
+    "median_reference": 182.74
+  },
+  {
+    "pair": "цц",
+    "native_control": "uu",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 135.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "цш",
+    "native_control": "uu",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 135.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "цщ",
+    "native_control": "uu",
+    "existing_kern": -15,
+    "delta": 9,
+    "median_before": 135.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "шА",
+    "native_control": "uA",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 163.10000000000002,
+    "median_reference": 182.10000000000002
+  },
+  {
+    "pair": "шВ",
+    "native_control": "uB",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 144.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "шЕ",
+    "native_control": "uE",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 144.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "шК",
+    "native_control": "uK",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 144.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "шМ",
+    "native_control": "uM",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 148.22000000000003,
+    "median_reference": 167.22000000000003
+  },
+  {
+    "pair": "шН",
+    "native_control": "uH",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 144.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "шО",
+    "native_control": "uO",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 103.91999999999996,
+    "median_reference": 122.92000000000002
+  },
+  {
+    "pair": "шР",
+    "native_control": "uP",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 144.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "шС",
+    "native_control": "uC",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 103.03999999999996,
+    "median_reference": 122.04000000000002
+  },
+  {
+    "pair": "шТ",
+    "native_control": "uT",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 250.0,
+    "median_reference": 269.0
+  },
+  {
+    "pair": "шХ",
+    "native_control": "uX",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 253.54999999999995,
+    "median_reference": 272.54999999999995
+  },
+  {
+    "pair": "ша",
+    "native_control": "ua",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 116.26999999999998,
+    "median_reference": 135.26999999999998
+  },
+  {
+    "pair": "шб",
+    "native_control": "uo",
+    "existing_kern": 9,
+    "delta": 19,
+    "median_before": 91.74000000000001,
+    "median_reference": 111.20999999999998
+  },
+  {
+    "pair": "шв",
+    "native_control": "uo",
+    "existing_kern": 10,
+    "delta": 19,
+    "median_before": 92.40999999999997,
+    "median_reference": 111.20999999999998
+  },
+  {
+    "pair": "ше",
+    "native_control": "ue",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 90.46000000000004,
+    "median_reference": 109.45999999999998
+  },
+  {
+    "pair": "ши",
+    "native_control": "uu",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 125.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "шк",
+    "native_control": "uk",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 129.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "шн",
+    "native_control": "uh",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 129.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "шо",
+    "native_control": "uo",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 92.21000000000004,
+    "median_reference": 111.20999999999998
+  },
+  {
+    "pair": "шп",
+    "native_control": "un",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 129.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "шр",
+    "native_control": "up",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 128.0,
+    "median_reference": 147.0
+  },
+  {
+    "pair": "шс",
+    "native_control": "uc",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 90.19000000000005,
+    "median_reference": 109.19
+  },
+  {
+    "pair": "шт",
+    "native_control": "um",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 129.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "шу",
+    "native_control": "uy",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 150.75,
+    "median_reference": 169.75
+  },
+  {
+    "pair": "шх",
+    "native_control": "ux",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 163.74,
+    "median_reference": 182.74
+  },
+  {
+    "pair": "шц",
+    "native_control": "uu",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 125.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "шш",
+    "native_control": "uu",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 125.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "шщ",
+    "native_control": "uu",
+    "existing_kern": 0,
+    "delta": 19,
+    "median_before": 125.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "щА",
+    "native_control": "uA",
+    "existing_kern": -12,
+    "delta": 6,
+    "median_before": 176.10000000000002,
+    "median_reference": 182.10000000000002
+  },
+  {
+    "pair": "щВ",
+    "native_control": "uB",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 150.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "щЕ",
+    "native_control": "uE",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 150.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "щК",
+    "native_control": "uK",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 150.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "щМ",
+    "native_control": "uM",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 154.22000000000003,
+    "median_reference": 167.22000000000003
+  },
+  {
+    "pair": "щН",
+    "native_control": "uH",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 150.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "щО",
+    "native_control": "uO",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 109.91999999999996,
+    "median_reference": 122.92000000000002
+  },
+  {
+    "pair": "щР",
+    "native_control": "uP",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 150.0,
+    "median_reference": 163.0
+  },
+  {
+    "pair": "щС",
+    "native_control": "uC",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 109.03999999999996,
+    "median_reference": 122.04000000000002
+  },
+  {
+    "pair": "щТ",
+    "native_control": "uT",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 256.0,
+    "median_reference": 269.0
+  },
+  {
+    "pair": "щХ",
+    "native_control": "uX",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 259.54999999999995,
+    "median_reference": 272.54999999999995
+  },
+  {
+    "pair": "ща",
+    "native_control": "ua",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 122.26999999999998,
+    "median_reference": 135.26999999999998
+  },
+  {
+    "pair": "щб",
+    "native_control": "uo",
+    "existing_kern": -10,
+    "delta": 13,
+    "median_before": 97.74000000000001,
+    "median_reference": 111.20999999999998
+  },
+  {
+    "pair": "щв",
+    "native_control": "uo",
+    "existing_kern": -9,
+    "delta": 13,
+    "median_before": 98.40999999999997,
+    "median_reference": 111.20999999999998
+  },
+  {
+    "pair": "ще",
+    "native_control": "ue",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 96.46000000000004,
+    "median_reference": 109.45999999999998
+  },
+  {
+    "pair": "щи",
+    "native_control": "uu",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 131.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "щк",
+    "native_control": "uk",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 135.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "щн",
+    "native_control": "uh",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 135.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "що",
+    "native_control": "uo",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 98.21000000000004,
+    "median_reference": 111.20999999999998
+  },
+  {
+    "pair": "щп",
+    "native_control": "un",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 135.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "щр",
+    "native_control": "up",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 134.0,
+    "median_reference": 147.0
+  },
+  {
+    "pair": "щс",
+    "native_control": "uc",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 96.19000000000005,
+    "median_reference": 109.19
+  },
+  {
+    "pair": "щт",
+    "native_control": "um",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 135.0,
+    "median_reference": 148.0
+  },
+  {
+    "pair": "щу",
+    "native_control": "uy",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 156.75,
+    "median_reference": 169.75
+  },
+  {
+    "pair": "щх",
+    "native_control": "ux",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 169.74,
+    "median_reference": 182.74
+  },
+  {
+    "pair": "щц",
+    "native_control": "uu",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 131.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "щш",
+    "native_control": "uu",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 131.0,
+    "median_reference": 144.0
+  },
+  {
+    "pair": "щщ",
+    "native_control": "uu",
+    "existing_kern": -19,
+    "delta": 13,
+    "median_before": 131.0,
+    "median_reference": 144.0
+  }
+]

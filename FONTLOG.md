@@ -1,3 +1,9 @@
+# v0.5.3 — Regular 0.530
+
+Redraw ш/щ lower joins without duplicated u terminals. Native h heads for н/ъ;
+softened ц/щ terminals and preserved earlier в form. Add 127 Cyrillic-only
+followup pair corrections. Original Latin and Italic retained.
+
 # v0.5.2 — Regular 0.520
 
 Refine б/в curves and spacing, native к, ц/щ tails, ш/щ cups and н/ъ heads.
