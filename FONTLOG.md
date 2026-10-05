@@ -1,3 +1,9 @@
+# v0.5.4 — Regular 0.540
+
+Clean and round the lower ф bowl/stem joins; remove inherited footer/bowl tabs.
+Draw ц/щ exits and curved descenders as one continuous section. Preserve all
+other letters, metrics, kerning, original Latin and original Italic.
+
 # v0.5.3 — Regular 0.530
 
 Redraw ш/щ lower joins without duplicated u terminals. Native h heads for н/ъ;
