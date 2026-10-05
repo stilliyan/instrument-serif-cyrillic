@@ -379,3 +379,6 @@ body{background:var(--bg);min-height:100svh}
  .download-action:is(:hover,:focus-visible) .download-action-trailing{transform:none;opacity:1}
 }
 @media(max-width:400px){.nav-download.download-action{width:128px}}
+
+/* Separate the license line from the source credits. */
+#download .license-links{margin-top:64px}
