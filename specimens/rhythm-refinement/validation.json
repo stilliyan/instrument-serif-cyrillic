@@ -1,0 +1,31 @@
+{
+  "version": "0.560",
+  "changed_outlines": "хьцщ",
+  "outline_count": 4,
+  "Latin_mappings_preserved": {
+    "Regular": 285,
+    "Italic": 285
+  },
+  "Italic_TTF_unchanged": true,
+  "all_other_outlines_and_metrics_unchanged": true,
+  "Latin_shaping_preserved": true,
+  "vertical_metrics_preserved": true,
+  "woff2_roundtrip": true,
+  "NFD_accents": true,
+  "original_GPOS_lookups_preserved": true,
+  "metric_changes": [
+    "х",
+    "ь"
+  ],
+  "approved_hard_sign_and_phi_retained": true,
+  "ha_optical_top": 480,
+  "cyrl_only_pair_corrections": 19,
+  "approximate_proper_crossings": {
+    "х": 0,
+    "ь": 0,
+    "ц": 0,
+    "щ": 0
+  },
+  "Regular_sha256": "871c35f95bf1c19e84b18dec037e438c0cf315cfef8b10a0c094a917d3e4a83b",
+  "source_rebuild_matches_outlines_metrics_and_layout": true
+}

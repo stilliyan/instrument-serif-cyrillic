@@ -1,0 +1,263 @@
+{
+  "x_is_exact_native_outline": true,
+  "glyphs": [
+    {
+      "font": "Current Lirena Regular 0.551",
+      "character": "ъ",
+      "glyph": "uni044A.lyric",
+      "advance": 451,
+      "stored_lsb": 15,
+      "bounds": [
+        15,
+        -9,
+        411,
+        510
+      ],
+      "optical_left": 15,
+      "optical_right": 40,
+      "ink_area": 67770.71,
+      "horizontal_runs_y255": [
+        [
+          74.0,
+          142.0,
+          68.0
+        ],
+        [
+          315.14,
+          387.63,
+          72.49
+        ]
+      ],
+      "horizontal_runs_y504": [
+        [
+          113.81,
+          140.35,
+          26.54
+        ]
+      ],
+      "horizontal_runs_y4": [
+        [
+          16.89,
+          286.08,
+          269.18
+        ]
+      ],
+      "vertical_runs_center": [
+        [
+          -8.99,
+          16.02,
+          25.01
+        ],
+        [
+          324.98,
+          349.99,
+          25.01
+        ]
+      ]
+    },
+    {
+      "font": "Current Lirena Regular 0.551",
+      "character": "ь",
+      "glyph": "uni044C.lyric",
+      "advance": 426,
+      "stored_lsb": 3,
+      "bounds": [
+        4.875,
+        -17,
+        402,
+        522
+      ],
+      "optical_left": 4.88,
+      "optical_right": 24,
+      "ink_area": 62376.92,
+      "horizontal_runs_y255": [
+        [
+          83.0,
+          151.0,
+          68.0
+        ],
+        [
+          286.95,
+          373.08,
+          86.13
+        ]
+      ],
+      "horizontal_runs_y504": [
+        [
+          97.83,
+          151.0,
+          53.17
+        ]
+      ],
+      "horizontal_runs_y4": [
+        [
+          134.4,
+          210.91,
+          76.52
+        ],
+        [
+          269.84,
+          321.95,
+          52.1
+        ]
+      ],
+      "vertical_runs_center": [
+        [
+          -16.22,
+          6.75,
+          22.97
+        ],
+        [
+          275.63,
+          296.39,
+          20.77
+        ]
+      ]
+    },
+    {
+      "font": "Current Lirena Regular 0.551",
+      "character": "х",
+      "glyph": "uni0445.lyric",
+      "advance": 385,
+      "stored_lsb": -8,
+      "bounds": [
+        -8,
+        0,
+        389,
+        510
+      ],
+      "optical_left": -8,
+      "optical_right": -4,
+      "ink_area": 63181.5,
+      "horizontal_runs_y255": [
+        [
+          157.41,
+          229.54,
+          72.13
+        ]
+      ],
+      "horizontal_runs_y504": [
+        [
+          -1.29,
+          173.29,
+          174.58
+        ],
+        [
+          230.71,
+          385.04,
+          154.33
+        ]
+      ],
+      "horizontal_runs_y4": [
+        [
+          -5.79,
+          146.11,
+          151.9
+        ],
+        [
+          214.89,
+          387.11,
+          172.21
+        ]
+      ],
+      "vertical_runs_center": [
+        [
+          190.13,
+          333.56,
+          143.43
+        ]
+      ]
+    },
+    {
+      "font": "Current Lirena Regular 0.551",
+      "character": "н",
+      "glyph": "uni043D.lyric",
+      "advance": 470,
+      "stored_lsb": 15,
+      "bounds": [
+        15,
+        0,
+        456,
+        510
+      ],
+      "optical_left": 15,
+      "optical_right": 14,
+      "ink_area": 83193.5,
+      "horizontal_runs_y255": [
+        [
+          74.0,
+          384.0,
+          310.0
+        ]
+      ],
+      "horizontal_runs_y504": [
+        [
+          113.81,
+          140.35,
+          26.54
+        ],
+        [
+          355.81,
+          382.35,
+          26.54
+        ]
+      ],
+      "horizontal_runs_y4": [
+        [
+          16.89,
+          212.11,
+          195.22
+        ],
+        [
+          258.89,
+          454.11,
+          195.22
+        ]
+      ],
+      "vertical_runs_center": [
+        [
+          250.0,
+          275.0,
+          25.0
+        ]
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "text": "ъх",
+      "advance": 836.0,
+      "kern_total": 0.0
+    },
+    {
+      "text": "хн",
+      "advance": 849.0,
+      "kern_total": -6.0
+    },
+    {
+      "text": "хъ",
+      "advance": 836.0,
+      "kern_total": 0.0
+    },
+    {
+      "text": "ьх",
+      "advance": 811.0,
+      "kern_total": 0.0
+    },
+    {
+      "text": "Вдъхновение",
+      "advance": 4685.0,
+      "kern_total": -9.0
+    },
+    {
+      "text": "xh",
+      "advance": 847.0,
+      "kern_total": -8.0
+    },
+    {
+      "text": "bx",
+      "advance": 814.0,
+      "kern_total": -14.0
+    }
+  ]
+}

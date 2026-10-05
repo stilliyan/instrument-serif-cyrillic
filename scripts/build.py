@@ -12,6 +12,7 @@ from refine_followup import refine_followup
 from refine_soft import refine_soft
 from refine_junctions import refine_junctions
 from refine_roundness import refine_roundness
+from refine_rhythm import refine_rhythm
 path = SCRIPTS.parent / 'build/Lirena-Regular.ttf'
 font = TTFont(path, recalcTimestamp=False)
 refine_regular(font)
@@ -21,7 +22,8 @@ refine_followup(font)
 refine_soft(font)
 refine_junctions(font)
 refine_roundness(font)
+refine_rhythm(font)
 font.save(path)
 font.flavor = 'woff2'
 font.save(path.with_suffix('.woff2'))
-print('Built refined Regular 0.551 and original Italic 0.300 in build/.')
+print('Built refined Regular 0.560 and original Italic 0.300 in build/.')

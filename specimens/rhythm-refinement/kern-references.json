@@ -1,0 +1,52 @@
+[
+  {
+    "pair": "Аь",
+    "reference": "Аъ",
+    "delta": 11
+  },
+  {
+    "pair": "Гь",
+    "reference": "Гъ",
+    "delta": 90
+  },
+  {
+    "pair": "Дь",
+    "reference": "Дъ",
+    "delta": -25
+  },
+  {
+    "pair": "Кь",
+    "reference": "Къ",
+    "delta": 39
+  },
+  {
+    "pair": "Ль",
+    "reference": "Лъ",
+    "delta": -13
+  },
+  {
+    "pair": "Ть",
+    "reference": "Тъ",
+    "delta": 90
+  },
+  {
+    "pair": "ль",
+    "reference": "лъ",
+    "delta": -13
+  },
+  {
+    "pair": "мь",
+    "reference": "мъ",
+    "delta": -17
+  },
+  {
+    "pair": "уь",
+    "reference": "уъ",
+    "delta": 1
+  },
+  {
+    "pair": "ъь",
+    "reference": "ъъ",
+    "delta": -31
+  }
+]

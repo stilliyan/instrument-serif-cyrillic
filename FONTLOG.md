@@ -1,3 +1,11 @@
+# v0.5.6 — Regular 0.560
+
+Lower Cyrillic х from 510 to 480 units, preserve terminal thickness and refine
+its optical width/spacing. Match ь to the approved ъ oval, counter and head with
+a distinct curled lower return. Give ц/щ continuous 20-unit round terminal caps.
+Adjust only х/ь advances and 19 Cyrillic pairs. Original Latin x, Italic, other
+outlines, vertical metrics and existing layout lookups remain unchanged.
+
 # v0.5.5 — Regular 0.551
 
 Redraw the complete ъ bowl and counter; use the centered native l footer for ф.

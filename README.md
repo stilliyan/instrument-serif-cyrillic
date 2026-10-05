@@ -6,7 +6,16 @@ Bulgarian Cyrillic adaptation of Instrument Serif.
 
 [Try the typeface](https://spasovtype.com/) · [Portfolio](https://www.stiliyanspasov.com/) · [Download the release](https://github.com/stilliyan/lirena/releases/latest)
 
-## Regular refinement — release 0.5.5
+## Regular refinement — release 0.5.6
+
+Regular 0.560 gives Cyrillic х a lower optical height and more consistent spacing.
+The soft sign ь shares the approved hard-sign oval, counter and head, with its own
+curled lower return. The ц/щ descenders gain fully rounded tips. Original Latin,
+Italic and all other letters remain unchanged; only х/ь advances and 19 targeted
+Cyrillic pairs change.
+[Actual before/after comparisons and validation](specimens/rhythm-refinement/notes.md).
+
+## Previous Regular refinement — release 0.5.5
 
 Regular 0.551 redraws the entire rounded bowl and counter of ъ, with smooth
 returns to the stem. The lower ф serif uses the centered native l foot. The ц/щ exits
