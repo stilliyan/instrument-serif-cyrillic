@@ -1,8 +1,8 @@
 @font-face{font-family:PixelSans;src:url('fonts/BratPixelSans-v5-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 /* Original user-provided font: personal-use local preview only. See fonts/Darkcastle-Usage.txt. */
 
-@font-face{font-family:"Lirena";src:url('fonts/Lirena-Regular.woff2?v=0.5.8-final') format('woff2');font-weight:400;font-style:normal;font-display:swap}
-@font-face{font-family:"Lirena";src:url('fonts/Lirena-Italic.woff2') format('woff2');font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:"Lirena";src:url('fonts/Lirena-Regular.woff2?v=1.0.0') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Lirena";src:url('fonts/Lirena-Italic.woff2?v=1.0.0') format('woff2');font-weight:400;font-style:italic;font-display:swap}
 @font-face{font-family:Brat;src:url('fonts/BratSuisseText-v2-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:Brat;src:url('fonts/BratSuisseText-v2-Medium.woff2') format('woff2');font-weight:500;font-style:normal;font-display:swap}
 :root{--bg:#101010;--fg:#f0eee8;--muted:#aaa9a3;--rule:#393938;--pad:32px;--rail:220px;--body:16px;--small:13px;--display:clamp(92px,16.4vw,260px);--serif:"Lirena",Georgia,serif;--sans:Brat,Arial,sans-serif;color-scheme:dark;font-family:var(--sans);background:var(--bg);color:var(--fg);font-size:var(--body);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}

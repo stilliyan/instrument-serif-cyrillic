@@ -27,7 +27,15 @@ refine_roundness(font)
 refine_rhythm(font)
 refine_smoothness(font)
 refine_terminals(font)
+from finalize_release import finalize_release
+finalize_release(font, 'Regular')
 font.save(path)
 font.flavor = 'woff2'
 font.save(path.with_suffix('.woff2'))
-print('Built refined Regular 0.580 and original Italic 0.300 in build/.')
+italic_path = SCRIPTS.parent / 'build/Lirena-Italic.ttf'
+italic = TTFont(italic_path, recalcTimestamp=False)
+finalize_release(italic, 'Italic')
+italic.save(italic_path)
+italic.flavor = 'woff2'
+italic.save(italic_path.with_suffix('.woff2'))
+print('Built Lirena 1.000 Regular and Italic in build/.')
